@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pipeline Visualizer | Data Mining & ML Telemetry</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+</head>
+<body>
+    <div class="ambient-glow glow-1"></div>
+    <div class="ambient-glow glow-2"></div>
+
+    <!-- Navigation -->
+    <header class="navbar">
+        <div class="nav-brand">
+            <div class="logo-icon">EP</div>
+            <a href="/dashboard" style="color:var(--text-primary);">PredictiveTalent<span style="color:var(--primary);">AI</span></a>
+        </div>
+        <div class="nav-links">
+            <a href="/dashboard" class="btn btn-secondary btn-sm">← Back to Dashboard</a>
+            <a href="/admin" class="btn btn-secondary btn-sm">Dataset Explorer</a>
+            <button id="export-pipeline-btn" class="btn btn-outline btn-sm">
+                💾 Export Pipeline JSON
+            </button>
+            <button id="theme-toggle-btn" class="btn-icon" aria-label="Toggle Theme">☀️</button>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Header Banner -->
+        <div style="text-align:center; margin-bottom:2.5rem;">
+            <span class="badge badge-primary" style="margin-bottom:0.75rem;">
+                ✦ End-to-End Data Mining Architecture
+            </span>
+            <h1 style="font-size:2.4rem; margin-bottom:0.5rem;">Data Mining Pipeline Visualizer</h1>
+            <p style="color:var(--text-secondary); max-width:760px; margin:0 auto; font-size:1rem;">
+                Step-by-step interactive inspection of how raw employee records are cleaned, balanced with SMOTE, modeled via ensemble learning, and evaluated against the Bias-Variance tradeoff.
+            </p>
+        </div>
+
+        <!-- 8-Step Interactive Progress Stepper -->
+        <div class="pipeline-stepper">
+            <div class="step-item active" data-step="1">
+                <div class="step-circle">1</div>
+                <div class="step-label">Raw Ingestion</div>
+            </div>
+            <div class="step-item" data-step="2">
+                <div class="step-circle">2</div>
+                <div class="step-label">Preprocessing</div>
+            </div>
+            <div class="step-item" data-step="3">
+                <div class="step-circle">3</div>
+                <div class="step-label">Feature Eng.</div>
+            </div>
+            <div class="step-item" data-step="4">
+                <div class="step-circle">4</div>
+                <div class="step-label">SMOTE Balancing</div>
+            </div>
+            <div class="step-item" data-step="5">
+                <div class="step-circle">5</div>
+                <div class="step-label">Multi-Model Training</div>
+            </div>
+            <div class="step-item" data-step="6">
+                <div class="step-circle">6</div>
+                <div class="step-label">Evaluation & CM</div>
+            </div>
+            <div class="step-item" data-step="7">
+                <div class="step-circle">7</div>
+                <div class="step-label">Bias-Variance</div>
+            </div>
+            <div class="step-item" data-step="8">
+                <div class="step-circle">8</div>
+                <div class="step-label">Inference & XAI</div>
+            </div>
+        </div>
+
+        <!-- Step Content Display -->
+        <div id="pipeline-step-content">
+            <!-- Rendered by pipeline.js -->
+            <div class="skeleton" style="height:350px; margin-bottom:1.5rem;"></div>
+        </div>
+
+        <!-- Navigation Buttons -->
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:3rem;">
+            <button id="prev-step-btn" class="btn btn-secondary" disabled>
+                ← Previous Stage
+            </button>
+            <div style="font-size:0.85rem; color:var(--text-muted);">
+                Click any step number above to jump directly.
+            </div>
+            <button id="next-step-btn" class="btn btn-primary">
+                Next Stage →
+            </button>
+        </div>
+
+        <!-- Live Pipeline Hyperparameter Re-Training Drawer / Card -->
+        <div class="card" style="margin-bottom:3rem; border-color:var(--primary);">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem; margin-bottom:1rem; border-bottom:1px solid var(--border-color); padding-bottom:0.75rem;">
+                <div>
+                    <h3 style="font-size:1.15rem;">Live Hyperparameter Re-training Sandbox</h3>
+                    <p style="font-size:0.85rem; color:var(--text-secondary);">
+                        Demonstrate how altering test split ratio, ensemble tree depth, or disabling SMOTE impacts model generalization in real-time.
+                    </p>
+                </div>
+                <span class="badge badge-success">Interactive Experimentation</span>
+            </div>
+
+            <form id="retrain-form" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap:1.25rem; align-items:end;">
+                <div class="form-group" style="margin-bottom:0;">
+                    <label class="form-label" for="retrain-test-size">Test Split Fraction (0.1 - 0.4)</label>
+                    <input type="number" id="retrain-test-size" class="form-control" min="0.10" max="0.40" step="0.05" value="0.20">
+                </div>
+
+                <div class="form-group" style="margin-bottom:0;">
+                    <label class="form-label" for="retrain-n-estimators">Number of Trees (Ensemble)</label>
+                    <input type="number" id="retrain-n-estimators" class="form-control" min="20" max="250" step="10" value="100">
+                </div>
+
+                <div class="form-group" style="margin-bottom:0; display:flex; align-items:center; gap:0.6rem; padding-bottom:0.5rem;">
+                    <input type="checkbox" id="retrain-apply-smote" checked style="width:18px; height:18px; accent-color:var(--primary); cursor:pointer;">
+                    <label for="retrain-apply-smote" style="font-size:0.9rem; font-weight:600; cursor:pointer;">Apply SMOTE Balancing</label>
+                </div>
+
+                <div>
+                    <button type="submit" id="retrain-submit-btn" class="btn btn-primary" style="width:100%;">
+                        ⚡ Execute Live Retrain
+                    </button>
+                </div>
+            </form>
+        </div>
+    </main>
+
+    <footer style="border-top:1px solid var(--border-color); padding:1.5rem 2rem; text-align:center; font-size:0.85rem; color:var(--text-muted);">
+        Employee Performance & Prediction Pipeline &bull; Academic Data Mining Project &bull; Verified on Python 3 + Scikit-Learn
+    </footer>
+
+    <script src="/static/js/common.js"></script>
+    <script src="/static/js/pipeline.js"></script>
+</body>
+</html>
+

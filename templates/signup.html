@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Account | Employee Prediction Pipeline</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+</head>
+<body style="display:flex; flex-direction:column; min-height:100vh;">
+    <div class="ambient-glow glow-1"></div>
+    <div class="ambient-glow glow-2"></div>
+
+    <header class="navbar">
+        <div class="nav-brand">
+            <div class="logo-icon">EP</div>
+            <a href="/" style="color:var(--text-primary);">PredictiveTalent<span style="color:var(--primary);">AI</span></a>
+        </div>
+        <div class="nav-links">
+            <a href="/signin" class="btn btn-secondary btn-sm">Sign In</a>
+            <button id="theme-toggle-btn" class="btn-icon" aria-label="Toggle Theme">☀️</button>
+        </div>
+    </header>
+
+    <main class="container" style="flex:1; display:flex; align-items:center; justify-content:center; padding:2.5rem 1rem;">
+        <div class="card" style="width:100%; max-width:480px; padding:2.5rem 2rem;">
+            <div style="text-align:center; margin-bottom:2rem;">
+                <span class="badge badge-primary" style="margin-bottom:0.75rem;">Employee Registration</span>
+                <h2 style="font-size:1.8rem; margin-bottom:0.4rem;">Create Account</h2>
+                <p style="font-size:0.9rem; color:var(--text-secondary);">
+                    Sign up to submit your profile and receive personalized Data Mining predictions.
+                </p>
+            </div>
+
+            <form id="signup-form">
+                <div class="form-group">
+                    <label class="form-label" for="name">Full Name *</label>
+                    <input type="text" id="name" class="form-control" placeholder="e.g. Alexandra Rivera" required minlength="2">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="email">Work Email *</label>
+                    <input type="email" id="email" class="form-control" placeholder="alex.rivera@enterprise.ai" required>
+                </div>
+
+                <div class="grid-2">
+                    <div class="form-group">
+                        <label class="form-label" for="employee_id">Employee ID (Optional)</label>
+                        <input type="text" id="employee_id" class="form-control" placeholder="EMP-4091">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="department">Department</label>
+                        <select id="department" class="form-control">
+                            <option value="Engineering">Engineering</option>
+                            <option value="Sales">Sales</option>
+                            <option value="Research & Development">Research & Development</option>
+                            <option value="Human Resources">Human Resources</option>
+                            <option value="Marketing">Marketing</option>
+                            <option value="Operations">Operations</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="password">Password *</label>
+                    <input type="password" id="password" class="form-control" placeholder="Minimum 6 characters" required minlength="6">
+                </div>
+
+                <button type="submit" class="btn btn-primary" style="width:100%; padding:0.85rem; font-size:1rem; margin-top:0.5rem;">
+                    Create Account
+                </button>
+            </form>
+
+            <div style="text-align:center; margin-top:1.5rem; font-size:0.9rem; color:var(--text-secondary);">
+                Already have an account? <a href="/signin" style="font-weight:600;">Sign in here</a>
+            </div>
+        </div>
+    </main>
+
+    <script src="/static/js/common.js"></script>
+    <script src="/static/js/auth.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Performance & Prediction Pipeline | Data Mining Platform</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+</head>
+<body>
+    <div class="ambient-glow glow-1"></div>
+    <div class="ambient-glow glow-2"></div>
+
+    <!-- Navigation -->
+    <header class="navbar">
+        <div class="nav-brand">
+            <div class="logo-icon">EP</div>
+            <span>PredictiveTalent<span style="color:var(--primary);">AI</span></span>
+        </div>
+        <div class="nav-links">
+            <a href="/pipeline" class="btn btn-outline btn-sm">Explore Pipeline</a>
+            <a href="/signin" class="btn btn-secondary btn-sm">Sign In</a>
+            <a href="/signup" class="btn btn-primary btn-sm">Create Account</a>
+            <button id="theme-toggle-btn" class="btn-icon" aria-label="Toggle Theme">☀️</button>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <main class="container" style="flex:1; display:flex; flex-direction:column; justify-content:center; align-items:center; text-align:center; padding-top:4rem; padding-bottom:4rem;">
+        <span class="badge badge-primary" style="margin-bottom:1.5rem; padding:0.4rem 1rem; font-size:0.85rem;">
+            ✦ Data Mining & Machine Learning Engineering Project
+        </span>
+        
+        <h1 style="font-size:3.4rem; max-width:900px; margin-bottom:1.25rem; font-weight:800; letter-spacing:-1px;">
+            Employee Performance & <span style="background:linear-gradient(135deg, var(--primary), var(--secondary)); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">Prediction Pipeline</span>
+        </h1>
+
+        <p style="font-size:1.2rem; color:var(--text-secondary); max-width:720px; margin-bottom:2.5rem; line-height:1.7;">
+            An end-to-end data mining platform that predicts promotion readiness, flight risk, and compensation equity with full transparency through data ingestion, preprocessing, SMOTE imbalance balancing, ensemble classification, and explainable AI.
+        </p>
+
+        <!-- Two Clear CTA Buttons as requested -->
+        <div style="display:flex; gap:1.25rem; justify-content:center; margin-bottom:3.5rem; flex-wrap:wrap;">
+            <a href="/signup" class="btn btn-primary" style="padding:0.9rem 2.2rem; font-size:1.1rem;">
+                Create Account
+            </a>
+            <a href="/signin" class="btn btn-secondary" style="padding:0.9rem 2.2rem; font-size:1.1rem;">
+                Sign In
+            </a>
+            <a href="/pipeline" class="btn btn-outline" style="padding:0.9rem 2rem; font-size:1.1rem;">
+                View Data Mining Pipeline →
+            </a>
+        </div>
+
+        <!-- Pipeline Stages Overview Cards -->
+        <div class="grid-4" style="text-align:left; width:100%; margin-bottom:3rem;">
+            <div class="card">
+                <span class="badge badge-primary" style="margin-bottom:0.75rem;">Stage 1 & 2</span>
+                <h3 style="font-size:1.15rem; margin-bottom:0.5rem;">Preprocessing & Imputation</h3>
+                <p style="font-size:0.85rem; color:var(--text-secondary);">
+                    Handles real-world null values via Median/Mode imputation, caps continuous outliers via IQR Winsorization, and normalizes with StandardScaler.
+                </p>
+            </div>
+            <div class="card">
+                <span class="badge badge-success" style="margin-bottom:0.75rem;">Stage 3 & 4</span>
+                <h3 style="font-size:1.15rem; margin-bottom:0.5rem;">SMOTE Imbalance Balancing</h3>
+                <p style="font-size:0.85rem; color:var(--text-secondary);">
+                    Mitigates extreme ~17% positive class imbalance using Synthetic Minority Over-sampling along k-nearest neighbors to eliminate majority bias.
+                </p>
+            </div>
+            <div class="card">
+                <span class="badge badge-warning" style="margin-bottom:0.75rem;">Stage 5 & 6</span>
+                <h3 style="font-size:1.15rem; margin-bottom:0.5rem;">Ensemble Classification</h3>
+                <p style="font-size:0.85rem; color:var(--text-secondary);">
+                    Trains and evaluates Logistic Regression, Random Forest (Bagging), and Gradient Boosting (Sequential) with 5-Fold Stratified Cross-Validation.
+                </p>
+            </div>
+            <div class="card">
+                <span class="badge badge-primary" style="margin-bottom:0.75rem;">Stage 7 & 8</span>
+                <h3 style="font-size:1.15rem; margin-bottom:0.5rem;">Bias-Variance & XAI</h3>
+                <p style="font-size:0.85rem; color:var(--text-secondary);">
+                    Analyzes generalization gaps, convergence learning curves, and delivers local SHAP-style positive catalysts and risk factor explanations.
+                </p>
+            </div>
+        </div>
+
+        <!-- Quick Platform Stats -->
+        <div class="card" style="width:100%; display:flex; justify-content:space-around; align-items:center; flex-wrap:wrap; gap:1.5rem; padding:1.5rem 2rem;">
+            <div>
+                <div style="font-size:2rem; font-weight:800; color:var(--primary);">1,500+</div>
+                <div style="font-size:0.8rem; color:var(--text-muted); text-transform:uppercase;">HR Dataset Records</div>
+            </div>
+            <div style="width:1px; height:40px; background:var(--border-color);" class="hide-mobile"></div>
+            <div>
+                <div style="font-size:2rem; font-weight:800; color:var(--secondary);">3 Models</div>
+                <div style="font-size:0.8rem; color:var(--text-muted); text-transform:uppercase;">Benchmarked In Parallel</div>
+            </div>
+            <div style="width:1px; height:40px; background:var(--border-color);" class="hide-mobile"></div>
+            <div>
+                <div style="font-size:2rem; font-weight:800; color:var(--success);">100% Real ML</div>
+                <div style="font-size:0.8rem; color:var(--text-muted); text-transform:uppercase;">Scikit-Learn & Imblearn</div>
+            </div>
+            <div style="width:1px; height:40px; background:var(--border-color);" class="hide-mobile"></div>
+            <div>
+                <div style="font-size:2rem; font-weight:800; color:var(--accent);">SQLite + JWT</div>
+                <div style="font-size:0.8rem; color:var(--text-muted); text-transform:uppercase;">Secure User State</div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer style="border-top:1px solid var(--border-color); padding:1.5rem 2rem; text-align:center; font-size:0.85rem; color:var(--text-muted);">
+        Employee Performance & Prediction Pipeline &bull; Data Mining & Machine Learning Engineering Project &bull; Built with FastAPI & Vanilla Web Stack
+    </footer>
+
+    <script src="/static/js/common.js"></script>
+</body>
+</html>
+

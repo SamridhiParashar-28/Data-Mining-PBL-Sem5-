@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dataset Explorer & Admin Directory | Employee Prediction Pipeline</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+</head>
+<body>
+    <div class="ambient-glow glow-1"></div>
+    <div class="ambient-glow glow-2"></div>
+
+    <header class="navbar">
+        <div class="nav-brand">
+            <div class="logo-icon">EP</div>
+            <a href="/dashboard" style="color:var(--text-primary);">PredictiveTalent<span style="color:var(--primary);">AI</span></a>
+        </div>
+        <div class="nav-links">
+            <a href="/dashboard" class="btn btn-secondary btn-sm">← Back to Dashboard</a>
+            <a href="/pipeline" class="btn btn-outline btn-sm">Pipeline Visualizer</a>
+            <button id="theme-toggle-btn" class="btn-icon" aria-label="Toggle Theme">☀️</button>
+        </div>
+    </header>
+
+    <main class="container">
+        <div style="margin-bottom:2rem;">
+            <span class="badge badge-primary" style="margin-bottom:0.75rem;">Enterprise Analytics</span>
+            <h1 style="font-size:2.2rem; margin-bottom:0.5rem;">Dataset Explorer & Admin Registry</h1>
+            <p style="color:var(--text-secondary); font-size:0.95rem;">
+                Comprehensive analytics computed over the active 1,500 synthetic employee cohort and SQLite user database.
+            </p>
+        </div>
+
+        <!-- Overview Stat Counters -->
+        <div class="grid-3" style="margin-bottom:2rem;">
+            <div class="card">
+                <span class="badge badge-primary">Sample Population</span>
+                <div id="stat-total-samples" style="font-size:2.4rem; font-weight:800; margin:0.5rem 0; color:var(--primary);">--</div>
+                <div style="font-size:0.85rem; color:var(--text-secondary);"><span id="stat-features">--</span> Engineered Input Features</div>
+            </div>
+            <div class="card">
+                <span class="badge badge-success">Average Baseline Salary</span>
+                <div id="stat-avg-salary" style="font-size:2.4rem; font-weight:800; margin:0.5rem 0; color:var(--success);">--</div>
+                <div style="font-size:0.85rem; color:var(--text-secondary);">Market Benchmark Curve</div>
+            </div>
+            <div class="card">
+                <span class="badge badge-warning">Target Imbalance Baseline</span>
+                <div style="display:flex; justify-content:space-between; align-items:center; margin:0.5rem 0;">
+                    <div>
+                        <div style="font-size:0.75rem; color:var(--text-muted);">Promo Rate</div>
+                        <div id="stat-promo-rate" style="font-size:1.8rem; font-weight:800; color:var(--info);">--%</div>
+                    </div>
+                    <div style="width:1px; height:40px; background:var(--border-color);"></div>
+                    <div>
+                        <div style="font-size:0.75rem; color:var(--text-muted);">Attrition Rate</div>
+                        <div id="stat-attr-rate" style="font-size:1.8rem; font-weight:800; color:var(--danger);">--%</div>
+                    </div>
+                </div>
+                <div style="font-size:0.85rem; color:var(--text-secondary);"><span id="stat-users-count">--</span> Registered Users In DB</div>
+            </div>
+        </div>
+
+        <!-- Department Breakdown Table -->
+        <div class="card" style="margin-bottom:2rem;">
+            <h2 style="font-size:1.25rem; margin-bottom:1rem;">Department Performance & Retention Breakdown</h2>
+            <div style="overflow-x:auto;">
+                <table style="width:100%; border-collapse:collapse; font-size:0.85rem; text-align:left;">
+                    <thead>
+                        <tr style="border-bottom:1px solid var(--border-color); color:var(--text-muted);">
+                            <th style="padding:0.6rem;">Department</th>
+                            <th style="padding:0.6rem;">Headcount</th>
+                            <th style="padding:0.6rem;">Average Monthly Salary</th>
+                            <th style="padding:0.6rem;">Attrition Rate</th>
+                            <th style="padding:0.6rem;">Promotion Rate</th>
+                        </tr>
+                    </thead>
+                    <tbody id="admin-dept-tbody">
+                        <!-- Populated by admin.js -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Registered User Accounts Directory -->
+        <div class="card">
+            <h2 style="font-size:1.25rem; margin-bottom:1rem;">Registered SQLite User Directory</h2>
+            <div style="overflow-x:auto;">
+                <table style="width:100%; border-collapse:collapse; font-size:0.85rem; text-align:left;">
+                    <thead>
+                        <tr style="border-bottom:1px solid var(--border-color); color:var(--text-muted);">
+                            <th style="padding:0.6rem;">Employee ID</th>
+                            <th style="padding:0.6rem;">Full Name</th>
+                            <th style="padding:0.6rem;">Email</th>
+                            <th style="padding:0.6rem;">Department</th>
+                            <th style="padding:0.6rem;">Role</th>
+                            <th style="padding:0.6rem;">Account Created</th>
+                        </tr>
+                    </thead>
+                    <tbody id="admin-users-tbody">
+                        <!-- Populated by admin.js -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+
+    <script src="/static/js/common.js"></script>
+    <script src="/static/js/admin.js"></script>
+</body>
+</html>
+

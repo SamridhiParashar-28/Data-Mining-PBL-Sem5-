@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Dashboard | Predictive Talent Pipeline</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+</head>
+<body>
+    <div class="ambient-glow glow-1"></div>
+    <div class="ambient-glow glow-2"></div>
+
+    <!-- Navigation -->
+    <header class="navbar">
+        <div class="nav-brand">
+            <div class="logo-icon">EP</div>
+            <a href="/dashboard" style="color:var(--text-primary);">PredictiveTalent<span style="color:var(--primary);">AI</span></a>
+        </div>
+        <div class="nav-links">
+            <a href="/pipeline" class="btn btn-outline btn-sm">
+                🔍 View Full Pipeline
+            </a>
+            <a href="/admin" class="btn btn-secondary btn-sm">
+                Dataset Explorer
+            </a>
+            <div style="display:flex; align-items:center; gap:0.5rem; margin-left:0.5rem;">
+                <span id="user-name-display" style="font-weight:600; font-size:0.9rem;">Employee</span>
+                <span id="user-dept-display" class="badge badge-primary">Engineering</span>
+            </div>
+            <button id="theme-toggle-btn" class="btn-icon" aria-label="Toggle Theme">☀️</button>
+            <button id="logout-btn" class="btn btn-secondary btn-sm">Sign Out</button>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Top Banner / Greeting -->
+        <div class="card" style="margin-bottom:2rem; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem;">
+            <div>
+                <h1 id="dashboard-greeting" style="font-size:2rem; margin-bottom:0.25rem;">Welcome!</h1>
+                <p style="color:var(--text-secondary); font-size:0.95rem;">
+                    Employee ID: <strong id="user-id-display">EMP-0000</strong> &bull; Review or update your profile attributes below, then trigger real-time Machine Learning inferences.
+                </p>
+            </div>
+            <div style="display:flex; gap:0.75rem;">
+                <button id="export-report-btn" class="btn btn-secondary btn-sm">
+                    📥 Download CSV Report
+                </button>
+                <button id="print-report-btn" class="btn btn-secondary btn-sm">
+                    🖨️ Print Report
+                </button>
+                <a href="/pipeline" class="btn btn-primary btn-sm">
+                    ⚡ View Pipeline Telemetry
+                </a>
+            </div>
+        </div>
+
+        <!-- Section 1: Employee Data Input & Profile Management -->
+        <div class="card" style="margin-bottom:2.5rem;">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem; margin-bottom:1.5rem; border-bottom:1px solid var(--border-color); padding-bottom:1rem;">
+                <div>
+                    <h2 style="font-size:1.4rem;">Employee Profile Attributes</h2>
+                    <p style="font-size:0.85rem; color:var(--text-secondary);">
+                        These values are standardized and fed into the preprocessing & classification pipeline.
+                    </p>
+                </div>
+                <div style="display:flex; align-items:center; gap:0.75rem;">
+                    <label for="preset-select" style="font-size:0.85rem; color:var(--text-muted); font-weight:600;">Load Test Persona:</label>
+                    <select id="preset-select" class="form-control" style="width:auto; padding:0.4rem 0.8rem; font-size:0.85rem;">
+                        <option value="">-- Choose a Preset Profile --</option>
+                    </select>
+                </div>
+            </div>
+
+            <form id="profile-form">
+                <div class="grid-4">
+                    <!-- Column 1 -->
+                    <div class="form-group">
+                        <label class="form-label" for="input-age">Age (Years)</label>
+                        <input type="number" id="input-age" class="form-control" min="18" max="70" value="30">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-department">Department</label>
+                        <select id="input-department" class="form-control">
+                            <option value="Engineering">Engineering</option>
+                            <option value="Sales">Sales</option>
+                            <option value="Research & Development">Research & Development</option>
+                            <option value="Human Resources">Human Resources</option>
+                            <option value="Marketing">Marketing</option>
+                            <option value="Operations">Operations</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-job_role">Job Role</label>
+                        <input type="text" id="input-job_role" class="form-control" value="Software Engineer">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-monthly_income">Monthly Salary ($)</label>
+                        <input type="number" id="input-monthly_income" class="form-control" min="1500" max="40000" step="100" value="7200">
+                    </div>
+
+                    <!-- Column 2 -->
+                    <div class="form-group">
+                        <label class="form-label" for="input-total_working_years">Total Experience (Years)</label>
+                        <input type="number" id="input-total_working_years" class="form-control" min="0" max="45" value="7">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-years_at_company">Years at Company</label>
+                        <input type="number" id="input-years_at_company" class="form-control" min="0" max="40" value="4">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-years_in_current_role">Years in Current Role</label>
+                        <input type="number" id="input-years_in_current_role" class="form-control" min="0" max="30" value="2">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-years_since_last_promotion">Years Since Last Promo</label>
+                        <input type="number" id="input-years_since_last_promotion" class="form-control" min="0" max="25" value="2">
+                    </div>
+
+                    <!-- Column 3 -->
+                    <div class="form-group">
+                        <label class="form-label" for="input-performance_rating">Performance Rating (1-5)</label>
+                        <select id="input-performance_rating" class="form-control">
+                            <option value="1">1 - Unsatisfactory</option>
+                            <option value="2">2 - Needs Improvement</option>
+                            <option value="3">3 - Meets Expectations</option>
+                            <option value="4" selected>4 - Exceeds Expectations</option>
+                            <option value="5">5 - Outstanding</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-projects_completed">Projects Completed / Year</label>
+                        <input type="number" id="input-projects_completed" class="form-control" min="0" max="35" value="8">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-training_hours_last_year">Training Hours (Annual)</label>
+                        <input type="number" id="input-training_hours_last_year" class="form-control" min="0" max="150" value="35">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-overtime">Works Frequent Overtime?</label>
+                        <select id="input-overtime" class="form-control">
+                            <option value="No" selected>No (Standard 40h/week)</option>
+                            <option value="Yes">Yes (Consistent Overtime)</option>
+                        </select>
+                    </div>
+
+                    <!-- Column 4 -->
+                    <div class="form-group">
+                        <label class="form-label" for="input-education_level">Education Level</label>
+                        <select id="input-education_level" class="form-control">
+                            <option value="1">High School Diploma (1)</option>
+                            <option value="2">Associate / Bachelor's (2)</option>
+                            <option value="3" selected>Master's Degree (3)</option>
+                            <option value="4">Doctorate / PhD (4)</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-education_field">Field of Education</label>
+                        <select id="input-education_field" class="form-control">
+                            <option value="Computer Science" selected>Computer Science</option>
+                            <option value="Life Sciences">Life Sciences</option>
+                            <option value="Medical">Medical</option>
+                            <option value="Marketing">Marketing</option>
+                            <option value="Technical Degree">Technical Degree</option>
+                            <option value="Business">Business</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-job_satisfaction">Job Satisfaction (1-5)</label>
+                        <select id="input-job_satisfaction" class="form-control">
+                            <option value="1">1 - Highly Dissatisfied</option>
+                            <option value="2">2 - Dissatisfied</option>
+                            <option value="3">3 - Neutral</option>
+                            <option value="4" selected>4 - Satisfied</option>
+                            <option value="5">5 - Highly Satisfied</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="input-work_life_balance">Work-Life Balance (1-5)</label>
+                        <select id="input-work_life_balance" class="form-control">
+                            <option value="1">1 - Severe Imbalance</option>
+                            <option value="2">2 - Strained</option>
+                            <option value="3" selected>3 - Acceptable</option>
+                            <option value="4">4 - Good Balance</option>
+                            <option value="5">5 - Optimal</option>
+                        </select>
+                    </div>
+
+                    <!-- Hidden or Defaulted Features for Cleanliness -->
+                    <input type="hidden" id="input-environment_satisfaction" value="4">
+                    <input type="hidden" id="input-distance_from_home" value="12">
+                    <input type="hidden" id="input-stock_option_level" value="1">
+                </div>
+
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-top:1rem; border-top:1px solid var(--border-color); padding-top:1rem;">
+                    <span style="font-size:0.85rem; color:var(--text-muted);">
+                        Updating profile saves changes to the SQLite database.
+                    </span>
+                    <button type="submit" id="save-profile-btn" class="btn btn-secondary">
+                        💾 Save Profile Changes
+                    </button>
+                </div>
+            </form>
+        </div>
+
+        <!-- Section 2: Analysis Options Cards -->
+        <div style="margin-bottom:2.5rem;">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.25rem;">
+                <div>
+                    <h2 style="font-size:1.4rem;">Machine Learning Analysis Suite</h2>
+                    <p style="font-size:0.85rem; color:var(--text-secondary);">
+                        Select an individual model to run, or trigger the full intelligence audit.
+                    </p>
+                </div>
+                <button id="run-all-analysis-btn" class="btn btn-primary">
+                    ⚡ Run Complete Intelligence Audit (All 5)
+                </button>
+            </div>
+
+            <div class="grid-3">
+                <!-- 1. Promotion Analysis -->
+                <div class="card" style="display:flex; flex-direction:column; justify-content:space-between;">
+                    <div>
+                        <span class="badge badge-primary" style="margin-bottom:0.75rem;">Classification Model</span>
+                        <h3 style="font-size:1.2rem; margin-bottom:0.5rem;">Promotion Probability</h3>
+                        <p style="font-size:0.85rem; color:var(--text-secondary); margin-bottom:1.25rem;">
+                            Evaluates velocity, rating, and tenure to calculate the likelihood of advancement in the upcoming promotional cycle.
+                        </p>
+                    </div>
+                    <button class="btn btn-outline" data-analysis-type="promotion" style="width:100%;">
+                        Run Promotion Model →
+                    </button>
+                </div>
+
+                <!-- 2. Job Change / Attrition Risk -->
+                <div class="card" style="display:flex; flex-direction:column; justify-content:space-between;">
+                    <div>
+                        <span class="badge badge-warning" style="margin-bottom:0.75rem;">Risk Assessment</span>
+                        <h3 style="font-size:1.2rem; margin-bottom:0.5rem;">Attrition & Flight Risk</h3>
+                        <p style="font-size:0.85rem; color:var(--text-secondary); margin-bottom:1.25rem;">
+                            Detects burnout, overtime fatigue, and compensation dissatisfaction to compute flight probability and retention interventions.
+                        </p>
+                    </div>
+                    <button class="btn btn-outline" data-analysis-type="attrition" style="width:100%;">
+                        Analyze Flight Risk →
+                    </button>
+                </div>
+
+                <!-- 3. Overall Performance Score -->
+                <div class="card" style="display:flex; flex-direction:column; justify-content:space-between;">
+                    <div>
+                        <span class="badge badge-success" style="margin-bottom:0.75rem;">Percentile Ranking</span>
+                        <h3 style="font-size:1.2rem; margin-bottom:0.5rem;">Performance & Tier</h3>
+                        <p style="font-size:0.85rem; color:var(--text-secondary); margin-bottom:1.25rem;">
+                            Calculates composite performance score out of 100 and computes your percentile rank among departmental peers.
+                        </p>
+                    </div>
+                    <button class="btn btn-outline" data-analysis-type="performance" style="width:100%;">
+                        Compute Score & Tier →
+                    </button>
+                </div>
+
+                <!-- 4. Compensation Fairness -->
+                <div class="card" style="display:flex; flex-direction:column; justify-content:space-between;">
+                    <div>
+                        <span class="badge badge-primary" style="margin-bottom:0.75rem;">Regression Benchmark</span>
+                        <h3 style="font-size:1.2rem; margin-bottom:0.5rem;">Compensation Equity</h3>
+                        <p style="font-size:0.85rem; color:var(--text-secondary); margin-bottom:1.25rem;">
+                            Applies continuous regression to benchmark your actual compensation against market median for your experience and rating.
+                        </p>
+                    </div>
+                    <button class="btn btn-outline" data-analysis-type="compensation" style="width:100%;">
+                        Benchmark Compensation →
+                    </button>
+                </div>
+
+                <!-- 5. Skill Gap / Training -->
+                <div class="card" style="display:flex; flex-direction:column; justify-content:space-between;">
+                    <div>
+                        <span class="badge badge-success" style="margin-bottom:0.75rem;">Prescriptive Analytics</span>
+                        <h3 style="font-size:1.2rem; margin-bottom:0.5rem;">Skill Gap & Upskilling</h3>
+                        <p style="font-size:0.85rem; color:var(--text-secondary); margin-bottom:1.25rem;">
+                            Identifies training hour deficits and creates a personalized curriculum aligned with senior promotional milestones.
+                        </p>
+                    </div>
+                    <button class="btn btn-outline" data-analysis-type="skill_gap" style="width:100%;">
+                        View Training Plan →
+                    </button>
+                </div>
+
+                <!-- View Full Pipeline Card -->
+                <div class="card" style="display:flex; flex-direction:column; justify-content:space-between; border-color:var(--primary); background:rgba(99, 102, 241, 0.08);">
+                    <div>
+                        <span class="badge badge-primary" style="margin-bottom:0.75rem;">Educational Deep Dive</span>
+                        <h3 style="font-size:1.2rem; margin-bottom:0.5rem;">Data Mining Visualizer</h3>
+                        <p style="font-size:0.85rem; color:var(--text-secondary); margin-bottom:1.25rem;">
+                            Inspect all 8 stages: Raw Ingestion, Preprocessing, SMOTE balancing, Model Comparison, Confusion Matrices, and Bias-Variance curves.
+                        </p>
+                    </div>
+                    <a href="/pipeline" class="btn btn-primary" style="width:100%;">
+                        Inspect Pipeline Steps →
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 3: Analysis Results Container (Appears when an analysis is run) -->
+        <section id="results-section" style="display:none; margin-bottom:3rem;">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.25rem;">
+                <div>
+                    <h2 style="font-size:1.4rem;">Pipeline Inference Results</h2>
+                    <p style="font-size:0.85rem; color:var(--text-secondary);">
+                        Live output generated by the trained machine learning estimators.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Loading Skeleton -->
+            <div id="results-loading" style="display:none;">
+                <div class="grid-2">
+                    <div class="skeleton" style="height:240px; margin-bottom:1rem;"></div>
+                    <div class="skeleton" style="height:240px; margin-bottom:1rem;"></div>
+                </div>
+            </div>
+
+            <!-- Real Results Grid -->
+            <div id="results-content">
+                <div id="results-cards-grid" class="grid-2">
+                    <!-- Populated dynamically by dashboard.js -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="/static/js/common.js"></script>
+    <script src="/static/js/dashboard.js"></script>
+</body>
+</html>
+

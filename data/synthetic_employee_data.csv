@@ -1,0 +1,1501 @@
+employee_id,age,department,job_role,education_level,education_field,monthly_income,years_at_company,years_in_current_role,years_since_last_promotion,total_working_years,performance_rating,projects_completed,training_hours_last_year,overtime,job_satisfaction,work_life_balance,environment_satisfaction,distance_from_home,stock_option_level,promoted,attrition,performance_category
+EMP-1001,40,Engineering,Systems Architect,2,Technical Degree,10950.26,3,1,1,17,4,5,16.0,No,5,4,2,17,0,0,0,Needs Improvement
+EMP-1002,35,Research & Development,Research Scientist,2,Business,8387.44,9,7,2,11,4,4,27.0,Yes,3,4,3,21,1,0,0,Needs Improvement
+EMP-1003,42,Engineering,QA Engineer,4,Life Sciences,10808.88,2,2,2,18,3,6,22.0,Yes,3,4,5,9,0,0,0,Needs Improvement
+EMP-1004,49,Research & Development,Laboratory Technician,2,Life Sciences,16647.55,24,0,0,26,4,12,48.0,Yes,3,2,3,4,1,1,0,Strong Contributor
+EMP-1005,35,Research & Development,R&D Manager,3,Marketing,10975.36,2,1,1,14,3,5,19.0,No,5,3,3,13,3,0,0,Needs Improvement
+EMP-1006,35,Human Resources,HR Specialist,3,Business,8678.61,5,1,0,12,3,13,8.0,No,2,2,3,14,1,0,1,Needs Improvement
+EMP-1007,49,Operations,Operations Manager,2,Computer Science,14867.05,16,15,13,27,3,7,40.0,No,3,4,4,13,0,0,0,Needs Improvement
+EMP-1008,43,Engineering,Software Engineer,2,Medical,10788.47,11,7,7,20,3,3,32.0,No,1,2,5,35,0,0,1,Needs Improvement
+EMP-1009,33,Sales,Sales Representative,3,Marketing,8735.22,5,0,0,11,4,6,48.0,Yes,3,3,3,5,1,1,0,Needs Improvement
+EMP-1010,41,Operations,Operations Analyst,2,Technical Degree,9526.21,10,7,7,17,5,6,45.0,No,1,3,3,1,1,0,1,Strong Contributor
+EMP-1011,33,Human Resources,Recruiter,2,Business,8913.93,8,7,7,12,3,3,33.0,No,4,4,4,28,1,0,0,Needs Improvement
+EMP-1012,33,Sales,Sales Director,2,Medical,6396.78,3,3,0,9,4,10,13.0,No,3,3,5,2,0,0,0,Needs Improvement
+EMP-1013,38,Operations,Operations Analyst,3,Computer Science,11429.58,5,1,1,16,2,6,17.0,No,3,1,2,14,2,0,0,Needs Improvement
+EMP-1014,21,Engineering,Engineering Lead,3,Computer Science,5614.0,0,0,0,0,4,6,9.0,No,3,3,3,24,0,0,1,Needs Improvement
+EMP-1015,23,Operations,Operations Manager,3,Life Sciences,4635.72,0,0,0,1,3,10,32.0,No,4,3,4,4,1,0,0,Needs Improvement
+EMP-1016,32,Engineering,Systems Architect,1,Marketing,8124.8,3,3,2,11,1,8,24.0,No,1,3,3,21,1,0,0,Needs Improvement
+EMP-1017,28,Research & Development,Research Scientist,3,Technical Degree,6108.03,3,1,0,5,3,7,31.0,Yes,3,5,3,4,0,0,1,Needs Improvement
+EMP-1018,39,Marketing,Brand Strategist,4,Medical,11760.56,15,11,11,15,3,5,36.0,Yes,3,3,3,18,2,0,0,Needs Improvement
+EMP-1019,29,Engineering,Software Engineer,3,Computer Science,6280.24,0,0,0,5,2,8,60.0,No,4,3,2,1,1,0,0,Needs Improvement
+EMP-1020,25,Sales,Sales Representative,3,Medical,6470.07,1,0,0,2,5,7,42.0,No,2,3,3,12,1,1,1,Strong Contributor
+EMP-1021,48,Sales,Sales Director,3,Technical Degree,12489.57,11,8,6,24,2,12,34.0,No,3,4,5,13,1,0,0,Needs Improvement
+EMP-1022,35,Operations,Operations Analyst,3,Medical,9415.52,10,7,2,14,5,4,12.0,No,3,4,3,8,2,0,0,Needs Improvement
+EMP-1023,37,Marketing,Brand Strategist,4,Marketing,9542.07,5,3,2,13,4,3,34.0,Yes,4,3,4,13,1,1,0,Needs Improvement
+EMP-1024,25,Research & Development,Research Scientist,2,Life Sciences,,0,0,0,3,3,8,46.0,No,1,5,4,30,0,0,1,Needs Improvement
+EMP-1025,32,Research & Development,Research Scientist,2,Medical,8319.58,9,7,5,9,3,4,39.0,No,3,3,3,15,0,0,1,Needs Improvement
+EMP-1026,37,Marketing,Brand Strategist,2,Business,10732.57,14,6,0,16,4,12,19.0,No,2,3,4,39,0,1,0,Needs Improvement
+EMP-1027,27,Sales,Account Manager,2,Life Sciences,5461.92,0,0,0,4,3,6,28.0,Yes,1,4,3,7,0,0,1,Needs Improvement
+EMP-1028,40,Sales,Sales Executive,2,Technical Degree,9104.42,1,1,0,19,3,13,35.0,No,2,3,3,9,3,0,0,Needs Improvement
+EMP-1029,32,Human Resources,HR Manager,3,Life Sciences,8834.83,4,4,3,10,3,2,28.0,Yes,5,3,3,3,1,0,0,Needs Improvement
+EMP-1030,34,Sales,Sales Executive,1,Medical,8689.24,5,0,0,11,3,5,25.0,No,2,5,3,50,2,0,0,Needs Improvement
+EMP-1031,32,Engineering,DevOps Engineer,3,Medical,10452.46,6,6,6,8,5,3,3.0,No,5,1,2,1,0,0,0,Needs Improvement
+EMP-1032,51,Engineering,Systems Architect,3,Business,16018.04,20,1,1,30,3,9,23.0,No,2,3,2,5,1,0,0,Needs Improvement
+EMP-1033,36,Engineering,Systems Architect,2,Computer Science,8741.22,8,2,2,13,3,11,37.0,No,5,3,3,4,3,0,0,Needs Improvement
+EMP-1034,28,Marketing,Digital Marketer,4,Business,,0,0,0,4,3,4,46.0,No,3,1,3,5,0,0,0,Needs Improvement
+EMP-1035,43,Sales,Account Manager,3,Medical,12369.46,6,1,0,20,4,7,35.0,Yes,2,4,5,29,1,0,1,Needs Improvement
+EMP-1036,27,Research & Development,Laboratory Technician,2,Life Sciences,7067.84,3,3,0,4,4,2,48.0,No,3,2,5,5,2,0,0,Needs Improvement
+EMP-1037,38,Sales,Account Manager,2,Business,9372.63,8,5,5,15,3,8,32.0,Yes,3,2,2,29,3,0,1,Needs Improvement
+EMP-1038,21,Engineering,Systems Architect,2,Business,4176.04,0,0,0,0,2,3,21.0,Yes,3,4,3,6,2,0,0,Needs Improvement
+EMP-1039,26,Sales,Account Manager,3,Computer Science,6548.59,1,1,1,2,1,4,27.0,No,3,2,1,23,2,0,1,Needs Improvement
+EMP-1040,38,Human Resources,Recruiter,2,Medical,10757.53,11,8,2,16,3,4,40.0,No,3,3,3,8,1,0,0,Needs Improvement
+EMP-1041,42,Research & Development,Laboratory Technician,3,Medical,14025.09,15,9,7,21,3,15,30.0,No,3,4,4,4,0,0,0,Needs Improvement
+EMP-1042,38,Operations,Logistics Coordinator,3,Technical Degree,11067.09,15,3,1,17,5,6,25.0,Yes,4,4,4,7,1,1,0,Strong Contributor
+EMP-1043,36,Research & Development,Research Scientist,2,Computer Science,11236.96,10,7,3,15,3,8,12.0,No,3,4,2,6,3,0,0,Needs Improvement
+EMP-1044,34,Research & Development,Research Scientist,3,Technical Degree,8062.54,4,1,1,12,3,4,21.0,No,5,1,2,3,1,0,0,Needs Improvement
+EMP-1045,25,Research & Development,Laboratory Technician,1,Technical Degree,2718.58,1,0,0,1,4,14,28.0,No,5,1,2,4,0,0,0,Strong Contributor
+EMP-1046,31,Operations,Operations Analyst,4,Technical Degree,9411.14,4,2,2,7,3,8,25.0,No,1,3,3,2,1,0,0,Needs Improvement
+EMP-1047,33,Human Resources,HR Manager,1,Marketing,7226.61,6,4,1,9,3,6,20.0,Yes,1,1,4,4,1,0,1,Needs Improvement
+EMP-1048,45,Engineering,Engineering Lead,3,Technical Degree,14188.73,3,2,0,22,2,9,55.0,No,3,3,3,11,0,0,0,Needs Improvement
+EMP-1049,39,Research & Development,Laboratory Technician,2,Business,10569.52,14,9,6,16,3,5,42.0,No,3,3,4,5,1,0,0,Needs Improvement
+EMP-1050,22,Research & Development,Laboratory Technician,3,Life Sciences,4993.66,0,0,0,0,5,7,64.0,No,2,3,3,14,1,1,0,Strong Contributor
+EMP-1051,39,Human Resources,HR Specialist,3,Business,10264.78,8,0,0,17,3,6,11.0,Yes,2,2,2,52,1,0,1,Needs Improvement
+EMP-1052,33,Engineering,Systems Architect,2,Business,8175.84,10,2,2,10,3,8,38.0,No,3,3,2,5,0,0,0,Needs Improvement
+EMP-1053,31,Marketing,Digital Marketer,3,Medical,9645.45,7,3,1,9,3,3,27.0,No,3,3,1,7,0,0,0,Needs Improvement
+EMP-1054,41,Operations,Operations Manager,2,Marketing,10911.0,0,0,0,17,4,7,34.0,No,2,2,4,2,1,0,0,Needs Improvement
+EMP-1055,45,Engineering,QA Engineer,3,Technical Degree,13973.87,22,8,1,22,3,8,59.0,No,4,3,4,5,1,1,0,Needs Improvement
+EMP-1056,44,Marketing,Digital Marketer,3,Medical,13568.94,7,4,3,21,3,9,9.0,No,3,3,4,15,0,0,0,Needs Improvement
+EMP-1057,30,Engineering,Engineering Lead,2,Computer Science,6908.56,5,3,0,9,5,4,25.0,Yes,3,4,1,2,0,0,0,Strong Contributor
+EMP-1058,34,Engineering,QA Engineer,2,Computer Science,9731.42,10,9,5,12,2,13,23.0,No,3,4,4,2,0,0,0,Needs Improvement
+EMP-1059,39,Engineering,DevOps Engineer,1,Medical,9217.64,3,2,1,15,4,5,26.0,No,2,3,1,5,1,0,0,Needs Improvement
+EMP-1060,44,Engineering,DevOps Engineer,3,Life Sciences,13506.31,7,1,0,23,3,6,4.0,Yes,3,3,2,20,3,0,0,Needs Improvement
+EMP-1061,33,Marketing,Marketing Specialist,2,Medical,10847.93,2,2,1,12,3,4,51.0,Yes,2,1,3,11,2,0,1,Needs Improvement
+EMP-1062,35,Engineering,Systems Architect,2,Medical,9117.57,8,1,0,11,3,1,52.0,No,1,2,3,37,2,0,1,Needs Improvement
+EMP-1063,28,Engineering,Software Engineer,2,Marketing,6485.35,4,3,1,7,3,9,42.0,Yes,3,4,4,28,1,0,1,Needs Improvement
+EMP-1064,27,Engineering,Systems Architect,2,Computer Science,6358.08,1,1,0,5,3,6,15.0,No,2,2,3,1,1,0,0,Needs Improvement
+EMP-1065,43,Engineering,Systems Architect,4,Computer Science,13612.96,1,0,0,21,3,11,37.0,No,3,3,2,1,0,0,0,Needs Improvement
+EMP-1066,47,Engineering,Systems Architect,2,Technical Degree,15037.48,12,3,2,24,3,8,46.0,No,3,2,2,6,1,0,0,Needs Improvement
+EMP-1067,36,Research & Development,Laboratory Technician,3,Business,10735.51,14,6,0,15,2,6,39.0,No,2,2,3,8,1,0,0,Needs Improvement
+EMP-1068,45,Engineering,Software Engineer,3,Medical,15347.2,22,15,13,22,1,10,33.0,No,1,4,2,8,1,0,0,Needs Improvement
+EMP-1069,39,Marketing,Brand Strategist,3,Medical,10672.94,11,6,2,18,5,5,53.0,No,4,2,3,1,1,1,0,Strong Contributor
+EMP-1070,31,Marketing,Digital Marketer,2,Life Sciences,7790.88,9,0,0,9,3,5,24.0,No,1,3,4,1,0,0,0,Needs Improvement
+EMP-1071,39,Engineering,Systems Architect,3,Computer Science,10773.43,3,1,1,17,5,5,31.0,No,3,2,2,1,0,0,0,Strong Contributor
+EMP-1072,49,Marketing,Digital Marketer,3,Life Sciences,14814.65,25,24,18,27,2,5,42.0,Yes,3,3,4,22,2,0,0,Needs Improvement
+EMP-1073,36,Engineering,DevOps Engineer,1,Marketing,,7,1,1,15,3,7,38.0,No,4,3,3,35,0,0,0,Needs Improvement
+EMP-1074,49,Engineering,Engineering Lead,2,Technical Degree,14019.82,8,2,1,27,3,3,41.0,No,4,3,3,1,0,0,0,Needs Improvement
+EMP-1075,21,Engineering,Engineering Lead,2,Life Sciences,5957.15,0,0,0,0,4,8,41.0,No,4,4,3,2,2,1,0,Needs Improvement
+EMP-1076,43,Sales,Account Manager,2,Computer Science,13280.3,4,1,1,20,4,5,41.0,Yes,2,2,3,1,1,0,1,Needs Improvement
+EMP-1077,37,Sales,Account Manager,2,Marketing,10842.38,10,4,2,16,2,8,28.0,No,4,3,3,25,0,0,0,Needs Improvement
+EMP-1078,34,Human Resources,Recruiter,3,Medical,8753.08,11,8,5,11,4,4,24.0,No,2,3,1,38,0,0,0,Needs Improvement
+EMP-1079,37,Sales,Sales Representative,1,Marketing,9265.09,8,3,0,16,2,6,35.0,Yes,2,5,5,3,0,0,0,Needs Improvement
+EMP-1080,21,Research & Development,R&D Manager,3,Business,5667.63,0,0,0,0,3,19,55.0,No,3,2,1,4,1,1,0,Strong Contributor
+EMP-1081,35,Engineering,Software Engineer,3,Life Sciences,10210.14,0,0,0,13,5,5,33.0,No,3,1,5,5,2,1,0,Strong Contributor
+EMP-1082,39,Human Resources,HR Manager,2,Computer Science,10349.66,11,0,0,16,4,6,42.0,Yes,1,2,1,8,0,0,1,Needs Improvement
+EMP-1083,48,Engineering,Engineering Lead,3,Life Sciences,15367.07,6,3,1,26,5,6,35.0,No,1,2,4,13,2,1,0,Strong Contributor
+EMP-1084,32,Engineering,QA Engineer,2,Medical,9001.96,9,5,2,10,3,3,62.0,No,4,2,3,8,0,0,0,Needs Improvement
+EMP-1085,30,Engineering,Software Engineer,4,Medical,8121.36,0,0,0,7,2,3,32.0,No,4,3,3,36,0,0,0,Needs Improvement
+EMP-1086,32,Engineering,Engineering Lead,2,Computer Science,7871.41,9,4,1,11,2,7,42.0,No,3,3,1,1,3,0,0,Needs Improvement
+EMP-1087,44,Sales,Sales Representative,3,Business,12551.0,9,0,0,23,3,10,23.0,No,3,4,2,19,0,0,0,Needs Improvement
+EMP-1088,39,Marketing,Brand Strategist,3,Technical Degree,10925.57,10,3,3,15,4,7,18.0,No,4,2,4,4,2,0,0,Needs Improvement
+EMP-1089,32,Engineering,Software Engineer,2,Marketing,10530.52,2,1,0,11,2,9,33.0,No,4,5,4,5,1,0,0,Needs Improvement
+EMP-1090,41,Research & Development,R&D Manager,1,Marketing,9260.4,10,9,5,17,3,11,50.0,Yes,3,4,3,14,0,0,0,Needs Improvement
+EMP-1091,37,Research & Development,R&D Manager,3,Medical,12069.52,12,9,7,16,3,7,42.0,No,3,4,3,31,1,0,0,Needs Improvement
+EMP-1092,44,Marketing,Brand Strategist,2,Life Sciences,12532.0,20,13,6,23,3,6,4.0,No,2,4,1,15,1,0,0,Needs Improvement
+EMP-1093,31,Engineering,Software Engineer,3,Life Sciences,7993.37,7,3,1,9,3,9,44.0,Yes,3,4,3,17,3,0,0,Needs Improvement
+EMP-1094,34,Sales,Sales Representative,4,Business,10223.43,7,6,2,10,3,2,12.0,No,3,4,2,16,1,0,0,Needs Improvement
+EMP-1095,33,Operations,Operations Manager,2,Technical Degree,8730.27,3,1,1,12,4,3,45.0,No,3,3,1,4,1,0,0,Needs Improvement
+EMP-1096,25,Research & Development,Laboratory Technician,2,Life Sciences,5003.43,0,0,0,1,2,6,41.0,Yes,3,3,3,16,0,0,1,Needs Improvement
+EMP-1097,39,Sales,Account Manager,2,Marketing,11066.19,10,8,2,17,4,8,31.0,Yes,2,5,3,18,1,1,0,Needs Improvement
+EMP-1098,39,Engineering,Software Engineer,2,Life Sciences,10253.45,10,4,3,17,2,9,44.0,No,4,3,1,9,0,0,0,Needs Improvement
+EMP-1099,37,Engineering,DevOps Engineer,3,Technical Degree,10745.59,0,0,0,13,2,10,30.0,No,2,1,2,9,0,0,0,Needs Improvement
+EMP-1100,35,Research & Development,R&D Manager,3,Marketing,9884.58,0,0,0,13,3,8,36.0,No,3,4,3,17,3,0,0,Needs Improvement
+EMP-1101,25,Research & Development,R&D Manager,2,Life Sciences,3910.34,2,0,0,2,4,7,13.0,No,4,3,1,20,0,0,0,Needs Improvement
+EMP-1102,33,Engineering,Engineering Lead,1,Marketing,6796.76,3,1,1,10,3,7,30.0,No,3,4,4,4,0,0,0,Needs Improvement
+EMP-1103,34,Research & Development,Research Scientist,2,Medical,6155.01,5,4,2,12,3,7,46.0,No,3,1,3,19,1,0,0,Needs Improvement
+EMP-1104,30,Research & Development,Laboratory Technician,2,Medical,7106.79,7,5,0,7,3,4,15.0,No,3,3,2,20,2,0,0,Needs Improvement
+EMP-1105,35,Sales,Account Manager,3,Business,11493.66,5,0,0,14,3,10,45.0,No,4,2,4,3,0,1,0,Needs Improvement
+EMP-1106,40,Research & Development,Research Scientist,1,Medical,8937.57,14,10,0,16,4,7,5.0,No,5,4,3,15,0,0,0,Needs Improvement
+EMP-1107,52,Marketing,Marketing Specialist,3,Life Sciences,17306.98,30,15,12,31,4,6,17.0,Yes,3,2,3,2,0,0,0,Needs Improvement
+EMP-1108,38,Sales,Sales Representative,3,Technical Degree,10707.51,8,6,6,14,2,12,29.0,Yes,4,4,3,1,0,0,0,Needs Improvement
+EMP-1109,39,Marketing,Marketing Specialist,3,Marketing,10783.31,13,3,3,17,3,8,36.0,No,1,1,1,10,1,0,0,Needs Improvement
+EMP-1110,36,Engineering,Engineering Lead,2,Computer Science,11482.88,1,0,0,15,4,11,25.0,No,4,1,3,28,1,1,0,Needs Improvement
+EMP-1111,21,Engineering,Engineering Lead,3,Medical,4754.61,0,0,0,0,3,7,25.0,No,5,2,3,1,1,0,0,Needs Improvement
+EMP-1112,36,Engineering,Systems Architect,3,Medical,12129.24,9,1,1,14,3,8,,No,3,3,3,21,1,0,0,Needs Improvement
+EMP-1113,37,Engineering,QA Engineer,3,Computer Science,8467.89,0,0,0,13,2,13,50.0,No,4,3,3,8,2,0,0,Needs Improvement
+EMP-1114,56,Engineering,Software Engineer,2,Computer Science,16317.78,4,4,3,32,3,11,28.0,No,3,2,3,23,1,0,0,Needs Improvement
+EMP-1115,35,Engineering,Systems Architect,2,Life Sciences,8444.77,3,3,2,11,2,7,28.0,No,3,3,4,22,2,0,0,Needs Improvement
+EMP-1116,39,Marketing,Brand Strategist,3,Marketing,11803.45,8,2,2,18,4,4,29.0,No,4,2,3,24,1,0,0,Needs Improvement
+EMP-1117,36,Engineering,Systems Architect,1,Medical,9384.7,10,5,2,13,3,5,65.0,No,3,4,3,17,2,0,0,Needs Improvement
+EMP-1118,27,Human Resources,HR Specialist,2,Technical Degree,8598.31,3,3,1,3,3,10,34.0,No,3,1,3,22,1,0,0,Needs Improvement
+EMP-1119,46,Engineering,Software Engineer,4,Life Sciences,14369.56,21,2,0,22,4,6,55.0,No,3,3,2,2,1,1,0,Needs Improvement
+EMP-1120,43,Operations,Operations Analyst,1,Life Sciences,12181.82,0,0,0,22,2,7,44.0,No,4,3,4,4,2,0,0,Needs Improvement
+EMP-1121,43,Research & Development,Research Scientist,2,Technical Degree,,17,7,7,19,3,5,32.0,No,4,4,4,3,0,0,0,Needs Improvement
+EMP-1122,29,Engineering,Systems Architect,2,Technical Degree,5738.9,5,1,0,8,3,7,24.0,No,2,4,2,16,1,0,0,Needs Improvement
+EMP-1123,48,Human Resources,HR Manager,3,Business,15933.23,26,9,0,26,3,11,44.0,No,3,4,4,2,1,0,0,Needs Improvement
+EMP-1124,25,Sales,Sales Director,1,Technical Degree,3687.89,1,0,0,1,4,8,22.0,Yes,5,1,3,2,2,0,0,Needs Improvement
+EMP-1125,41,Human Resources,HR Manager,3,Computer Science,13803.74,14,3,2,17,4,6,28.0,No,3,4,3,25,1,0,0,Needs Improvement
+EMP-1126,54,Research & Development,Laboratory Technician,1,Medical,16741.39,31,16,15,32,2,7,43.0,No,5,4,1,14,1,0,0,Needs Improvement
+EMP-1127,29,Research & Development,Laboratory Technician,1,Business,6767.4,4,2,1,7,4,6,,No,4,4,3,24,0,1,0,Needs Improvement
+EMP-1128,32,Human Resources,HR Manager,3,Computer Science,9154.72,9,4,3,10,3,9,28.0,No,3,3,3,1,2,0,0,Needs Improvement
+EMP-1129,37,Sales,Sales Representative,2,Business,9703.58,4,1,0,13,4,9,29.0,No,3,4,2,6,0,0,0,Needs Improvement
+EMP-1130,32,Engineering,DevOps Engineer,4,Medical,8394.89,4,4,0,9,3,7,24.0,No,3,3,3,3,2,0,0,Needs Improvement
+EMP-1131,24,Marketing,Marketing Specialist,1,Business,2603.65,1,0,0,1,3,9,40.0,Yes,3,3,5,1,0,0,1,Needs Improvement
+EMP-1132,37,Sales,Sales Executive,2,Computer Science,9224.38,5,4,2,14,3,9,34.0,No,3,3,3,4,0,0,0,Needs Improvement
+EMP-1133,28,Sales,Sales Director,1,Marketing,5303.48,1,1,0,4,3,4,15.0,Yes,4,3,3,5,0,0,1,Needs Improvement
+EMP-1134,40,Engineering,QA Engineer,2,Medical,10656.96,13,10,9,18,3,1,27.0,No,4,3,3,1,1,0,0,Needs Improvement
+EMP-1135,29,Sales,Account Manager,4,Life Sciences,6342.52,1,0,0,5,3,7,28.0,No,3,3,1,10,0,0,0,Needs Improvement
+EMP-1136,49,Operations,Operations Manager,3,Medical,14586.61,13,5,4,27,4,9,28.0,No,4,4,5,5,0,1,0,Needs Improvement
+EMP-1137,30,Engineering,Engineering Lead,1,Medical,7012.16,4,4,0,6,3,9,42.0,No,3,3,5,1,0,0,0,Needs Improvement
+EMP-1138,34,Sales,Sales Executive,3,Medical,9473.38,2,0,0,10,5,12,24.0,Yes,3,3,3,14,0,1,1,Strong Contributor
+EMP-1139,43,Research & Development,R&D Manager,3,Marketing,13134.27,5,0,0,21,3,5,71.0,No,3,2,2,15,0,0,0,Needs Improvement
+EMP-1140,27,Marketing,Marketing Specialist,2,Computer Science,,4,2,1,4,3,7,53.0,No,4,5,2,21,0,1,0,Needs Improvement
+EMP-1141,38,Sales,Account Manager,2,Life Sciences,9461.26,7,7,6,16,5,7,53.0,No,3,3,2,7,2,1,0,Strong Contributor
+EMP-1142,47,Sales,Sales Director,4,Computer Science,14764.12,11,1,1,26,3,7,19.0,No,3,2,3,41,1,0,0,Needs Improvement
+EMP-1143,24,Operations,Operations Manager,4,Business,7019.91,0,0,0,3,4,4,5.0,Yes,3,4,2,29,1,0,0,Needs Improvement
+EMP-1144,38,Research & Development,Laboratory Technician,4,Business,10775.94,10,0,0,16,4,2,29.0,No,2,2,3,9,3,0,0,Needs Improvement
+EMP-1145,39,Engineering,Systems Architect,3,Business,10797.56,11,7,4,15,3,5,38.0,Yes,3,1,3,7,1,0,1,Needs Improvement
+EMP-1146,43,Engineering,Software Engineer,3,Computer Science,12223.73,0,0,0,22,3,3,31.0,Yes,2,3,1,1,2,0,0,Needs Improvement
+EMP-1147,27,Sales,Account Manager,2,Technical Degree,5195.35,0,0,0,6,2,9,26.0,No,4,3,4,14,0,0,0,Needs Improvement
+EMP-1148,26,Engineering,Systems Architect,2,Marketing,5822.47,2,2,0,2,3,9,9.0,Yes,2,2,2,9,1,0,1,Needs Improvement
+EMP-1149,41,Engineering,Systems Architect,1,Technical Degree,11184.34,12,10,10,17,3,9,24.0,No,3,3,4,33,0,0,0,Needs Improvement
+EMP-1150,39,Marketing,Brand Strategist,3,Business,10512.26,10,6,6,16,4,5,30.0,Yes,2,5,3,10,1,0,0,Needs Improvement
+EMP-1151,39,Engineering,Systems Architect,3,Marketing,9331.58,14,9,0,15,3,7,27.0,No,5,2,3,59,1,1,0,Needs Improvement
+EMP-1152,39,Research & Development,Laboratory Technician,3,Computer Science,9472.47,11,10,2,17,3,11,26.0,No,3,2,1,23,0,0,1,Needs Improvement
+EMP-1153,31,Engineering,Software Engineer,4,Business,10677.8,5,4,4,9,3,7,22.0,No,4,5,5,36,2,0,0,Needs Improvement
+EMP-1154,38,Human Resources,HR Manager,3,Computer Science,10800.25,8,5,2,15,5,9,57.0,No,4,3,3,4,1,1,0,Strong Contributor
+EMP-1155,39,Human Resources,HR Specialist,4,Marketing,11892.81,15,11,3,18,2,11,43.0,No,4,3,3,1,0,0,0,Needs Improvement
+EMP-1156,31,Engineering,QA Engineer,2,Computer Science,7872.48,3,1,0,10,1,6,47.0,Yes,4,2,2,19,1,0,0,Needs Improvement
+EMP-1157,51,Sales,Sales Director,3,Computer Science,13538.0,2,1,1,27,3,5,37.0,No,2,3,3,18,2,0,0,Needs Improvement
+EMP-1158,40,Engineering,DevOps Engineer,3,Life Sciences,12397.91,15,8,2,18,5,8,15.0,No,3,3,3,2,0,1,0,Strong Contributor
+EMP-1159,27,Marketing,Digital Marketer,2,Technical Degree,8480.1,2,2,1,6,5,6,44.0,Yes,2,5,5,17,0,1,0,Strong Contributor
+EMP-1160,42,Marketing,Digital Marketer,4,Technical Degree,12115.52,11,9,0,19,3,6,52.0,No,4,3,5,10,2,0,0,Needs Improvement
+EMP-1161,29,Sales,Sales Representative,3,Technical Degree,9425.11,2,0,0,6,4,8,54.0,Yes,5,3,4,1,3,1,0,Strong Contributor
+EMP-1162,43,Sales,Sales Director,2,Medical,12275.24,4,1,1,21,3,7,42.0,No,4,5,5,8,0,0,0,Needs Improvement
+EMP-1163,46,Sales,Sales Representative,1,Life Sciences,14040.08,17,11,7,23,5,8,34.0,Yes,2,5,2,32,3,1,0,Strong Contributor
+EMP-1164,30,Research & Development,Laboratory Technician,3,Business,7936.5,2,0,0,7,2,3,33.0,Yes,3,2,2,8,0,0,1,Needs Improvement
+EMP-1165,44,Sales,Sales Executive,3,Business,13635.52,22,22,19,22,2,3,41.0,No,3,4,2,18,3,0,0,Needs Improvement
+EMP-1166,40,Engineering,DevOps Engineer,4,Business,13339.53,5,5,1,16,2,6,11.0,No,2,3,1,1,1,0,0,Needs Improvement
+EMP-1167,43,Sales,Sales Executive,2,Technical Degree,12324.43,17,7,1,19,3,4,42.0,No,1,3,5,15,2,0,0,Needs Improvement
+EMP-1168,52,Engineering,QA Engineer,1,Technical Degree,15157.36,25,4,1,29,4,6,27.0,No,3,3,1,35,2,0,0,Needs Improvement
+EMP-1169,35,Human Resources,HR Specialist,2,Life Sciences,6832.8,5,0,0,11,3,7,64.0,No,5,3,4,8,0,0,0,Needs Improvement
+EMP-1170,30,Engineering,Engineering Lead,1,Computer Science,4723.51,3,0,0,6,5,5,29.0,No,3,2,4,4,0,1,0,Strong Contributor
+EMP-1171,29,Research & Development,Research Scientist,1,Technical Degree,6492.7,3,0,0,6,3,6,36.0,No,3,3,3,12,1,0,0,Needs Improvement
+EMP-1172,30,Engineering,QA Engineer,4,Business,9201.0,2,2,2,6,2,6,36.0,No,3,3,1,29,0,0,1,Needs Improvement
+EMP-1173,36,Engineering,DevOps Engineer,2,Computer Science,9455.61,12,9,5,13,3,7,24.0,No,3,2,1,2,1,0,0,Needs Improvement
+EMP-1174,39,Research & Development,R&D Manager,2,Technical Degree,10707.83,1,1,0,18,3,8,40.0,Yes,5,3,2,6,3,0,0,Needs Improvement
+EMP-1175,39,Operations,Operations Analyst,1,Marketing,8604.75,16,9,1,17,4,5,38.0,No,3,5,3,2,0,1,0,Needs Improvement
+EMP-1176,43,Human Resources,HR Manager,2,Medical,11674.77,10,4,3,21,3,12,48.0,Yes,1,3,3,8,1,1,0,Needs Improvement
+EMP-1177,37,Engineering,QA Engineer,3,Technical Degree,,10,0,0,13,3,9,44.0,No,3,3,3,9,0,0,0,Needs Improvement
+EMP-1178,48,Engineering,DevOps Engineer,3,Marketing,13349.19,20,5,2,24,3,6,36.0,Yes,5,4,4,34,1,0,0,Needs Improvement
+EMP-1179,34,Marketing,Digital Marketer,3,Life Sciences,7932.0,1,0,0,10,3,6,22.0,No,3,3,3,6,0,0,0,Needs Improvement
+EMP-1180,58,Sales,Sales Director,2,Marketing,18033.99,33,15,13,36,5,6,22.0,Yes,3,2,2,10,0,1,0,Strong Contributor
+EMP-1181,42,Engineering,DevOps Engineer,2,Life Sciences,,7,7,6,21,1,3,57.0,No,2,3,4,25,2,0,0,Needs Improvement
+EMP-1182,30,Marketing,Digital Marketer,2,Technical Degree,8436.25,9,0,0,9,4,7,35.0,Yes,2,2,3,4,2,0,1,Needs Improvement
+EMP-1183,28,Marketing,Marketing Specialist,2,Life Sciences,6937.28,5,0,0,6,3,8,63.0,No,4,4,3,13,2,0,0,Needs Improvement
+EMP-1184,40,Operations,Operations Manager,3,Marketing,12389.64,3,1,0,19,3,7,22.0,Yes,3,5,4,16,2,0,0,Needs Improvement
+EMP-1185,35,Operations,Operations Analyst,2,Medical,9836.06,13,9,8,13,5,7,64.0,No,3,3,5,4,1,1,0,Strong Contributor
+EMP-1186,42,Marketing,Marketing Specialist,3,Computer Science,12880.88,0,0,0,21,3,6,20.0,No,3,3,4,2,1,0,0,Needs Improvement
+EMP-1187,40,Engineering,Software Engineer,2,Computer Science,10490.03,10,0,0,17,3,5,27.0,No,5,3,2,8,0,0,0,Needs Improvement
+EMP-1188,36,Engineering,DevOps Engineer,3,Medical,10604.37,6,5,1,13,2,8,,Yes,1,2,3,5,0,0,1,Needs Improvement
+EMP-1189,30,Research & Development,Research Scientist,4,Business,8437.14,0,0,0,8,3,9,47.0,Yes,4,4,2,3,0,0,0,Needs Improvement
+EMP-1190,24,Research & Development,Research Scientist,3,Computer Science,5070.26,2,0,0,3,4,7,43.0,No,3,3,5,43,0,1,1,Needs Improvement
+EMP-1191,33,Sales,Sales Director,3,Technical Degree,9718.97,3,3,3,9,3,10,7.0,Yes,4,1,2,8,0,0,1,Needs Improvement
+EMP-1192,43,Sales,Sales Director,4,Business,12277.07,17,13,7,22,4,1,25.0,Yes,5,4,2,23,0,0,0,Needs Improvement
+EMP-1193,38,Sales,Account Manager,3,Technical Degree,12066.49,5,4,4,15,3,12,17.0,No,3,2,4,2,1,0,0,Needs Improvement
+EMP-1194,27,Research & Development,Laboratory Technician,2,Marketing,6375.81,4,2,1,4,2,14,,No,2,5,5,33,0,0,0,Needs Improvement
+EMP-1195,38,Engineering,Systems Architect,2,Marketing,9987.76,11,7,3,17,1,6,33.0,Yes,2,3,3,18,1,0,1,Needs Improvement
+EMP-1196,40,Engineering,Engineering Lead,3,Business,12241.83,8,5,0,19,3,7,4.0,No,4,3,2,19,1,0,0,Needs Improvement
+EMP-1197,29,Sales,Sales Representative,3,Business,6514.02,4,4,4,5,5,3,47.0,Yes,2,1,3,5,2,1,1,Strong Contributor
+EMP-1198,38,Human Resources,Recruiter,2,Business,10446.95,9,0,0,14,3,9,44.0,Yes,2,3,4,7,0,0,0,Needs Improvement
+EMP-1199,37,Engineering,QA Engineer,2,Business,11189.14,3,2,0,16,3,8,56.0,No,2,4,3,10,1,1,0,Needs Improvement
+EMP-1200,27,Research & Development,R&D Manager,4,Life Sciences,8295.23,4,4,1,6,4,5,19.0,No,3,3,2,18,1,0,0,Needs Improvement
+EMP-1201,39,Research & Development,Research Scientist,1,Business,11311.74,9,7,5,18,4,3,20.0,No,1,4,2,22,3,0,0,Needs Improvement
+EMP-1202,41,Sales,Sales Executive,2,Business,11896.65,10,2,2,20,1,4,48.0,Yes,4,3,4,1,0,0,0,Needs Improvement
+EMP-1203,45,Engineering,Engineering Lead,1,Marketing,14125.51,20,5,3,23,4,9,49.0,No,4,4,3,28,0,1,0,Strong Contributor
+EMP-1204,45,Sales,Account Manager,3,Technical Degree,15221.25,23,4,0,24,3,3,52.0,No,3,5,3,33,0,0,0,Needs Improvement
+EMP-1205,25,Engineering,DevOps Engineer,1,Marketing,3750.69,1,1,0,1,2,3,50.0,No,3,3,3,10,0,0,0,Needs Improvement
+EMP-1206,29,Operations,Operations Analyst,3,Computer Science,8009.78,3,1,1,6,3,6,37.0,Yes,3,3,3,2,1,0,0,Needs Improvement
+EMP-1207,41,Engineering,Systems Architect,1,Life Sciences,11671.22,7,0,0,19,3,5,27.0,Yes,4,4,5,20,2,0,0,Needs Improvement
+EMP-1208,41,Research & Development,Laboratory Technician,3,Life Sciences,12366.21,1,0,0,20,3,9,44.0,No,3,2,3,9,0,0,0,Needs Improvement
+EMP-1209,41,Engineering,Engineering Lead,3,Technical Degree,11535.57,7,0,0,18,3,10,27.0,No,3,4,3,20,0,0,0,Needs Improvement
+EMP-1210,62,Sales,Account Manager,2,Business,20693.06,26,1,1,40,2,9,35.0,No,3,3,2,20,0,0,0,Needs Improvement
+EMP-1211,41,Research & Development,Research Scientist,3,Marketing,11826.78,4,1,1,18,4,8,28.0,No,4,3,2,1,0,0,0,Needs Improvement
+EMP-1212,46,Engineering,Software Engineer,2,Computer Science,14134.15,24,14,6,25,5,11,37.0,No,3,1,4,11,2,1,0,Strong Contributor
+EMP-1213,44,Sales,Account Manager,2,Marketing,14400.99,2,0,0,23,4,4,51.0,Yes,3,4,4,7,2,0,0,Needs Improvement
+EMP-1214,42,Engineering,Engineering Lead,3,Business,14120.01,11,9,6,18,3,8,29.0,No,2,3,3,35,0,0,1,Needs Improvement
+EMP-1215,34,Sales,Sales Director,2,Business,8866.04,12,3,2,13,3,8,26.0,No,3,4,2,4,0,0,0,Needs Improvement
+EMP-1216,43,Research & Development,R&D Manager,3,Medical,13161.19,12,5,4,22,3,12,32.0,No,3,3,2,2,2,0,0,Needs Improvement
+EMP-1217,30,Sales,Sales Director,2,Marketing,7506.6,3,1,0,8,2,6,17.0,No,3,2,4,27,0,0,1,Needs Improvement
+EMP-1218,35,Marketing,Marketing Specialist,2,Technical Degree,8667.06,8,1,1,11,3,9,43.0,No,3,5,3,1,1,0,0,Needs Improvement
+EMP-1219,33,Research & Development,Research Scientist,2,Marketing,8918.72,5,1,1,11,3,8,35.0,No,4,4,4,13,2,0,0,Needs Improvement
+EMP-1220,37,Sales,Sales Director,3,Life Sciences,9878.84,7,3,3,14,4,4,33.0,No,1,5,3,4,1,0,0,Needs Improvement
+EMP-1221,55,Engineering,Engineering Lead,2,Computer Science,16180.43,26,16,1,34,3,11,38.0,No,3,3,5,10,0,0,0,Needs Improvement
+EMP-1222,22,Sales,Account Manager,3,Technical Degree,6578.44,0,0,0,0,3,3,13.0,No,3,3,4,11,0,0,0,Needs Improvement
+EMP-1223,42,Human Resources,HR Manager,2,Medical,12550.87,1,0,0,20,3,4,53.0,No,3,3,1,6,2,0,0,Needs Improvement
+EMP-1224,24,Engineering,Systems Architect,1,Computer Science,4563.32,2,1,0,3,3,7,26.0,Yes,3,3,4,44,0,0,1,Needs Improvement
+EMP-1225,33,Marketing,Marketing Specialist,3,Computer Science,9953.4,0,0,0,12,3,8,28.0,No,4,1,2,1,0,0,0,Needs Improvement
+EMP-1226,45,Engineering,QA Engineer,3,Life Sciences,15389.66,6,5,4,23,3,7,46.0,Yes,3,2,2,5,2,0,0,Needs Improvement
+EMP-1227,37,Marketing,Digital Marketer,1,Life Sciences,8790.78,0,0,0,15,3,4,42.0,No,4,4,3,6,2,0,0,Needs Improvement
+EMP-1228,28,Engineering,Engineering Lead,3,Life Sciences,7470.03,2,0,0,6,3,10,61.0,No,4,3,3,11,1,0,0,Needs Improvement
+EMP-1229,31,Marketing,Brand Strategist,2,Technical Degree,6569.12,3,2,1,9,2,5,20.0,No,3,5,3,6,0,0,0,Needs Improvement
+EMP-1230,42,Sales,Sales Director,3,Marketing,12493.49,19,11,8,20,4,11,20.0,No,4,2,3,1,1,1,0,Needs Improvement
+EMP-1231,31,Engineering,QA Engineer,3,Computer Science,9354.94,4,2,1,10,4,4,17.0,No,3,5,2,35,0,0,0,Needs Improvement
+EMP-1232,38,Engineering,Engineering Lead,3,Marketing,10076.75,2,2,0,16,3,4,35.0,No,3,3,1,6,0,0,0,Needs Improvement
+EMP-1233,37,Sales,Sales Executive,3,Marketing,10911.52,2,2,0,16,2,7,30.0,Yes,5,4,3,5,2,0,0,Needs Improvement
+EMP-1234,31,Operations,Operations Manager,2,Life Sciences,8919.93,0,0,0,10,4,11,24.0,No,3,3,3,7,0,0,0,Needs Improvement
+EMP-1235,54,Engineering,QA Engineer,3,Marketing,17690.28,26,14,12,32,3,11,33.0,Yes,2,4,3,2,0,0,0,Needs Improvement
+EMP-1236,42,Engineering,Software Engineer,3,Computer Science,11558.13,13,11,4,20,3,10,19.0,Yes,3,3,3,1,0,0,1,Needs Improvement
+EMP-1237,21,Research & Development,R&D Manager,1,Computer Science,4136.4,0,0,0,0,2,4,55.0,Yes,3,3,4,1,1,0,0,Needs Improvement
+EMP-1238,38,Sales,Account Manager,2,Business,11362.85,16,2,1,17,3,9,24.0,Yes,2,1,3,2,1,0,1,Needs Improvement
+EMP-1239,31,Research & Development,Research Scientist,4,Medical,9117.19,1,0,0,9,4,4,26.0,No,4,3,1,2,2,0,0,Needs Improvement
+EMP-1240,43,Research & Development,Laboratory Technician,3,Technical Degree,13960.41,12,2,2,21,4,6,0.0,No,3,4,3,6,1,0,0,Needs Improvement
+EMP-1241,30,Engineering,QA Engineer,1,Marketing,6309.5,3,2,0,8,3,7,10.0,Yes,4,2,3,11,1,0,0,Needs Improvement
+EMP-1242,36,Operations,Operations Manager,3,Technical Degree,9931.24,12,3,3,12,3,11,25.0,No,2,3,3,11,1,0,0,Needs Improvement
+EMP-1243,41,Sales,Account Manager,3,Technical Degree,10411.32,17,3,1,17,2,5,29.0,Yes,3,1,3,1,0,0,1,Needs Improvement
+EMP-1244,43,Engineering,DevOps Engineer,2,Technical Degree,10559.44,3,2,1,20,2,6,44.0,No,1,4,3,30,0,0,1,Needs Improvement
+EMP-1245,27,Human Resources,Recruiter,2,Business,7382.97,0,0,0,6,5,8,13.0,No,2,5,2,20,1,0,0,Strong Contributor
+EMP-1246,34,Research & Development,R&D Manager,3,Technical Degree,9198.51,1,1,1,11,3,5,40.0,Yes,3,3,3,39,0,0,1,Needs Improvement
+EMP-1247,33,Sales,Account Manager,2,Business,8162.92,0,0,0,11,3,4,42.0,No,5,2,2,5,0,0,0,Needs Improvement
+EMP-1248,31,Research & Development,Laboratory Technician,1,Computer Science,5501.36,1,1,0,7,4,6,43.0,No,3,3,3,13,1,0,0,Needs Improvement
+EMP-1249,51,Engineering,Software Engineer,3,Marketing,16004.39,25,15,10,27,4,5,48.0,No,3,1,3,2,1,1,0,Needs Improvement
+EMP-1250,40,Sales,Sales Executive,4,Business,10702.79,12,11,0,17,4,8,17.0,Yes,3,3,3,20,1,0,1,Needs Improvement
+EMP-1251,26,Marketing,Brand Strategist,3,Medical,6653.59,2,0,0,2,1,10,41.0,No,1,2,3,2,1,0,0,Needs Improvement
+EMP-1252,44,Engineering,DevOps Engineer,3,Technical Degree,13765.9,9,0,0,22,2,4,58.0,No,3,3,1,4,1,0,0,Needs Improvement
+EMP-1253,53,Sales,Account Manager,2,Medical,14107.99,26,6,1,29,3,6,53.0,Yes,1,1,5,8,2,0,0,Needs Improvement
+EMP-1254,45,Marketing,Brand Strategist,2,Computer Science,12873.37,10,10,6,22,3,4,60.0,Yes,4,1,3,10,0,1,1,Needs Improvement
+EMP-1255,24,Operations,Logistics Coordinator,3,Computer Science,8148.35,0,0,0,2,5,6,37.0,No,4,1,3,9,1,1,0,Strong Contributor
+EMP-1256,33,Sales,Account Manager,2,Life Sciences,9270.48,8,1,1,10,3,8,25.0,Yes,3,3,2,1,0,0,1,Needs Improvement
+EMP-1257,47,Sales,Sales Director,3,Technical Degree,12994.78,4,0,0,23,5,7,0.0,Yes,3,3,2,6,0,0,0,Strong Contributor
+EMP-1258,31,Research & Development,Research Scientist,2,Life Sciences,8085.04,0,0,0,8,3,7,16.0,No,2,2,3,30,2,0,0,Needs Improvement
+EMP-1259,40,Operations,Logistics Coordinator,2,Medical,9585.68,16,2,0,17,4,6,26.0,No,4,3,3,24,0,0,0,Needs Improvement
+EMP-1260,43,Marketing,Digital Marketer,2,Marketing,11525.82,21,3,2,22,3,6,29.0,No,4,4,2,10,0,0,0,Needs Improvement
+EMP-1261,29,Engineering,Engineering Lead,4,Life Sciences,7439.42,1,0,0,5,5,7,22.0,No,4,2,3,10,1,1,0,Strong Contributor
+EMP-1262,36,Sales,Sales Representative,2,Computer Science,9456.49,7,5,1,12,2,5,38.0,No,3,4,3,1,0,0,0,Needs Improvement
+EMP-1263,21,Sales,Account Manager,1,Technical Degree,4530.2,0,0,0,0,3,4,36.0,Yes,2,3,3,2,1,0,1,Needs Improvement
+EMP-1264,28,Human Resources,HR Specialist,2,Medical,7802.67,4,1,1,7,4,12,34.0,No,3,1,3,3,0,1,0,Strong Contributor
+EMP-1265,34,Research & Development,Laboratory Technician,3,Business,9245.28,8,4,0,10,3,5,44.0,No,5,3,4,8,0,0,0,Needs Improvement
+EMP-1266,27,Research & Development,Research Scientist,2,Computer Science,4847.41,4,3,2,5,3,6,27.0,No,5,3,2,15,2,0,0,Needs Improvement
+EMP-1267,50,Operations,Operations Manager,2,Business,14605.16,3,3,0,27,5,4,49.0,Yes,3,3,3,7,1,1,0,Strong Contributor
+EMP-1268,25,Engineering,Systems Architect,2,Marketing,5651.81,0,0,0,1,3,9,17.0,No,4,2,2,1,1,0,0,Needs Improvement
+EMP-1269,33,Engineering,DevOps Engineer,3,Technical Degree,9578.96,10,10,4,11,3,5,29.0,Yes,5,5,3,6,1,0,0,Needs Improvement
+EMP-1270,38,Sales,Sales Executive,1,Marketing,9283.9,7,7,4,14,2,1,38.0,No,2,3,3,2,2,0,0,Needs Improvement
+EMP-1271,48,Sales,Sales Director,2,Marketing,14576.3,18,15,3,26,4,4,7.0,No,4,3,2,16,1,0,0,Needs Improvement
+EMP-1272,25,Engineering,Software Engineer,2,Technical Degree,5441.27,0,0,0,2,3,6,26.0,Yes,2,1,3,2,0,0,1,Needs Improvement
+EMP-1273,46,Engineering,Software Engineer,3,Technical Degree,11591.59,2,1,1,22,3,7,43.0,No,3,2,4,7,0,0,0,Needs Improvement
+EMP-1274,37,Research & Development,Laboratory Technician,3,Business,10979.4,11,3,3,13,1,4,28.0,No,2,3,2,14,0,0,0,Needs Improvement
+EMP-1275,29,Marketing,Marketing Specialist,3,Marketing,7940.52,2,0,0,8,3,4,,Yes,3,3,3,3,0,0,0,Needs Improvement
+EMP-1276,40,Sales,Sales Representative,4,Medical,12696.83,12,9,2,17,1,8,21.0,Yes,4,4,5,1,0,0,0,Needs Improvement
+EMP-1277,38,Research & Development,Research Scientist,4,Business,9604.92,6,3,0,16,1,6,15.0,Yes,3,3,3,9,0,0,0,Needs Improvement
+EMP-1278,32,Engineering,Engineering Lead,2,Technical Degree,8934.89,6,4,4,8,3,5,40.0,No,2,2,4,1,2,0,0,Needs Improvement
+EMP-1279,37,Human Resources,HR Specialist,3,Computer Science,8899.23,6,1,1,13,2,4,35.0,No,2,3,4,10,1,0,0,Needs Improvement
+EMP-1280,33,Human Resources,Recruiter,3,Business,11467.21,9,2,0,11,2,7,12.0,No,3,1,2,16,0,0,0,Needs Improvement
+EMP-1281,37,Research & Development,Research Scientist,3,Life Sciences,12227.32,7,5,4,14,3,8,11.0,Yes,3,3,2,4,1,0,1,Needs Improvement
+EMP-1282,42,Engineering,DevOps Engineer,2,Medical,11187.58,4,2,1,21,2,6,23.0,Yes,3,4,4,8,1,0,0,Needs Improvement
+EMP-1283,49,Engineering,Engineering Lead,3,Business,16375.33,20,8,8,28,3,11,34.0,No,1,3,4,31,0,0,0,Needs Improvement
+EMP-1284,27,Engineering,Software Engineer,2,Technical Degree,4624.51,1,0,0,3,2,12,24.0,No,4,4,1,7,1,0,0,Needs Improvement
+EMP-1285,54,Research & Development,Laboratory Technician,3,Technical Degree,16584.53,3,0,0,32,3,10,38.0,No,4,5,3,60,0,0,0,Needs Improvement
+EMP-1286,21,Marketing,Digital Marketer,2,Medical,3844.85,0,0,0,0,3,5,38.0,No,3,3,3,2,1,0,0,Needs Improvement
+EMP-1287,35,Marketing,Brand Strategist,2,Life Sciences,9743.14,6,1,1,13,4,5,41.0,No,4,2,4,14,0,0,0,Needs Improvement
+EMP-1288,41,Sales,Account Manager,2,Business,12292.17,9,7,0,20,3,6,14.0,Yes,4,3,3,12,1,0,0,Needs Improvement
+EMP-1289,39,Human Resources,Recruiter,2,Business,9398.57,14,6,2,16,2,13,30.0,No,3,1,5,24,1,0,0,Needs Improvement
+EMP-1290,32,Operations,Logistics Coordinator,3,Marketing,9195.96,1,1,1,10,2,10,49.0,No,3,3,5,1,1,0,0,Needs Improvement
+EMP-1291,35,Engineering,Software Engineer,2,Computer Science,9536.3,3,3,1,14,3,5,24.0,Yes,4,4,4,3,1,0,0,Needs Improvement
+EMP-1292,33,Sales,Account Manager,2,Technical Degree,6181.5,7,2,1,9,5,13,22.0,No,2,3,3,1,1,1,0,Strong Contributor
+EMP-1293,32,Operations,Operations Manager,4,Business,9009.37,8,6,5,10,3,4,27.0,No,3,4,3,32,0,0,0,Needs Improvement
+EMP-1294,43,Sales,Account Manager,2,Business,13494.38,15,9,1,20,3,4,26.0,No,4,4,1,6,1,0,0,Needs Improvement
+EMP-1295,39,Operations,Operations Analyst,3,Business,10339.75,2,0,0,15,2,7,35.0,No,3,4,3,28,2,0,0,Needs Improvement
+EMP-1296,31,Operations,Operations Manager,1,Life Sciences,4808.02,7,0,0,7,3,8,25.0,No,4,2,3,4,2,0,0,Needs Improvement
+EMP-1297,44,Research & Development,R&D Manager,2,Computer Science,13873.02,6,2,2,23,3,14,5.0,No,3,4,3,1,3,0,0,Needs Improvement
+EMP-1298,39,Marketing,Marketing Specialist,3,Business,10625.24,13,13,12,17,3,5,50.0,No,3,3,3,4,0,0,0,Needs Improvement
+EMP-1299,43,Human Resources,HR Manager,3,Medical,12412.99,13,9,5,19,4,3,41.0,No,3,2,3,10,0,1,0,Needs Improvement
+EMP-1300,42,Research & Development,Research Scientist,2,Technical Degree,11465.21,3,1,0,19,3,10,36.0,Yes,3,5,4,22,1,0,0,Needs Improvement
+EMP-1301,30,Sales,Sales Representative,4,Marketing,10225.5,2,1,1,8,2,10,32.0,No,4,5,3,5,0,0,0,Needs Improvement
+EMP-1302,32,Engineering,QA Engineer,4,Medical,8865.85,4,1,0,9,3,7,29.0,No,3,3,2,29,0,0,0,Needs Improvement
+EMP-1303,42,Sales,Sales Executive,4,Technical Degree,11409.87,0,0,0,18,3,11,22.0,No,4,4,3,3,1,0,0,Needs Improvement
+EMP-1304,41,Research & Development,Research Scientist,2,Life Sciences,10818.04,2,0,0,18,3,5,7.0,No,3,2,5,14,0,0,0,Needs Improvement
+EMP-1305,36,Engineering,QA Engineer,2,Computer Science,8994.1,14,4,1,15,3,10,56.0,Yes,3,3,4,15,0,1,1,Needs Improvement
+EMP-1306,37,Engineering,Software Engineer,3,Computer Science,10131.66,7,4,0,14,3,12,,Yes,5,2,2,3,3,1,0,Needs Improvement
+EMP-1307,47,Engineering,Engineering Lead,3,Technical Degree,16092.81,7,6,6,25,3,7,11.0,No,2,3,3,1,0,0,0,Needs Improvement
+EMP-1308,32,Research & Development,R&D Manager,2,Medical,8943.62,3,3,0,9,4,10,19.0,No,4,3,5,5,0,1,0,Needs Improvement
+EMP-1309,41,Operations,Operations Manager,3,Marketing,13677.07,1,1,0,18,3,8,38.0,Yes,2,2,2,1,0,0,1,Needs Improvement
+EMP-1310,35,Operations,Operations Manager,1,Life Sciences,9551.33,12,10,7,14,4,10,37.0,Yes,4,3,2,27,2,0,0,Strong Contributor
+EMP-1311,35,Sales,Sales Executive,2,Technical Degree,9088.79,7,5,3,12,3,5,23.0,Yes,3,2,2,36,1,0,1,Needs Improvement
+EMP-1312,45,Marketing,Digital Marketer,2,Life Sciences,11861.54,9,6,3,22,3,5,,Yes,5,1,3,15,0,0,1,Needs Improvement
+EMP-1313,43,Human Resources,Recruiter,3,Computer Science,12462.7,3,0,0,19,4,8,25.0,No,4,3,3,15,0,0,0,Needs Improvement
+EMP-1314,43,Sales,Sales Director,2,Business,11502.67,2,1,0,19,3,6,6.0,Yes,1,3,1,3,1,0,1,Needs Improvement
+EMP-1315,47,Research & Development,Research Scientist,3,Business,15200.76,1,1,1,25,4,3,27.0,No,2,3,3,1,0,0,0,Needs Improvement
+EMP-1316,37,Engineering,QA Engineer,3,Marketing,8929.97,8,7,2,13,4,5,27.0,Yes,3,2,2,19,3,0,0,Needs Improvement
+EMP-1317,42,Operations,Operations Analyst,3,Life Sciences,11887.41,16,13,10,18,2,14,55.0,No,3,3,3,9,1,0,0,Needs Improvement
+EMP-1318,34,Sales,Account Manager,4,Technical Degree,7983.85,6,3,2,10,3,8,27.0,No,2,2,3,13,0,0,1,Needs Improvement
+EMP-1319,39,Sales,Sales Executive,3,Marketing,11003.85,4,3,3,15,2,4,37.0,Yes,2,3,3,18,2,0,1,Needs Improvement
+EMP-1320,35,Research & Development,R&D Manager,4,Medical,11528.18,7,4,0,14,5,6,56.0,No,3,4,1,6,0,1,0,Strong Contributor
+EMP-1321,37,Sales,Account Manager,1,Business,7280.64,3,2,1,13,4,10,19.0,Yes,1,2,3,1,0,1,1,Needs Improvement
+EMP-1322,41,Engineering,Systems Architect,2,Technical Degree,10794.22,12,5,0,20,2,5,25.0,Yes,4,3,3,19,0,0,1,Needs Improvement
+EMP-1323,30,Research & Development,R&D Manager,1,Life Sciences,6053.62,4,1,0,9,2,11,26.0,No,4,2,3,7,2,0,0,Needs Improvement
+EMP-1324,53,Engineering,QA Engineer,2,Marketing,15260.14,29,17,3,29,3,2,10.0,No,4,3,3,21,0,0,0,Needs Improvement
+EMP-1325,28,Human Resources,HR Specialist,3,Technical Degree,5642.26,4,1,1,5,3,11,30.0,No,1,3,3,6,0,0,0,Needs Improvement
+EMP-1326,27,Sales,Sales Director,1,Marketing,7320.64,5,0,0,6,1,6,50.0,Yes,1,5,1,2,0,0,1,Needs Improvement
+EMP-1327,46,Research & Development,Research Scientist,3,Marketing,14132.54,8,4,1,23,3,4,45.0,No,3,3,2,2,2,0,0,Needs Improvement
+EMP-1328,43,Research & Development,Research Scientist,3,Marketing,13139.14,5,1,0,20,3,8,50.0,Yes,5,3,2,16,0,0,0,Needs Improvement
+EMP-1329,41,Research & Development,R&D Manager,3,Life Sciences,10029.86,4,3,1,17,2,5,25.0,No,3,3,3,10,0,0,0,Needs Improvement
+EMP-1330,42,Research & Development,R&D Manager,2,Technical Degree,13163.86,9,5,1,20,4,6,18.0,No,3,2,3,6,1,0,0,Needs Improvement
+EMP-1331,36,Research & Development,Research Scientist,3,Computer Science,10144.65,7,7,7,12,4,5,65.0,No,2,5,4,8,1,1,0,Needs Improvement
+EMP-1332,29,Human Resources,Recruiter,2,Computer Science,6445.89,6,2,0,7,4,6,37.0,No,3,3,4,9,2,1,0,Needs Improvement
+EMP-1333,37,Human Resources,HR Specialist,2,Life Sciences,8712.41,6,6,4,15,4,3,11.0,Yes,3,1,4,3,0,0,0,Needs Improvement
+EMP-1334,31,Marketing,Brand Strategist,3,Life Sciences,7591.49,5,2,1,7,3,6,69.0,No,2,3,3,5,2,1,0,Needs Improvement
+EMP-1335,44,Engineering,QA Engineer,3,Business,12180.21,20,9,5,20,3,11,32.0,Yes,3,3,3,4,1,0,0,Needs Improvement
+EMP-1336,35,Sales,Sales Executive,2,Marketing,8957.57,12,10,0,13,3,11,0.0,No,3,1,4,5,0,0,1,Needs Improvement
+EMP-1337,30,Operations,Operations Analyst,3,Technical Degree,6645.11,3,2,0,6,4,10,54.0,No,3,3,2,8,2,1,0,Strong Contributor
+EMP-1338,34,Sales,Sales Director,2,Technical Degree,9609.29,2,0,0,12,5,8,1.0,No,3,3,3,2,1,0,0,Strong Contributor
+EMP-1339,40,Engineering,Engineering Lead,2,Medical,8519.48,14,3,2,17,4,9,38.0,Yes,4,3,2,6,1,1,0,Needs Improvement
+EMP-1340,32,Research & Development,R&D Manager,1,Medical,8126.94,3,2,2,8,4,7,45.0,No,3,1,4,5,3,1,0,Needs Improvement
+EMP-1341,30,Engineering,QA Engineer,3,Computer Science,8558.3,3,3,0,7,3,5,43.0,No,3,5,3,4,1,0,0,Needs Improvement
+EMP-1342,38,Engineering,DevOps Engineer,3,Medical,11649.62,11,0,0,17,3,6,55.0,No,4,2,2,60,0,0,0,Needs Improvement
+EMP-1343,38,Operations,Logistics Coordinator,1,Medical,9370.32,5,0,0,15,3,5,48.0,No,4,3,3,1,2,0,0,Needs Improvement
+EMP-1344,32,Research & Development,Research Scientist,2,Computer Science,8794.75,2,2,1,9,2,7,59.0,Yes,3,3,2,12,0,0,1,Needs Improvement
+EMP-1345,33,Engineering,DevOps Engineer,3,Business,9141.97,3,0,0,11,1,4,32.0,No,2,2,5,2,1,0,1,Needs Improvement
+EMP-1346,38,Operations,Operations Manager,2,Computer Science,9849.41,14,5,0,15,3,4,28.0,No,4,2,3,21,0,0,0,Needs Improvement
+EMP-1347,25,Operations,Operations Analyst,2,Medical,5804.85,0,0,0,1,3,8,29.0,Yes,2,2,3,29,0,0,1,Needs Improvement
+EMP-1348,25,Sales,Account Manager,3,Technical Degree,8024.06,0,0,0,3,3,7,53.0,Yes,5,2,3,6,1,0,0,Needs Improvement
+EMP-1349,31,Engineering,DevOps Engineer,2,Medical,7326.09,6,5,1,10,3,9,25.0,No,1,2,4,20,1,0,0,Needs Improvement
+EMP-1350,35,Marketing,Brand Strategist,3,Marketing,9562.32,9,2,2,11,3,8,45.0,No,5,3,4,3,1,0,0,Needs Improvement
+EMP-1351,39,Research & Development,Research Scientist,1,Marketing,9662.25,17,0,0,18,3,6,21.0,Yes,3,3,4,1,2,0,0,Needs Improvement
+EMP-1352,48,Research & Development,Research Scientist,3,Marketing,14951.48,4,3,1,25,3,8,22.0,Yes,4,3,4,4,0,0,0,Needs Improvement
+EMP-1353,43,Marketing,Digital Marketer,2,Business,10919.64,15,5,2,19,3,8,50.0,No,3,1,2,5,1,1,0,Needs Improvement
+EMP-1354,35,Research & Development,Laboratory Technician,3,Life Sciences,10270.39,10,6,5,11,4,1,40.0,No,5,4,5,6,2,0,0,Needs Improvement
+EMP-1355,36,Engineering,Systems Architect,2,Marketing,10009.89,2,2,1,15,3,12,3.0,No,2,2,3,5,1,0,1,Needs Improvement
+EMP-1356,28,Research & Development,Laboratory Technician,3,Technical Degree,6561.83,0,0,0,4,3,7,22.0,No,2,3,4,6,1,0,0,Needs Improvement
+EMP-1357,36,Sales,Sales Director,3,Business,11028.0,10,10,1,12,4,6,0.0,Yes,1,1,3,14,0,0,1,Needs Improvement
+EMP-1358,34,Human Resources,HR Specialist,2,Life Sciences,7540.3,5,1,1,10,4,7,28.0,No,5,2,2,3,1,0,0,Needs Improvement
+EMP-1359,39,Research & Development,R&D Manager,2,Life Sciences,11096.36,3,2,2,16,4,11,30.0,Yes,3,3,3,1,1,1,0,Needs Improvement
+EMP-1360,30,Engineering,DevOps Engineer,3,Marketing,7849.89,6,0,0,9,3,5,27.0,No,3,3,2,8,0,0,0,Needs Improvement
+EMP-1361,41,Sales,Sales Executive,4,Medical,13136.67,15,11,6,17,1,5,50.0,Yes,3,3,3,7,1,0,0,Needs Improvement
+EMP-1362,49,Sales,Sales Director,1,Computer Science,15668.08,23,11,7,27,3,9,39.0,No,4,3,3,1,0,1,0,Needs Improvement
+EMP-1363,36,Sales,Sales Executive,1,Medical,8883.38,5,5,1,14,3,6,68.0,Yes,3,5,2,1,3,0,0,Needs Improvement
+EMP-1364,40,Research & Development,Research Scientist,3,Medical,9865.32,7,0,0,18,4,10,41.0,No,3,3,5,8,2,1,0,Strong Contributor
+EMP-1365,42,Sales,Sales Representative,1,Life Sciences,10780.68,16,16,9,20,3,2,41.0,Yes,4,3,4,3,0,0,0,Needs Improvement
+EMP-1366,33,Human Resources,HR Specialist,4,Life Sciences,11589.37,10,10,6,10,2,5,37.0,No,4,2,4,25,0,0,0,Needs Improvement
+EMP-1367,38,Engineering,Systems Architect,3,Business,9787.1,6,0,0,14,2,3,30.0,No,2,1,4,2,1,0,1,Needs Improvement
+EMP-1368,37,Research & Development,Laboratory Technician,3,Business,12673.92,9,8,7,16,2,9,24.0,No,2,3,3,1,1,0,0,Needs Improvement
+EMP-1369,37,Marketing,Digital Marketer,2,Life Sciences,8794.34,9,6,5,13,3,7,30.0,Yes,1,3,3,7,3,0,0,Needs Improvement
+EMP-1370,30,Research & Development,Research Scientist,2,Technical Degree,6492.1,7,1,1,7,4,6,31.0,No,3,3,2,51,0,0,1,Needs Improvement
+EMP-1371,37,Sales,Sales Representative,3,Technical Degree,11401.27,10,2,1,15,4,10,32.0,Yes,3,2,4,12,0,1,1,Needs Improvement
+EMP-1372,40,Operations,Operations Analyst,4,Computer Science,12653.41,1,0,0,17,5,4,42.0,No,3,4,4,5,2,0,0,Strong Contributor
+EMP-1373,48,Engineering,Software Engineer,4,Life Sciences,15486.96,8,4,0,24,3,11,38.0,Yes,5,5,4,1,0,0,0,Needs Improvement
+EMP-1374,44,Engineering,Software Engineer,2,Marketing,13144.42,16,14,3,23,3,6,26.0,No,3,3,5,7,1,0,0,Needs Improvement
+EMP-1375,54,Sales,Sales Executive,2,Business,17110.92,10,3,1,31,3,5,23.0,No,4,4,3,2,0,0,0,Needs Improvement
+EMP-1376,30,Engineering,QA Engineer,1,Life Sciences,8085.35,9,6,0,9,3,8,37.0,Yes,3,4,3,12,2,0,0,Needs Improvement
+EMP-1377,43,Operations,Operations Analyst,3,Technical Degree,13634.13,16,1,1,20,4,10,21.0,No,2,5,5,10,0,0,0,Needs Improvement
+EMP-1378,38,Engineering,Engineering Lead,2,Life Sciences,10298.8,3,0,0,17,3,10,28.0,No,3,3,3,3,1,0,0,Needs Improvement
+EMP-1379,54,Human Resources,HR Specialist,1,Technical Degree,17270.27,24,23,17,33,4,6,26.0,Yes,5,4,3,1,1,0,0,Needs Improvement
+EMP-1380,30,Human Resources,HR Manager,2,Life Sciences,6970.8,4,0,0,8,3,13,67.0,No,2,2,3,16,3,0,0,Needs Improvement
+EMP-1381,30,Engineering,QA Engineer,2,Marketing,7678.61,4,1,0,9,1,6,16.0,No,3,3,3,10,0,0,0,Needs Improvement
+EMP-1382,32,Research & Development,R&D Manager,4,Computer Science,9240.14,5,5,4,10,2,8,22.0,Yes,1,3,4,22,0,0,1,Needs Improvement
+EMP-1383,21,Engineering,Software Engineer,3,Marketing,4101.71,0,0,0,0,3,4,26.0,No,3,3,3,3,0,0,0,Needs Improvement
+EMP-1384,32,Sales,Account Manager,2,Technical Degree,,0,0,0,8,4,13,27.0,No,3,2,3,12,2,1,0,Strong Contributor
+EMP-1385,30,Engineering,Systems Architect,2,Business,8541.35,0,0,0,8,3,2,47.0,Yes,4,4,3,1,1,0,0,Needs Improvement
+EMP-1386,38,Operations,Operations Analyst,2,Business,9847.98,3,1,0,16,4,6,30.0,No,4,3,3,4,1,0,0,Needs Improvement
+EMP-1387,39,Operations,Logistics Coordinator,1,Medical,9637.23,16,13,9,16,4,3,15.0,No,3,2,4,12,0,0,0,Needs Improvement
+EMP-1388,52,Engineering,Software Engineer,2,Marketing,14762.35,8,6,5,29,3,6,54.0,No,4,3,1,20,1,0,0,Needs Improvement
+EMP-1389,44,Engineering,Systems Architect,3,Life Sciences,12749.01,1,0,0,21,4,12,37.0,No,3,4,2,4,0,1,0,Strong Contributor
+EMP-1390,32,Human Resources,Recruiter,2,Computer Science,6984.69,7,0,0,8,3,8,39.0,No,4,5,2,19,0,0,0,Needs Improvement
+EMP-1391,29,Engineering,Software Engineer,2,Life Sciences,7831.18,6,0,0,6,3,7,43.0,No,3,3,5,13,2,0,0,Needs Improvement
+EMP-1392,40,Marketing,Digital Marketer,2,Life Sciences,11088.55,6,5,0,19,4,6,16.0,No,4,1,3,5,0,0,0,Needs Improvement
+EMP-1393,26,Research & Development,Laboratory Technician,3,Marketing,8443.1,2,2,2,5,5,6,33.0,Yes,4,2,5,25,1,0,1,Strong Contributor
+EMP-1394,51,Sales,Sales Representative,3,Computer Science,16665.34,5,3,2,28,3,10,45.0,Yes,4,1,3,8,2,1,0,Needs Improvement
+EMP-1395,46,Marketing,Brand Strategist,3,Medical,14073.0,0,0,0,25,3,5,25.0,No,2,2,3,12,2,0,0,Needs Improvement
+EMP-1396,33,Sales,Sales Executive,3,Life Sciences,8707.83,6,1,1,9,2,9,38.0,Yes,3,3,4,8,1,0,0,Needs Improvement
+EMP-1397,23,Operations,Operations Manager,3,Computer Science,6227.41,1,1,1,2,3,6,41.0,No,4,3,2,7,0,0,0,Needs Improvement
+EMP-1398,47,Operations,Operations Manager,1,Medical,13297.45,6,2,2,23,3,7,13.0,No,4,2,3,22,1,0,0,Needs Improvement
+EMP-1399,36,Engineering,QA Engineer,4,Life Sciences,11766.42,12,10,7,14,4,6,19.0,No,3,4,3,4,0,0,0,Needs Improvement
+EMP-1400,46,Engineering,Systems Architect,1,Computer Science,13087.97,24,10,2,24,3,5,2.0,No,1,3,3,1,0,0,0,Needs Improvement
+EMP-1401,24,Operations,Logistics Coordinator,2,Marketing,4301.02,0,0,0,2,2,6,37.0,Yes,2,4,3,25,1,0,1,Needs Improvement
+EMP-1402,32,Operations,Operations Manager,3,Business,9376.8,1,0,0,10,3,6,60.0,No,3,3,1,20,2,0,0,Needs Improvement
+EMP-1403,37,Engineering,Systems Architect,2,Business,10267.14,8,4,3,16,3,8,24.0,No,4,3,2,5,0,0,0,Needs Improvement
+EMP-1404,37,Marketing,Digital Marketer,4,Life Sciences,8409.72,12,5,2,14,3,14,31.0,No,4,3,3,2,0,0,0,Needs Improvement
+EMP-1405,33,Sales,Sales Representative,2,Life Sciences,9311.25,8,6,5,12,3,8,48.0,Yes,2,3,4,13,1,0,1,Needs Improvement
+EMP-1406,41,Engineering,Software Engineer,3,Computer Science,10799.3,12,6,0,17,4,4,37.0,No,5,3,2,1,0,0,0,Needs Improvement
+EMP-1407,28,Marketing,Digital Marketer,3,Business,7247.45,5,0,0,7,1,6,20.0,No,2,3,3,6,1,0,0,Needs Improvement
+EMP-1408,35,Engineering,DevOps Engineer,4,Life Sciences,10925.42,5,5,5,14,3,9,55.0,Yes,3,4,1,1,0,1,0,Needs Improvement
+EMP-1409,37,Operations,Logistics Coordinator,4,Medical,9141.72,3,3,0,13,4,12,36.0,No,2,4,3,10,0,0,0,Strong Contributor
+EMP-1410,41,Engineering,Engineering Lead,3,Life Sciences,12345.14,19,1,0,19,3,6,30.0,No,4,3,3,1,1,0,0,Needs Improvement
+EMP-1411,42,Research & Development,Laboratory Technician,3,Business,12314.96,20,11,7,20,3,12,31.0,No,4,2,4,11,2,0,0,Needs Improvement
+EMP-1412,28,Engineering,Engineering Lead,2,Technical Degree,5890.5,2,0,0,6,3,7,42.0,No,3,5,4,13,1,0,0,Needs Improvement
+EMP-1413,24,Research & Development,Research Scientist,1,Business,4221.62,0,0,0,1,3,7,25.0,No,3,3,3,8,2,0,0,Needs Improvement
+EMP-1414,47,Research & Development,R&D Manager,3,Medical,12218.82,16,9,6,23,3,3,56.0,No,2,3,2,2,0,0,0,Needs Improvement
+EMP-1415,39,Engineering,Software Engineer,4,Computer Science,11368.06,11,1,0,15,3,6,,No,3,3,2,1,2,0,0,Needs Improvement
+EMP-1416,31,Research & Development,Research Scientist,3,Medical,9223.54,6,5,5,10,4,11,34.0,Yes,3,1,5,4,0,1,1,Strong Contributor
+EMP-1417,49,Sales,Account Manager,4,Technical Degree,15754.72,0,0,0,26,4,8,34.0,No,2,1,3,7,2,0,0,Needs Improvement
+EMP-1418,37,Engineering,Software Engineer,3,Technical Degree,11410.0,0,0,0,15,3,11,22.0,No,4,2,1,12,1,0,0,Needs Improvement
+EMP-1419,46,Marketing,Digital Marketer,2,Life Sciences,14188.82,2,2,2,23,2,6,25.0,No,3,2,2,1,0,0,0,Needs Improvement
+EMP-1420,37,Sales,Sales Representative,2,Life Sciences,9266.79,9,0,0,13,2,12,18.0,Yes,2,3,3,14,0,0,1,Needs Improvement
+EMP-1421,53,Research & Development,R&D Manager,2,Business,16405.9,14,2,0,29,2,5,31.0,Yes,2,2,2,14,1,0,0,Needs Improvement
+EMP-1422,51,Sales,Sales Executive,2,Marketing,15723.42,3,1,0,30,3,8,34.0,No,1,4,4,7,0,0,0,Needs Improvement
+EMP-1423,35,Sales,Sales Director,3,Medical,9690.49,3,2,2,14,2,15,11.0,No,3,3,3,5,3,0,0,Needs Improvement
+EMP-1424,44,Engineering,Systems Architect,4,Business,12846.52,17,15,13,20,3,10,43.0,No,3,3,3,22,0,0,0,Needs Improvement
+EMP-1425,42,Sales,Sales Director,3,Marketing,12840.28,16,5,5,20,4,12,21.0,Yes,2,1,3,18,0,0,1,Needs Improvement
+EMP-1426,47,Sales,Sales Representative,2,Business,14876.66,18,11,5,25,3,1,39.0,Yes,4,3,2,49,0,0,0,Needs Improvement
+EMP-1427,29,Human Resources,HR Specialist,1,Technical Degree,6081.32,2,2,2,6,4,3,45.0,Yes,3,2,3,5,0,0,1,Needs Improvement
+EMP-1428,42,Marketing,Digital Marketer,2,Life Sciences,10633.71,2,2,1,18,4,10,52.0,No,3,3,3,28,1,1,0,Strong Contributor
+EMP-1429,45,Research & Development,R&D Manager,3,Life Sciences,14279.83,7,6,4,21,3,5,49.0,No,5,4,3,1,1,0,0,Needs Improvement
+EMP-1430,22,Engineering,Systems Architect,2,Business,3108.67,0,0,0,0,4,6,57.0,No,2,3,3,6,2,0,0,Needs Improvement
+EMP-1431,27,Engineering,Software Engineer,1,Life Sciences,5099.52,5,1,0,5,4,9,45.0,Yes,3,2,4,7,0,1,1,Strong Contributor
+EMP-1432,21,Engineering,QA Engineer,2,Computer Science,5203.51,0,0,0,0,3,7,36.0,Yes,3,4,2,6,2,0,0,Needs Improvement
+EMP-1433,34,Engineering,DevOps Engineer,2,Business,10929.81,9,3,0,13,3,6,27.0,No,2,3,3,11,0,0,0,Needs Improvement
+EMP-1434,42,Sales,Sales Executive,4,Technical Degree,12872.61,0,0,0,18,3,9,32.0,No,2,2,3,2,2,0,0,Needs Improvement
+EMP-1435,49,Engineering,DevOps Engineer,1,Business,13524.9,13,6,1,25,5,6,56.0,No,3,3,3,24,0,1,0,Strong Contributor
+EMP-1436,37,Engineering,DevOps Engineer,1,Business,9238.22,1,1,1,15,3,6,31.0,No,4,4,1,9,1,0,0,Needs Improvement
+EMP-1437,50,Engineering,Software Engineer,1,Life Sciences,14933.26,28,1,0,28,2,5,33.0,No,4,2,3,28,1,0,0,Needs Improvement
+EMP-1438,25,Engineering,Software Engineer,2,Technical Degree,6036.43,3,1,0,4,3,11,54.0,Yes,3,4,2,1,0,1,1,Needs Improvement
+EMP-1439,23,Engineering,DevOps Engineer,3,Business,5080.92,2,2,1,2,3,9,30.0,No,3,1,1,11,0,0,0,Needs Improvement
+EMP-1440,36,Engineering,Systems Architect,3,Life Sciences,9661.91,12,10,1,13,3,8,22.0,No,3,1,4,6,1,0,1,Needs Improvement
+EMP-1441,40,Sales,Sales Representative,2,Medical,9699.3,5,2,2,16,4,13,49.0,No,2,3,3,8,0,1,0,Strong Contributor
+EMP-1442,36,Sales,Sales Executive,3,Technical Degree,10332.25,8,7,1,14,3,3,22.0,No,1,2,4,16,1,0,0,Needs Improvement
+EMP-1443,21,Engineering,Engineering Lead,2,Marketing,4545.66,0,0,0,0,4,2,39.0,No,3,3,3,3,1,0,0,Needs Improvement
+EMP-1444,36,Sales,Account Manager,3,Computer Science,11410.94,0,0,0,13,4,11,37.0,Yes,3,2,3,2,1,1,1,Strong Contributor
+EMP-1445,26,Sales,Sales Representative,1,Marketing,4402.34,0,0,0,3,3,2,38.0,No,1,3,3,14,3,0,0,Needs Improvement
+EMP-1446,42,Engineering,Software Engineer,2,Technical Degree,11837.3,7,6,0,20,2,9,0.0,Yes,1,2,3,8,0,0,1,Needs Improvement
+EMP-1447,39,Engineering,DevOps Engineer,3,Business,12593.26,0,0,0,17,4,3,44.0,No,2,3,1,3,0,0,0,Needs Improvement
+EMP-1448,29,Sales,Sales Executive,3,Life Sciences,8904.58,4,3,1,6,5,5,33.0,No,3,3,2,7,0,0,0,Strong Contributor
+EMP-1449,32,Research & Development,Laboratory Technician,3,Technical Degree,9607.24,10,10,6,11,2,9,42.0,No,3,5,2,7,1,0,0,Needs Improvement
+EMP-1450,28,Engineering,DevOps Engineer,2,Computer Science,6071.79,5,0,0,5,3,7,41.0,No,2,3,3,14,3,0,0,Needs Improvement
+EMP-1451,36,Engineering,Systems Architect,2,Technical Degree,8534.28,7,6,0,12,3,10,38.0,Yes,2,3,5,1,3,1,0,Needs Improvement
+EMP-1452,44,Marketing,Brand Strategist,4,Life Sciences,11541.24,12,12,7,20,4,9,28.0,No,2,3,4,10,3,0,0,Needs Improvement
+EMP-1453,29,Engineering,DevOps Engineer,1,Marketing,5625.01,7,0,0,7,4,13,28.0,Yes,1,4,5,11,2,1,1,Strong Contributor
+EMP-1454,41,Engineering,Systems Architect,2,Medical,12091.41,2,0,0,20,2,9,,Yes,3,2,5,16,3,0,0,Needs Improvement
+EMP-1455,32,Marketing,Marketing Specialist,2,Marketing,8417.11,2,0,0,11,4,5,36.0,Yes,1,3,3,26,0,0,1,Needs Improvement
+EMP-1456,30,Marketing,Brand Strategist,2,Life Sciences,7241.07,3,1,1,6,2,8,28.0,Yes,4,3,2,6,3,0,0,Needs Improvement
+EMP-1457,36,Sales,Account Manager,2,Life Sciences,9164.32,10,3,2,13,4,4,47.0,No,3,2,3,5,2,1,0,Needs Improvement
+EMP-1458,28,Sales,Sales Director,2,Computer Science,6026.55,2,1,1,6,3,6,,No,3,4,4,1,0,0,0,Needs Improvement
+EMP-1459,32,Engineering,Engineering Lead,2,Technical Degree,8127.21,9,4,2,9,3,9,20.0,No,2,3,3,4,0,0,1,Needs Improvement
+EMP-1460,27,Engineering,DevOps Engineer,4,Technical Degree,9374.74,0,0,0,4,2,4,42.0,No,2,3,3,1,0,0,0,Needs Improvement
+EMP-1461,52,Research & Development,Laboratory Technician,1,Marketing,14534.39,19,15,8,29,2,6,60.0,Yes,2,4,2,19,2,0,0,Needs Improvement
+EMP-1462,37,Engineering,Engineering Lead,2,Medical,10605.0,3,1,1,16,3,5,,Yes,5,3,3,19,1,0,0,Needs Improvement
+EMP-1463,31,Sales,Sales Representative,3,Medical,8422.23,3,1,1,7,3,5,32.0,No,4,5,3,6,0,0,0,Needs Improvement
+EMP-1464,38,Operations,Operations Manager,3,Computer Science,10945.54,1,0,0,17,2,7,48.0,No,1,5,3,3,1,0,0,Needs Improvement
+EMP-1465,36,Operations,Logistics Coordinator,2,Life Sciences,10105.48,7,4,2,12,2,9,41.0,No,3,3,4,1,0,0,0,Needs Improvement
+EMP-1466,35,Engineering,QA Engineer,3,Computer Science,8518.86,5,3,1,13,2,7,42.0,Yes,2,2,1,22,2,0,1,Needs Improvement
+EMP-1467,41,Research & Development,R&D Manager,1,Technical Degree,10653.05,18,4,4,19,4,9,34.0,No,2,2,5,25,2,0,0,Needs Improvement
+EMP-1468,43,Sales,Sales Executive,3,Business,12319.9,4,4,0,20,4,8,0.0,Yes,4,3,1,3,3,0,0,Needs Improvement
+EMP-1469,32,Marketing,Marketing Specialist,2,Business,,7,2,0,8,2,12,37.0,No,2,4,5,11,0,0,0,Needs Improvement
+EMP-1470,32,Engineering,DevOps Engineer,2,Business,5665.67,6,6,4,8,3,14,39.0,Yes,3,2,3,3,2,0,1,Needs Improvement
+EMP-1471,34,Engineering,DevOps Engineer,3,Life Sciences,10017.47,7,3,1,10,2,11,49.0,No,3,2,3,3,0,0,0,Needs Improvement
+EMP-1472,21,Engineering,Software Engineer,3,Computer Science,5372.8,0,0,0,0,4,10,23.0,No,3,1,2,1,1,0,0,Needs Improvement
+EMP-1473,24,Sales,Sales Representative,2,Marketing,5790.55,0,0,0,1,4,12,57.0,Yes,5,3,3,10,1,1,0,Strong Contributor
+EMP-1474,47,Sales,Account Manager,1,Technical Degree,14751.73,2,2,0,25,3,4,29.0,No,4,4,4,1,1,0,0,Needs Improvement
+EMP-1475,50,Human Resources,HR Specialist,2,Business,14753.49,17,13,0,29,5,6,27.0,No,4,1,2,1,3,0,0,Strong Contributor
+EMP-1476,35,Research & Development,R&D Manager,3,Medical,6935.08,6,3,2,11,4,7,23.0,No,3,2,2,1,1,0,0,Needs Improvement
+EMP-1477,41,Engineering,Engineering Lead,2,Computer Science,11891.73,17,12,0,17,4,7,48.0,No,1,3,3,4,2,1,0,Needs Improvement
+EMP-1478,39,Sales,Sales Executive,2,Technical Degree,10982.26,15,9,4,18,3,5,18.0,No,4,4,2,13,0,0,0,Needs Improvement
+EMP-1479,61,Engineering,DevOps Engineer,1,Technical Degree,16840.15,7,4,4,37,3,8,42.0,No,5,4,2,2,0,0,0,Needs Improvement
+EMP-1480,45,Marketing,Brand Strategist,3,Medical,13878.67,0,0,0,22,3,9,22.0,No,3,4,3,26,1,0,0,Needs Improvement
+EMP-1481,35,Operations,Operations Manager,3,Medical,11777.2,0,0,0,12,3,6,33.0,No,5,2,2,4,0,0,0,Needs Improvement
+EMP-1482,29,Operations,Logistics Coordinator,3,Medical,6801.98,3,3,3,5,3,6,,No,2,3,3,4,3,0,0,Needs Improvement
+EMP-1483,24,Marketing,Brand Strategist,2,Business,5636.0,1,0,0,1,2,8,44.0,Yes,3,5,4,2,1,0,0,Needs Improvement
+EMP-1484,38,Engineering,Software Engineer,4,Business,10411.25,4,2,2,15,3,5,31.0,No,2,5,3,3,1,0,0,Needs Improvement
+EMP-1485,30,Engineering,Software Engineer,3,Computer Science,5761.92,2,2,0,6,3,11,41.0,Yes,3,3,2,1,2,0,0,Needs Improvement
+EMP-1486,25,Research & Development,Research Scientist,3,Medical,6962.55,0,0,0,3,3,7,31.0,No,4,3,3,4,1,0,0,Needs Improvement
+EMP-1487,31,Operations,Logistics Coordinator,2,Marketing,8691.47,10,3,1,10,3,7,41.0,Yes,3,5,3,23,0,1,1,Needs Improvement
+EMP-1488,28,Engineering,Systems Architect,2,Technical Degree,5880.87,3,0,0,5,5,7,33.0,Yes,4,3,3,13,1,0,0,Strong Contributor
+EMP-1489,50,Engineering,QA Engineer,3,Medical,17175.6,16,5,1,28,4,8,44.0,Yes,3,2,3,24,1,1,0,Needs Improvement
+EMP-1490,44,Marketing,Brand Strategist,1,Technical Degree,10191.96,5,3,3,21,3,5,41.0,No,3,3,5,1,3,0,0,Needs Improvement
+EMP-1491,36,Engineering,Systems Architect,3,Life Sciences,8832.97,0,0,0,13,3,7,36.0,No,4,5,4,7,0,0,0,Needs Improvement
+EMP-1492,48,Sales,Account Manager,3,Life Sciences,14771.42,4,1,1,27,3,8,21.0,Yes,2,3,2,3,1,0,0,Needs Improvement
+EMP-1493,37,Research & Development,Laboratory Technician,3,Medical,9999.24,8,5,0,14,2,7,27.0,Yes,4,4,3,15,0,0,0,Needs Improvement
+EMP-1494,30,Engineering,Systems Architect,4,Technical Degree,10338.82,4,1,1,9,4,6,23.0,No,2,3,3,42,0,1,0,Needs Improvement
+EMP-1495,49,Engineering,QA Engineer,3,Life Sciences,15684.28,21,4,1,28,3,6,54.0,No,3,1,5,20,1,0,0,Needs Improvement
+EMP-1496,41,Human Resources,HR Specialist,2,Medical,11826.34,0,0,0,20,2,6,44.0,Yes,3,2,5,1,0,0,1,Needs Improvement
+EMP-1497,28,Research & Development,Research Scientist,1,Technical Degree,4936.99,5,5,2,6,4,8,34.0,Yes,4,5,3,4,1,0,0,Needs Improvement
+EMP-1498,35,Operations,Operations Analyst,2,Medical,9557.97,1,1,0,11,2,7,26.0,No,3,3,3,1,1,0,0,Needs Improvement
+EMP-1499,29,Sales,Sales Representative,3,Business,6637.02,7,5,0,7,3,5,22.0,No,3,1,3,1,0,0,0,Needs Improvement
+EMP-1500,25,Engineering,Software Engineer,2,Technical Degree,3632.85,0,0,0,1,1,4,35.0,No,4,5,3,1,1,0,0,Needs Improvement
+EMP-1501,44,Human Resources,HR Specialist,2,Life Sciences,11639.77,18,12,10,20,2,5,59.0,No,2,3,2,3,0,0,0,Needs Improvement
+EMP-1502,52,Research & Development,Laboratory Technician,3,Medical,16926.87,21,18,6,31,2,7,34.0,No,4,4,3,4,2,0,0,Needs Improvement
+EMP-1503,25,Engineering,QA Engineer,3,Life Sciences,5111.87,0,0,0,2,2,9,50.0,No,3,3,3,6,0,0,0,Needs Improvement
+EMP-1504,41,Human Resources,HR Manager,4,Medical,13836.32,1,0,0,20,3,4,37.0,No,2,2,3,6,0,0,0,Needs Improvement
+EMP-1505,31,Engineering,Software Engineer,3,Computer Science,7785.32,6,1,1,8,4,8,41.0,Yes,3,3,3,17,1,0,0,Needs Improvement
+EMP-1506,33,Engineering,Engineering Lead,3,Life Sciences,9367.49,3,0,0,9,3,6,27.0,Yes,2,5,3,1,3,0,0,Needs Improvement
+EMP-1507,32,Engineering,DevOps Engineer,3,Life Sciences,9634.6,0,0,0,11,4,3,31.0,No,2,1,3,2,2,0,0,Needs Improvement
+EMP-1508,30,Sales,Account Manager,4,Marketing,9872.33,4,2,0,7,3,5,22.0,No,3,4,3,11,0,0,0,Needs Improvement
+EMP-1509,37,Sales,Sales Director,3,Business,10301.99,3,1,0,15,3,6,38.0,Yes,2,2,3,10,0,0,1,Needs Improvement
+EMP-1510,30,Sales,Sales Executive,3,Life Sciences,8419.57,5,5,3,7,2,10,30.0,No,3,3,3,2,1,0,0,Needs Improvement
+EMP-1511,39,Research & Development,R&D Manager,4,Technical Degree,10831.87,6,4,1,18,3,7,39.0,No,3,3,2,22,2,0,0,Needs Improvement
+EMP-1512,36,Operations,Operations Manager,4,Medical,13522.49,14,3,1,14,3,3,20.0,No,3,4,2,4,0,0,0,Needs Improvement
+EMP-1513,35,Engineering,Engineering Lead,2,Computer Science,9674.55,6,5,4,12,3,7,40.0,No,3,3,2,5,1,0,0,Needs Improvement
+EMP-1514,29,Engineering,Engineering Lead,1,Technical Degree,5813.32,5,3,3,6,4,7,36.0,No,4,3,1,6,0,0,0,Needs Improvement
+EMP-1515,32,Engineering,Software Engineer,2,Technical Degree,7586.79,6,3,1,9,3,10,35.0,Yes,2,4,3,4,0,0,0,Needs Improvement
+EMP-1516,43,Engineering,DevOps Engineer,1,Technical Degree,11177.68,18,14,13,20,3,5,39.0,No,3,1,3,9,1,0,1,Needs Improvement
+EMP-1517,41,Research & Development,R&D Manager,1,Technical Degree,12296.03,17,3,3,18,5,6,30.0,No,2,1,2,5,0,1,0,Strong Contributor
+EMP-1518,29,Human Resources,HR Specialist,2,Computer Science,7868.69,6,0,0,7,3,3,87.0,No,3,1,4,3,0,1,0,Needs Improvement
+EMP-1519,37,Human Resources,HR Manager,2,Marketing,8941.01,9,6,6,13,3,7,40.0,No,3,3,3,28,0,0,0,Needs Improvement
+EMP-1520,43,Engineering,Engineering Lead,3,Business,11865.07,8,2,2,21,4,6,35.0,No,4,3,3,4,1,1,0,Needs Improvement
+EMP-1521,23,Sales,Account Manager,3,Life Sciences,6456.49,0,0,0,1,3,13,44.0,No,4,4,2,14,0,0,0,Needs Improvement
+EMP-1522,41,Sales,Account Manager,2,Technical Degree,12374.69,7,2,1,19,2,8,26.0,No,4,3,2,5,1,0,0,Needs Improvement
+EMP-1523,31,Engineering,QA Engineer,3,Life Sciences,8295.73,1,1,1,7,3,7,26.0,No,2,2,3,125,2,0,0,Needs Improvement
+EMP-1524,41,Research & Development,R&D Manager,3,Life Sciences,12524.63,9,5,1,20,3,4,45.0,No,2,4,4,3,0,0,0,Needs Improvement
+EMP-1525,30,Operations,Logistics Coordinator,3,Technical Degree,7010.34,0,0,0,6,3,6,46.0,No,4,2,2,16,1,0,0,Needs Improvement
+EMP-1526,22,Sales,Sales Representative,4,Marketing,7116.7,0,0,0,0,2,6,50.0,Yes,3,5,3,16,2,0,0,Needs Improvement
+EMP-1527,23,Human Resources,Recruiter,1,Life Sciences,5400.44,0,0,0,0,5,8,14.0,No,5,2,5,1,0,1,0,Strong Contributor
+EMP-1528,37,Sales,Sales Director,2,Medical,,1,1,0,14,4,5,32.0,Yes,3,2,3,1,0,0,1,Needs Improvement
+EMP-1529,39,Engineering,Software Engineer,2,Life Sciences,11732.86,5,0,0,17,3,13,38.0,No,5,3,3,30,0,1,0,Needs Improvement
+EMP-1530,29,Research & Development,Research Scientist,2,Business,6892.49,1,1,0,6,3,12,44.0,No,5,1,3,26,1,0,0,Needs Improvement
+EMP-1531,42,Engineering,DevOps Engineer,3,Technical Degree,11367.01,4,0,0,20,4,13,41.0,No,3,1,4,8,1,1,0,Strong Contributor
+EMP-1532,23,Engineering,Systems Architect,2,Computer Science,3518.23,0,0,0,0,2,12,22.0,No,1,3,3,8,0,0,0,Needs Improvement
+EMP-1533,36,Research & Development,Laboratory Technician,2,Life Sciences,9991.56,11,3,0,12,3,3,41.0,No,3,2,4,20,2,0,0,Needs Improvement
+EMP-1534,27,Marketing,Brand Strategist,2,Marketing,7826.33,5,1,1,6,3,9,38.0,Yes,4,1,3,1,1,0,1,Needs Improvement
+EMP-1535,31,Sales,Account Manager,2,Medical,9148.71,8,1,1,10,4,14,38.0,No,4,2,4,12,0,1,0,Strong Contributor
+EMP-1536,37,Sales,Sales Director,3,Medical,10251.45,4,4,0,13,1,7,18.0,No,2,3,5,7,2,0,0,Needs Improvement
+EMP-1537,30,Marketing,Marketing Specialist,3,Computer Science,8262.17,1,1,1,6,5,7,20.0,No,3,3,3,16,0,0,0,Strong Contributor
+EMP-1538,33,Marketing,Digital Marketer,2,Business,8527.68,9,6,0,11,3,4,59.0,No,4,2,3,1,1,0,0,Needs Improvement
+EMP-1539,45,Research & Development,R&D Manager,2,Computer Science,13699.25,19,10,5,23,3,3,47.0,No,3,3,3,10,0,0,0,Needs Improvement
+EMP-1540,32,Engineering,Software Engineer,1,Business,7415.79,8,4,4,10,3,4,33.0,No,4,3,4,9,1,0,0,Needs Improvement
+EMP-1541,43,Operations,Operations Manager,1,Life Sciences,10448.89,16,3,1,20,2,5,33.0,No,4,3,4,22,0,0,0,Needs Improvement
+EMP-1542,27,Engineering,Engineering Lead,3,Technical Degree,7678.11,2,0,0,5,4,3,65.0,No,4,3,1,13,1,0,0,Needs Improvement
+EMP-1543,41,Research & Development,R&D Manager,1,Marketing,11407.61,16,11,5,17,5,14,34.0,No,2,2,4,25,0,1,1,Strong Contributor
+EMP-1544,48,Engineering,DevOps Engineer,3,Medical,17486.56,11,1,0,27,3,10,32.0,No,2,3,4,26,1,0,0,Needs Improvement
+EMP-1545,21,Research & Development,Laboratory Technician,3,Computer Science,5237.63,0,0,0,0,5,6,22.0,No,1,4,3,6,0,0,1,Strong Contributor
+EMP-1546,30,Engineering,Engineering Lead,1,Marketing,5896.97,6,4,1,8,4,8,30.0,No,5,3,3,1,0,1,0,Needs Improvement
+EMP-1547,41,Sales,Sales Executive,2,Business,10944.4,2,1,1,18,3,11,10.0,No,3,2,1,11,0,0,0,Needs Improvement
+EMP-1548,35,Sales,Sales Representative,4,Technical Degree,10037.7,9,8,0,12,3,7,41.0,Yes,1,1,3,24,0,0,1,Needs Improvement
+EMP-1549,39,Engineering,DevOps Engineer,3,Medical,11593.65,1,1,0,17,3,4,,Yes,3,5,4,1,1,0,0,Needs Improvement
+EMP-1550,32,Research & Development,R&D Manager,2,Medical,8243.79,8,6,6,9,3,3,51.0,No,3,3,5,9,3,0,0,Needs Improvement
+EMP-1551,37,Marketing,Digital Marketer,3,Business,11406.67,2,2,1,16,2,7,24.0,Yes,4,3,2,1,2,0,0,Needs Improvement
+EMP-1552,35,Operations,Operations Analyst,3,Technical Degree,9879.37,1,1,0,11,3,10,1.0,No,4,2,3,1,2,0,0,Needs Improvement
+EMP-1553,46,Engineering,QA Engineer,2,Medical,12937.68,9,2,2,22,2,6,38.0,No,3,4,4,13,0,0,0,Needs Improvement
+EMP-1554,39,Research & Development,Laboratory Technician,3,Technical Degree,9837.23,5,0,0,18,4,5,52.0,Yes,1,2,4,13,0,0,1,Needs Improvement
+EMP-1555,39,Research & Development,R&D Manager,2,Medical,10684.42,10,4,3,16,4,11,11.0,Yes,4,3,3,11,1,0,0,Needs Improvement
+EMP-1556,33,Sales,Sales Director,3,Life Sciences,9258.06,6,4,2,11,3,6,28.0,No,2,3,1,23,3,0,0,Needs Improvement
+EMP-1557,33,Engineering,Systems Architect,4,Business,9895.24,6,6,1,10,3,4,39.0,No,3,3,4,1,1,0,0,Needs Improvement
+EMP-1558,33,Research & Development,Research Scientist,3,Technical Degree,9234.67,10,2,0,12,3,5,22.0,No,1,1,4,1,0,0,1,Needs Improvement
+EMP-1559,40,Operations,Logistics Coordinator,2,Marketing,11061.17,14,14,14,17,3,4,9.0,No,1,2,4,23,0,0,1,Needs Improvement
+EMP-1560,33,Research & Development,Laboratory Technician,1,Life Sciences,7720.62,5,4,3,9,3,5,23.0,Yes,1,4,4,8,0,0,1,Needs Improvement
+EMP-1561,39,Sales,Sales Director,3,Marketing,10935.96,8,1,0,16,3,8,26.0,Yes,3,3,3,3,0,0,0,Needs Improvement
+EMP-1562,53,Research & Development,Laboratory Technician,3,Business,17768.28,19,19,4,32,3,8,7.0,No,3,4,5,16,1,0,0,Needs Improvement
+EMP-1563,43,Engineering,Engineering Lead,3,Medical,12283.11,11,9,1,19,2,4,49.0,Yes,1,3,4,26,0,0,1,Needs Improvement
+EMP-1564,34,Human Resources,HR Specialist,4,Marketing,9920.99,2,1,0,11,1,8,55.0,No,3,5,3,14,2,0,0,Needs Improvement
+EMP-1565,46,Human Resources,HR Specialist,3,Life Sciences,11109.56,19,1,1,23,2,6,34.0,No,4,4,5,18,3,0,0,Needs Improvement
+EMP-1566,33,Engineering,Engineering Lead,2,Technical Degree,6790.5,2,0,0,9,4,9,44.0,No,2,3,4,3,2,1,0,Strong Contributor
+EMP-1567,21,Marketing,Digital Marketer,1,Computer Science,2772.95,0,0,0,0,5,7,13.0,Yes,2,3,4,4,2,0,1,Strong Contributor
+EMP-1568,28,Engineering,Engineering Lead,2,Marketing,6114.7,1,1,0,4,3,7,32.0,No,3,3,3,23,0,0,0,Needs Improvement
+EMP-1569,22,Operations,Logistics Coordinator,3,Computer Science,6144.5,0,0,0,0,3,6,25.0,No,4,3,3,11,3,0,0,Needs Improvement
+EMP-1570,34,Sales,Sales Executive,3,Business,9833.43,13,13,6,13,2,9,39.0,No,2,3,3,3,0,0,0,Needs Improvement
+EMP-1571,37,Engineering,QA Engineer,3,Marketing,11843.47,1,0,0,16,3,12,0.0,No,5,4,2,8,2,0,0,Needs Improvement
+EMP-1572,50,Sales,Sales Representative,2,Marketing,14863.43,21,20,5,26,2,5,29.0,No,3,2,3,13,0,0,0,Needs Improvement
+EMP-1573,39,Sales,Account Manager,2,Technical Degree,10225.9,2,2,2,15,3,6,42.0,Yes,3,3,3,2,1,0,0,Needs Improvement
+EMP-1574,35,Engineering,Software Engineer,2,Medical,10236.58,5,2,1,14,5,12,37.0,No,2,3,2,12,0,1,0,Strong Contributor
+EMP-1575,43,Research & Development,Research Scientist,3,Life Sciences,13201.35,14,7,4,21,2,6,44.0,No,3,2,5,1,0,0,0,Needs Improvement
+EMP-1576,21,Research & Development,Research Scientist,2,Life Sciences,4271.95,0,0,0,0,4,7,25.0,No,2,3,3,4,3,0,0,Needs Improvement
+EMP-1577,38,Human Resources,Recruiter,2,Life Sciences,10071.97,10,0,0,14,1,4,0.0,Yes,3,5,3,13,2,0,0,Needs Improvement
+EMP-1578,43,Engineering,Systems Architect,2,Business,14061.97,9,6,1,22,3,5,49.0,Yes,2,3,3,1,1,0,0,Needs Improvement
+EMP-1579,25,Research & Development,R&D Manager,3,Medical,5805.47,0,0,0,1,2,14,44.0,No,3,5,1,3,1,0,0,Needs Improvement
+EMP-1580,46,Engineering,QA Engineer,1,Computer Science,12356.17,0,0,0,22,3,7,55.0,Yes,4,3,4,25,1,1,0,Needs Improvement
+EMP-1581,39,Research & Development,Research Scientist,3,Life Sciences,11050.29,15,4,2,18,2,2,35.0,No,4,3,3,13,0,0,0,Needs Improvement
+EMP-1582,33,Engineering,Systems Architect,3,Computer Science,10454.29,5,3,2,11,3,5,39.0,No,2,3,3,8,2,0,0,Needs Improvement
+EMP-1583,42,Operations,Logistics Coordinator,3,Medical,10953.66,8,6,2,19,3,7,66.0,No,3,2,3,2,1,0,0,Needs Improvement
+EMP-1584,55,Research & Development,Research Scientist,3,Business,16384.54,1,1,0,34,3,6,8.0,Yes,3,3,3,5,1,0,0,Needs Improvement
+EMP-1585,38,Sales,Sales Executive,2,Medical,10434.31,12,1,0,15,3,6,40.0,No,1,2,3,10,3,0,0,Needs Improvement
+EMP-1586,38,Sales,Sales Director,2,Technical Degree,10067.32,3,3,1,17,4,7,51.0,No,3,5,2,2,1,1,0,Needs Improvement
+EMP-1587,33,Engineering,QA Engineer,4,Life Sciences,10380.19,0,0,0,10,3,10,36.0,No,2,2,3,7,1,0,0,Needs Improvement
+EMP-1588,30,Engineering,DevOps Engineer,3,Business,6524.66,2,2,0,8,2,11,34.0,No,3,2,3,6,2,0,0,Needs Improvement
+EMP-1589,43,Marketing,Marketing Specialist,4,Technical Degree,14445.63,9,0,0,21,3,7,13.0,No,4,3,4,7,2,0,0,Needs Improvement
+EMP-1590,30,Operations,Operations Analyst,3,Life Sciences,9158.88,4,0,0,9,4,9,54.0,No,2,3,3,1,3,1,0,Strong Contributor
+EMP-1591,37,Engineering,QA Engineer,2,Medical,9446.21,10,10,8,13,3,10,48.0,Yes,2,1,2,1,1,0,1,Needs Improvement
+EMP-1592,33,Research & Development,R&D Manager,1,Medical,5710.39,5,3,0,10,3,8,51.0,No,2,2,2,39,0,0,1,Needs Improvement
+EMP-1593,40,Research & Development,Laboratory Technician,3,Marketing,9529.03,15,15,6,16,2,5,33.0,No,5,4,3,46,0,0,0,Needs Improvement
+EMP-1594,39,Research & Development,Laboratory Technician,2,Marketing,10315.94,4,0,0,15,3,10,29.0,Yes,4,3,3,6,0,0,0,Needs Improvement
+EMP-1595,45,Engineering,QA Engineer,2,Medical,,21,14,6,21,3,9,33.0,No,1,2,2,18,1,0,1,Needs Improvement
+EMP-1596,32,Engineering,Systems Architect,3,Medical,9454.6,3,3,2,10,5,9,57.0,Yes,3,3,3,12,0,1,0,Strong Contributor
+EMP-1597,34,Engineering,Systems Architect,2,Computer Science,9278.61,1,0,0,13,4,7,30.0,Yes,2,2,2,1,1,0,1,Needs Improvement
+EMP-1598,29,Marketing,Brand Strategist,2,Computer Science,7300.34,8,6,1,8,2,7,54.0,No,3,2,3,4,2,0,0,Needs Improvement
+EMP-1599,33,Sales,Account Manager,3,Technical Degree,6996.31,11,1,1,11,3,8,31.0,No,3,5,3,4,3,0,0,Needs Improvement
+EMP-1600,40,Sales,Sales Executive,3,Marketing,12580.19,0,0,0,18,3,5,21.0,Yes,5,3,5,10,0,0,0,Needs Improvement
+EMP-1601,43,Operations,Operations Analyst,2,Marketing,12175.77,16,9,1,22,3,6,4.0,No,2,1,2,10,0,0,1,Needs Improvement
+EMP-1602,29,Research & Development,R&D Manager,3,Medical,6541.61,4,3,2,5,4,11,42.0,Yes,3,5,3,30,2,1,0,Strong Contributor
+EMP-1603,43,Marketing,Brand Strategist,3,Medical,11637.2,3,3,2,20,3,9,44.0,Yes,4,4,5,18,1,0,0,Needs Improvement
+EMP-1604,47,Sales,Sales Executive,2,Technical Degree,12133.63,6,2,0,24,3,11,17.0,Yes,4,2,3,23,2,0,0,Needs Improvement
+EMP-1605,40,Engineering,QA Engineer,1,Business,11584.92,16,10,0,17,3,9,54.0,Yes,3,3,3,26,2,1,0,Needs Improvement
+EMP-1606,52,Operations,Operations Manager,1,Business,15155.94,8,7,4,28,4,13,14.0,Yes,3,4,3,19,1,1,0,Needs Improvement
+EMP-1607,30,Sales,Sales Director,3,Business,9150.8,3,1,1,9,3,11,43.0,No,3,3,2,4,0,0,0,Needs Improvement
+EMP-1608,27,Engineering,Systems Architect,2,Marketing,6105.14,2,2,1,5,3,9,44.0,No,3,3,3,2,1,0,0,Needs Improvement
+EMP-1609,22,Sales,Sales Representative,4,Computer Science,4415.87,0,0,0,1,3,6,49.0,Yes,4,3,4,10,1,0,0,Needs Improvement
+EMP-1610,48,Engineering,Systems Architect,3,Business,16011.84,9,2,2,24,3,10,6.0,No,5,3,3,14,0,0,0,Needs Improvement
+EMP-1611,42,Sales,Sales Executive,3,Life Sciences,12980.06,3,3,1,20,5,8,48.0,Yes,4,3,3,5,2,1,0,Strong Contributor
+EMP-1612,36,Marketing,Digital Marketer,4,Technical Degree,10283.11,8,2,2,12,3,5,31.0,Yes,3,3,3,22,2,0,0,Needs Improvement
+EMP-1613,39,Operations,Operations Analyst,3,Business,10756.78,12,9,9,16,3,7,29.0,No,4,1,3,38,0,0,1,Needs Improvement
+EMP-1614,27,Operations,Logistics Coordinator,2,Life Sciences,4079.9,1,0,0,4,3,2,45.0,Yes,1,4,3,10,3,0,1,Needs Improvement
+EMP-1615,56,Engineering,Software Engineer,2,Business,17587.4,31,16,1,32,4,12,47.0,No,2,2,2,7,1,1,0,Strong Contributor
+EMP-1616,38,Sales,Sales Director,3,Computer Science,10128.07,5,5,5,16,3,4,6.0,Yes,3,3,3,22,2,0,1,Needs Improvement
+EMP-1617,37,Engineering,QA Engineer,2,Computer Science,10591.91,15,1,1,15,2,5,15.0,No,3,3,3,1,0,0,0,Needs Improvement
+EMP-1618,42,Marketing,Digital Marketer,2,Business,13073.75,5,0,0,21,3,5,50.0,No,5,3,4,1,0,0,0,Needs Improvement
+EMP-1619,40,Sales,Sales Executive,3,Life Sciences,11760.74,16,15,4,17,3,4,40.0,No,3,3,3,22,0,0,0,Needs Improvement
+EMP-1620,38,Research & Development,Research Scientist,4,Technical Degree,12482.98,9,1,1,17,4,12,36.0,No,3,3,3,15,0,1,0,Strong Contributor
+EMP-1621,30,Research & Development,Research Scientist,2,Life Sciences,9031.51,1,1,1,9,4,9,20.0,Yes,3,2,2,6,0,1,0,Needs Improvement
+EMP-1622,40,Sales,Sales Director,3,Technical Degree,10366.83,2,1,0,16,3,15,40.0,Yes,4,3,2,26,2,1,0,Needs Improvement
+EMP-1623,52,Sales,Sales Representative,2,Business,,19,19,0,28,2,7,51.0,No,3,4,3,5,1,0,0,Needs Improvement
+EMP-1624,47,Operations,Operations Manager,3,Technical Degree,14677.41,26,5,1,26,5,4,66.0,Yes,2,4,4,12,3,1,0,Strong Contributor
+EMP-1625,49,Operations,Operations Manager,1,Medical,12024.39,20,9,2,26,3,3,29.0,Yes,4,3,3,12,1,0,0,Needs Improvement
+EMP-1626,32,Engineering,Software Engineer,3,Marketing,8297.7,8,7,6,8,3,15,46.0,No,3,3,3,2,0,0,0,Needs Improvement
+EMP-1627,29,Sales,Sales Representative,1,Marketing,7966.13,3,0,0,8,3,10,59.0,Yes,2,2,4,4,1,1,1,Needs Improvement
+EMP-1628,35,Operations,Logistics Coordinator,3,Computer Science,11558.7,12,12,9,14,3,7,13.0,No,3,3,2,29,3,0,0,Needs Improvement
+EMP-1629,37,Engineering,Engineering Lead,1,Medical,11551.73,8,7,2,16,3,7,59.0,No,1,3,4,2,1,0,0,Needs Improvement
+EMP-1630,45,Sales,Sales Representative,2,Marketing,11923.65,18,8,7,24,4,5,36.0,No,5,2,3,2,0,0,0,Needs Improvement
+EMP-1631,23,Engineering,DevOps Engineer,2,Business,6625.76,0,0,0,2,4,4,35.0,No,3,5,3,7,3,0,0,Needs Improvement
+EMP-1632,49,Sales,Sales Executive,2,Technical Degree,15206.36,10,5,0,28,3,6,26.0,Yes,5,4,5,1,0,0,0,Needs Improvement
+EMP-1633,35,Engineering,Systems Architect,2,Technical Degree,10020.51,8,4,2,11,3,9,28.0,No,3,1,4,27,1,0,1,Needs Improvement
+EMP-1634,33,Sales,Account Manager,2,Life Sciences,7844.7,8,5,3,10,2,8,23.0,No,5,3,3,1,1,0,0,Needs Improvement
+EMP-1635,28,Engineering,DevOps Engineer,3,Life Sciences,,1,1,0,7,2,5,20.0,No,2,4,3,11,0,0,0,Needs Improvement
+EMP-1636,23,Research & Development,Research Scientist,3,Technical Degree,,1,0,0,1,3,12,40.0,No,1,2,3,4,0,0,1,Needs Improvement
+EMP-1637,43,Operations,Operations Analyst,1,Business,11718.38,19,19,13,19,3,5,49.0,No,1,3,1,19,2,0,0,Needs Improvement
+EMP-1638,37,Marketing,Brand Strategist,3,Technical Degree,10403.03,12,1,0,13,5,6,19.0,No,3,3,4,10,2,0,0,Strong Contributor
+EMP-1639,26,Marketing,Marketing Specialist,1,Life Sciences,4694.69,0,0,0,5,4,7,24.0,No,1,2,1,5,1,1,1,Needs Improvement
+EMP-1640,26,Research & Development,Laboratory Technician,3,Marketing,3812.28,0,0,0,2,3,6,37.0,No,3,3,3,49,0,0,1,Needs Improvement
+EMP-1641,34,Engineering,Systems Architect,2,Computer Science,9713.72,6,2,1,13,3,11,18.0,No,3,5,4,1,0,0,0,Needs Improvement
+EMP-1642,50,Engineering,QA Engineer,3,Life Sciences,15736.25,14,10,9,27,2,6,37.0,Yes,3,3,4,10,0,0,0,Needs Improvement
+EMP-1643,34,Operations,Operations Analyst,2,Business,7691.74,3,0,0,11,5,4,30.0,Yes,3,3,3,54,1,1,1,Strong Contributor
+EMP-1644,24,Sales,Sales Executive,4,Marketing,4530.95,0,0,0,0,3,8,11.0,No,2,3,4,14,0,0,0,Needs Improvement
+EMP-1645,35,Engineering,DevOps Engineer,2,Marketing,9170.28,0,0,0,11,2,8,40.0,No,4,4,3,16,0,0,0,Needs Improvement
+EMP-1646,34,Research & Development,Laboratory Technician,2,Marketing,10630.75,8,1,1,12,3,2,,No,3,4,4,1,1,0,0,Needs Improvement
+EMP-1647,21,Engineering,Software Engineer,2,Medical,3954.51,0,0,0,0,4,6,48.0,No,4,2,3,1,1,0,0,Needs Improvement
+EMP-1648,36,Engineering,QA Engineer,3,Medical,9528.32,13,9,3,14,4,4,31.0,No,3,4,4,1,2,0,0,Needs Improvement
+EMP-1649,35,Operations,Operations Manager,3,Marketing,9828.97,4,0,0,12,1,8,24.0,No,5,2,2,57,1,0,0,Needs Improvement
+EMP-1650,42,Marketing,Marketing Specialist,3,Business,12791.73,10,1,1,19,4,2,33.0,Yes,3,1,3,46,1,0,1,Needs Improvement
+EMP-1651,51,Sales,Sales Representative,4,Technical Degree,16672.14,15,11,6,30,3,2,51.0,Yes,5,3,3,4,0,0,0,Needs Improvement
+EMP-1652,46,Operations,Logistics Coordinator,4,Business,16162.58,1,1,0,23,1,7,59.0,No,1,3,4,4,1,0,0,Needs Improvement
+EMP-1653,34,Research & Development,R&D Manager,3,Medical,10371.52,7,0,0,12,4,2,42.0,No,4,3,4,1,1,0,0,Needs Improvement
+EMP-1654,28,Human Resources,Recruiter,2,Life Sciences,5576.86,2,1,0,4,4,9,25.0,No,4,3,2,4,1,0,0,Needs Improvement
+EMP-1655,57,Engineering,Systems Architect,3,Medical,17246.77,2,0,0,36,3,6,34.0,No,1,1,2,5,1,0,1,Needs Improvement
+EMP-1656,37,Engineering,Software Engineer,2,Technical Degree,11287.48,13,9,8,15,3,4,32.0,No,3,2,3,16,1,0,0,Needs Improvement
+EMP-1657,37,Research & Development,R&D Manager,3,Computer Science,11012.74,9,8,6,13,4,11,31.0,Yes,4,3,3,24,2,1,0,Strong Contributor
+EMP-1658,36,Marketing,Brand Strategist,3,Medical,10427.52,0,0,0,15,4,2,30.0,Yes,3,2,3,16,1,0,0,Needs Improvement
+EMP-1659,38,Research & Development,Laboratory Technician,3,Business,11015.52,10,1,1,15,4,4,20.0,No,1,1,3,12,1,0,1,Needs Improvement
+EMP-1660,35,Engineering,DevOps Engineer,3,Business,9804.58,1,1,1,13,3,6,47.0,Yes,3,1,3,17,2,0,1,Needs Improvement
+EMP-1661,32,Engineering,Systems Architect,3,Marketing,8508.54,6,3,3,8,5,11,46.0,No,1,4,3,16,0,1,0,Strong Contributor
+EMP-1662,32,Marketing,Digital Marketer,4,Marketing,8857.55,9,6,6,11,5,7,34.0,No,4,4,5,7,1,0,0,Strong Contributor
+EMP-1663,36,Engineering,Engineering Lead,1,Marketing,8449.23,1,1,1,15,2,8,51.0,No,1,2,2,4,3,0,0,Needs Improvement
+EMP-1664,32,Research & Development,Laboratory Technician,2,Computer Science,8549.78,5,1,0,9,4,9,42.0,No,2,2,3,3,0,0,0,Needs Improvement
+EMP-1665,31,Engineering,QA Engineer,3,Technical Degree,8503.85,6,0,0,7,3,4,18.0,No,2,3,3,13,0,0,0,Needs Improvement
+EMP-1666,37,Engineering,Systems Architect,4,Life Sciences,10478.29,2,2,2,14,3,11,29.0,No,3,5,3,38,1,0,0,Needs Improvement
+EMP-1667,34,Research & Development,Research Scientist,1,Business,7305.79,3,3,1,11,3,9,54.0,Yes,5,2,3,10,0,0,0,Needs Improvement
+EMP-1668,49,Research & Development,Research Scientist,1,Business,14332.81,12,3,0,25,2,7,28.0,No,2,4,3,29,1,0,0,Needs Improvement
+EMP-1669,21,Sales,Sales Executive,1,Technical Degree,3156.26,0,0,0,0,3,5,24.0,No,2,3,2,1,0,0,0,Needs Improvement
+EMP-1670,45,Engineering,Software Engineer,1,Computer Science,11829.87,13,7,4,21,4,7,44.0,No,3,5,3,18,1,1,0,Needs Improvement
+EMP-1671,46,Marketing,Digital Marketer,4,Marketing,14655.73,2,1,1,24,3,7,30.0,No,4,2,3,23,1,0,0,Needs Improvement
+EMP-1672,21,Engineering,Systems Architect,3,Technical Degree,3679.78,0,0,0,0,3,6,41.0,Yes,3,5,2,11,1,0,0,Needs Improvement
+EMP-1673,34,Research & Development,Laboratory Technician,3,Life Sciences,10112.9,9,1,0,13,5,14,33.0,No,3,3,3,32,0,1,0,Strong Contributor
+EMP-1674,34,Operations,Logistics Coordinator,3,Marketing,9264.97,5,0,0,11,3,3,22.0,No,3,5,3,10,0,0,0,Needs Improvement
+EMP-1675,25,Engineering,QA Engineer,3,Life Sciences,6464.17,0,0,0,3,3,9,,No,2,3,2,3,0,0,0,Needs Improvement
+EMP-1676,30,Operations,Logistics Coordinator,2,Medical,6822.41,6,5,4,6,3,8,10.0,No,3,3,2,2,1,0,0,Needs Improvement
+EMP-1677,28,Engineering,QA Engineer,2,Life Sciences,8602.12,2,1,1,6,3,8,18.0,No,3,4,3,9,0,0,0,Needs Improvement
+EMP-1678,51,Research & Development,Laboratory Technician,2,Marketing,15705.51,13,12,8,27,3,8,42.0,Yes,4,3,3,28,2,0,0,Needs Improvement
+EMP-1679,44,Sales,Sales Executive,1,Medical,12194.93,7,6,4,22,4,9,50.0,Yes,5,3,5,1,1,1,0,Strong Contributor
+EMP-1680,47,Operations,Operations Manager,2,Marketing,13637.22,18,11,7,24,3,9,25.0,No,4,3,2,11,0,0,0,Needs Improvement
+EMP-1681,42,Engineering,Systems Architect,2,Business,13207.26,13,4,0,19,4,5,14.0,No,3,4,2,17,0,0,0,Needs Improvement
+EMP-1682,27,Sales,Sales Director,1,Marketing,6856.78,1,1,0,6,3,8,49.0,No,3,5,1,1,0,0,0,Needs Improvement
+EMP-1683,32,Operations,Operations Analyst,2,Medical,7473.9,0,0,0,11,3,6,50.0,No,2,1,3,1,1,0,1,Needs Improvement
+EMP-1684,40,Research & Development,Research Scientist,3,Life Sciences,11934.05,8,3,3,16,3,15,44.0,No,4,3,3,5,0,1,0,Needs Improvement
+EMP-1685,27,Sales,Sales Executive,1,Business,6438.52,4,4,4,4,4,11,13.0,No,3,4,3,3,0,0,0,Needs Improvement
+EMP-1686,42,Engineering,QA Engineer,4,Computer Science,14655.95,5,4,0,20,3,8,41.0,No,4,3,4,2,0,0,0,Needs Improvement
+EMP-1687,35,Research & Development,R&D Manager,1,Computer Science,8378.66,10,9,1,13,2,9,41.0,No,2,4,3,2,3,0,0,Needs Improvement
+EMP-1688,34,Engineering,Software Engineer,3,Computer Science,9132.99,8,4,0,12,2,4,46.0,No,4,4,5,1,1,0,0,Needs Improvement
+EMP-1689,42,Engineering,Engineering Lead,3,Computer Science,12132.37,6,1,1,21,3,14,36.0,No,3,4,2,11,2,0,0,Needs Improvement
+EMP-1690,40,Research & Development,Laboratory Technician,4,Technical Degree,12717.31,16,13,13,18,3,5,23.0,No,2,3,1,13,0,0,0,Needs Improvement
+EMP-1691,34,Sales,Sales Director,3,Computer Science,10599.58,11,1,1,13,3,7,28.0,No,3,5,2,14,0,0,0,Needs Improvement
+EMP-1692,46,Operations,Operations Manager,2,Medical,13438.0,0,0,0,25,1,8,50.0,No,5,4,1,9,0,0,0,Needs Improvement
+EMP-1693,28,Operations,Logistics Coordinator,2,Computer Science,5792.37,4,1,0,4,4,8,39.0,Yes,4,4,5,36,3,0,0,Needs Improvement
+EMP-1694,41,Research & Development,Research Scientist,2,Marketing,9771.65,8,5,3,19,3,8,15.0,Yes,4,1,3,25,0,0,1,Needs Improvement
+EMP-1695,41,Marketing,Digital Marketer,2,Computer Science,12978.5,17,5,0,19,3,11,57.0,No,1,2,3,37,1,0,0,Needs Improvement
+EMP-1696,34,Research & Development,R&D Manager,1,Life Sciences,6571.52,7,3,0,11,3,8,50.0,No,4,3,3,5,0,0,0,Needs Improvement
+EMP-1697,39,Engineering,Systems Architect,3,Medical,11037.3,10,3,0,15,3,6,,No,3,3,2,25,1,0,0,Needs Improvement
+EMP-1698,26,Human Resources,Recruiter,3,Medical,6354.43,0,0,0,3,4,8,49.0,No,3,3,2,17,0,1,0,Strong Contributor
+EMP-1699,44,Engineering,Systems Architect,3,Business,12641.23,1,1,1,20,2,3,21.0,Yes,2,1,3,4,1,0,1,Needs Improvement
+EMP-1700,35,Sales,Sales Executive,4,Technical Degree,10601.92,12,12,7,13,3,8,38.0,Yes,2,3,3,1,3,0,0,Needs Improvement
+EMP-1701,32,Marketing,Brand Strategist,3,Marketing,8269.4,9,3,1,11,4,7,42.0,No,1,4,5,13,1,0,0,Needs Improvement
+EMP-1702,45,Research & Development,Laboratory Technician,3,Medical,13824.74,10,7,2,24,3,8,15.0,No,4,4,3,1,1,0,0,Needs Improvement
+EMP-1703,31,Marketing,Digital Marketer,3,Life Sciences,9672.06,10,8,4,10,3,2,17.0,No,2,4,3,4,1,0,0,Needs Improvement
+EMP-1704,25,Engineering,Systems Architect,1,Computer Science,6458.64,3,3,0,4,3,7,44.0,Yes,1,3,1,8,2,0,1,Needs Improvement
+EMP-1705,24,Research & Development,Laboratory Technician,2,Medical,5161.19,1,0,0,3,4,6,,No,3,3,4,13,0,0,0,Needs Improvement
+EMP-1706,41,Engineering,Systems Architect,4,Life Sciences,11035.62,7,4,1,18,5,4,67.0,No,3,3,1,31,0,1,0,Strong Contributor
+EMP-1707,26,Research & Development,Research Scientist,4,Computer Science,5659.19,1,1,0,2,4,7,30.0,Yes,2,3,4,10,2,0,1,Needs Improvement
+EMP-1708,51,Human Resources,Recruiter,3,Technical Degree,17687.43,27,19,9,29,3,9,10.0,No,1,3,3,13,1,0,0,Needs Improvement
+EMP-1709,21,Research & Development,Research Scientist,2,Medical,,0,0,0,0,5,9,31.0,No,2,3,2,4,2,1,0,Strong Contributor
+EMP-1710,50,Engineering,DevOps Engineer,3,Medical,14792.52,10,1,0,26,1,11,45.0,No,3,1,3,13,1,0,0,Needs Improvement
+EMP-1711,38,Engineering,Engineering Lead,1,Life Sciences,11534.32,4,2,0,17,1,11,28.0,No,1,3,5,6,1,0,0,Needs Improvement
+EMP-1712,36,Engineering,Software Engineer,2,Business,8485.79,11,6,1,12,4,6,35.0,Yes,3,2,3,23,0,1,1,Needs Improvement
+EMP-1713,32,Research & Development,Research Scientist,2,Marketing,7291.02,1,1,1,8,2,6,25.0,Yes,2,1,2,5,1,0,1,Needs Improvement
+EMP-1714,40,Operations,Operations Manager,2,Technical Degree,12335.05,1,0,0,19,2,7,50.0,Yes,2,3,2,7,1,0,1,Needs Improvement
+EMP-1715,36,Engineering,Software Engineer,2,Marketing,11640.63,14,10,3,15,3,8,44.0,No,3,2,3,6,1,0,0,Needs Improvement
+EMP-1716,45,Human Resources,Recruiter,2,Medical,12939.0,21,15,4,24,3,5,22.0,No,2,3,2,19,0,0,0,Needs Improvement
+EMP-1717,37,Marketing,Marketing Specialist,2,Marketing,11352.89,15,10,1,15,4,9,26.0,No,2,2,4,36,3,0,0,Needs Improvement
+EMP-1718,38,Research & Development,Laboratory Technician,2,Computer Science,10606.62,10,4,0,17,3,6,24.0,No,3,3,4,4,0,0,0,Needs Improvement
+EMP-1719,34,Research & Development,Research Scientist,3,Technical Degree,,9,3,0,12,3,8,7.0,No,3,5,5,7,0,0,0,Needs Improvement
+EMP-1720,36,Marketing,Digital Marketer,3,Marketing,10924.6,8,4,0,15,3,7,,No,4,3,2,14,3,0,0,Needs Improvement
+EMP-1721,39,Engineering,DevOps Engineer,1,Computer Science,9218.19,12,7,4,17,5,9,9.0,No,1,3,3,27,1,1,1,Strong Contributor
+EMP-1722,23,Engineering,Software Engineer,2,Life Sciences,4824.81,0,0,0,0,4,2,47.0,No,4,4,2,8,1,0,0,Needs Improvement
+EMP-1723,26,Engineering,Engineering Lead,3,Marketing,8974.68,3,2,2,3,3,10,48.0,Yes,4,3,3,1,3,1,0,Needs Improvement
+EMP-1724,42,Operations,Operations Manager,3,Technical Degree,12835.04,6,5,3,18,5,6,29.0,No,4,2,4,5,0,0,0,Strong Contributor
+EMP-1725,38,Operations,Operations Analyst,2,Computer Science,9625.59,12,6,1,14,4,7,36.0,No,3,2,3,9,0,0,0,Needs Improvement
+EMP-1726,35,Human Resources,Recruiter,3,Marketing,11266.98,10,5,2,14,2,9,48.0,No,4,3,4,6,1,0,0,Needs Improvement
+EMP-1727,37,Engineering,Software Engineer,4,Life Sciences,10461.63,5,3,3,15,1,11,44.0,Yes,2,3,4,2,0,0,1,Needs Improvement
+EMP-1728,39,Sales,Sales Executive,1,Marketing,9192.69,3,3,3,16,2,2,62.0,No,2,1,2,1,2,0,0,Needs Improvement
+EMP-1729,32,Engineering,Software Engineer,2,Computer Science,8510.55,11,0,0,11,4,9,37.0,No,1,4,3,13,2,0,0,Needs Improvement
+EMP-1730,30,Engineering,Software Engineer,2,Marketing,7899.0,0,0,0,9,2,6,54.0,No,5,1,1,59,0,0,0,Needs Improvement
+EMP-1731,38,Research & Development,Research Scientist,3,Technical Degree,10296.03,2,0,0,17,3,8,35.0,Yes,3,4,3,30,2,0,0,Needs Improvement
+EMP-1732,29,Operations,Logistics Coordinator,2,Medical,6024.17,5,5,2,5,2,3,32.0,Yes,4,5,2,13,0,0,0,Needs Improvement
+EMP-1733,40,Operations,Operations Analyst,2,Computer Science,11109.87,5,4,3,18,5,9,43.0,No,2,5,5,22,1,1,0,Strong Contributor
+EMP-1734,23,Research & Development,Research Scientist,2,Computer Science,6167.78,1,0,0,1,3,6,41.0,No,4,4,3,3,3,0,0,Needs Improvement
+EMP-1735,45,Engineering,Software Engineer,4,Computer Science,12795.99,0,0,0,22,4,2,25.0,No,4,2,3,11,2,0,0,Needs Improvement
+EMP-1736,40,Engineering,Software Engineer,3,Computer Science,10592.56,5,5,0,18,5,4,22.0,No,5,3,4,1,0,1,0,Strong Contributor
+EMP-1737,39,Sales,Sales Director,3,Marketing,11618.14,5,3,0,17,1,6,35.0,Yes,3,2,4,14,0,0,1,Needs Improvement
+EMP-1738,44,Human Resources,Recruiter,3,Technical Degree,14775.79,20,16,14,23,3,7,7.0,No,4,4,4,42,0,0,0,Needs Improvement
+EMP-1739,50,Marketing,Brand Strategist,2,Life Sciences,15916.43,15,8,4,29,1,12,29.0,No,5,3,3,23,1,0,0,Needs Improvement
+EMP-1740,45,Sales,Sales Representative,3,Technical Degree,13252.41,4,3,2,21,4,8,20.0,No,3,3,3,9,1,0,0,Needs Improvement
+EMP-1741,22,Sales,Sales Executive,3,Computer Science,,0,0,0,1,3,10,25.0,Yes,3,4,3,18,0,0,0,Needs Improvement
+EMP-1742,26,Engineering,QA Engineer,2,Business,6908.49,1,1,0,5,2,8,23.0,No,4,1,3,34,1,0,0,Needs Improvement
+EMP-1743,32,Engineering,DevOps Engineer,3,Marketing,9924.2,11,4,1,11,2,6,44.0,No,3,2,1,2,2,0,0,Needs Improvement
+EMP-1744,37,Sales,Sales Representative,3,Business,10848.42,6,4,3,16,3,6,40.0,No,4,3,2,18,1,0,0,Needs Improvement
+EMP-1745,41,Engineering,Engineering Lead,3,Marketing,10606.24,2,2,1,17,5,8,34.0,No,1,3,5,3,0,1,1,Strong Contributor
+EMP-1746,31,Sales,Account Manager,1,Computer Science,6752.09,3,3,0,10,3,7,28.0,No,3,3,3,25,3,0,0,Needs Improvement
+EMP-1747,38,Marketing,Brand Strategist,4,Marketing,12090.86,2,2,1,15,4,10,48.0,Yes,2,3,3,1,0,1,0,Strong Contributor
+EMP-1748,30,Research & Development,Research Scientist,4,Computer Science,6870.15,2,2,1,7,3,12,46.0,No,3,4,2,2,2,1,0,Needs Improvement
+EMP-1749,32,Engineering,Software Engineer,2,Technical Degree,9329.35,3,1,1,9,1,6,32.0,No,2,2,2,15,0,0,0,Needs Improvement
+EMP-1750,25,Engineering,DevOps Engineer,1,Medical,4149.49,0,0,0,2,5,8,52.0,No,4,3,2,2,1,1,0,Strong Contributor
+EMP-1751,29,Sales,Account Manager,2,Marketing,,0,0,0,8,1,3,31.0,No,2,3,3,2,1,0,0,Needs Improvement
+EMP-1752,26,Sales,Sales Director,4,Computer Science,7371.54,3,2,0,3,5,4,36.0,No,4,3,4,9,1,0,0,Strong Contributor
+EMP-1753,29,Sales,Sales Executive,3,Business,7424.68,7,2,1,8,3,14,25.0,No,4,3,3,21,1,1,0,Needs Improvement
+EMP-1754,45,Research & Development,Research Scientist,2,Computer Science,11966.09,9,0,0,21,1,5,28.0,Yes,3,1,3,3,0,0,0,Needs Improvement
+EMP-1755,29,Research & Development,Research Scientist,2,Business,6798.77,6,4,4,6,3,7,25.0,No,2,1,3,22,1,0,1,Needs Improvement
+EMP-1756,58,Human Resources,Recruiter,2,Marketing,17311.65,24,2,2,36,5,5,43.0,Yes,2,2,3,19,1,0,0,Strong Contributor
+EMP-1757,40,Sales,Sales Representative,3,Life Sciences,10499.12,12,0,0,17,5,6,39.0,No,3,3,4,10,0,1,0,Strong Contributor
+EMP-1758,38,Marketing,Digital Marketer,2,Business,9220.0,6,3,1,15,2,4,19.0,No,1,2,3,12,3,0,0,Needs Improvement
+EMP-1759,30,Sales,Sales Executive,4,Computer Science,10108.23,6,2,0,9,2,7,41.0,Yes,3,3,3,1,2,0,0,Needs Improvement
+EMP-1760,42,Engineering,Systems Architect,3,Marketing,12578.13,4,4,1,19,3,8,59.0,No,5,2,3,5,2,1,0,Needs Improvement
+EMP-1761,32,Research & Development,Research Scientist,3,Computer Science,8086.15,3,2,2,10,3,9,24.0,No,2,4,4,3,1,0,0,Needs Improvement
+EMP-1762,37,Research & Development,Laboratory Technician,2,Life Sciences,11265.48,13,3,0,16,4,9,23.0,No,3,4,3,1,0,0,0,Needs Improvement
+EMP-1763,57,Operations,Operations Analyst,1,Medical,16816.02,15,2,0,36,2,9,34.0,No,5,3,2,5,1,0,0,Needs Improvement
+EMP-1764,36,Human Resources,Recruiter,2,Life Sciences,7204.63,0,0,0,12,5,10,53.0,No,4,3,2,5,2,1,0,Strong Contributor
+EMP-1765,46,Operations,Logistics Coordinator,2,Technical Degree,13387.13,16,4,3,22,3,7,27.0,No,4,5,5,15,0,0,0,Needs Improvement
+EMP-1766,31,Operations,Operations Manager,2,Marketing,8921.61,4,0,0,8,4,7,59.0,Yes,4,3,4,10,1,1,0,Strong Contributor
+EMP-1767,36,Research & Development,Research Scientist,4,Life Sciences,10662.24,12,12,0,12,3,8,19.0,No,3,5,1,29,0,0,0,Needs Improvement
+EMP-1768,51,Research & Development,R&D Manager,2,Medical,12961.4,8,5,2,27,3,9,36.0,Yes,4,2,4,1,0,0,1,Needs Improvement
+EMP-1769,31,Research & Development,R&D Manager,2,Computer Science,7038.8,5,0,0,7,5,6,,Yes,5,4,3,1,0,0,0,Strong Contributor
+EMP-1770,51,Operations,Logistics Coordinator,2,Marketing,15552.88,18,1,0,30,3,7,20.0,No,3,3,3,9,3,0,0,Needs Improvement
+EMP-1771,42,Human Resources,HR Specialist,2,Business,12720.39,12,12,0,21,4,8,31.0,No,3,1,1,1,1,1,0,Needs Improvement
+EMP-1772,32,Engineering,Systems Architect,4,Life Sciences,9017.46,2,0,0,11,5,6,37.0,No,3,5,4,18,0,0,0,Strong Contributor
+EMP-1773,42,Human Resources,HR Specialist,2,Medical,10939.87,6,3,2,18,3,5,51.0,No,3,5,2,8,1,1,0,Needs Improvement
+EMP-1774,44,Engineering,Software Engineer,2,Life Sciences,11861.93,21,7,1,23,3,5,24.0,No,2,3,4,8,0,0,0,Needs Improvement
+EMP-1775,41,Sales,Account Manager,3,Technical Degree,11659.59,8,6,2,17,1,6,39.0,Yes,3,5,1,5,1,0,0,Needs Improvement
+EMP-1776,24,Engineering,DevOps Engineer,2,Marketing,4295.39,1,0,0,3,1,6,15.0,No,3,2,4,5,2,0,0,Needs Improvement
+EMP-1777,31,Research & Development,Research Scientist,2,Computer Science,8593.68,4,3,3,10,3,11,48.0,Yes,3,3,1,6,1,0,0,Needs Improvement
+EMP-1778,35,Marketing,Brand Strategist,2,Medical,8664.51,9,6,3,13,2,8,52.0,No,1,2,2,1,1,0,1,Needs Improvement
+EMP-1779,36,Engineering,Software Engineer,2,Life Sciences,6512.73,6,2,0,13,3,8,48.0,No,4,2,2,1,1,0,0,Needs Improvement
+EMP-1780,41,Engineering,DevOps Engineer,1,Marketing,10974.38,16,6,5,17,3,3,48.0,No,2,4,2,8,1,0,0,Needs Improvement
+EMP-1781,38,Engineering,Engineering Lead,1,Life Sciences,10324.64,11,5,5,16,3,11,32.0,No,2,3,3,1,1,0,0,Needs Improvement
+EMP-1782,26,Research & Development,R&D Manager,3,Marketing,8117.65,2,2,1,5,3,5,37.0,No,3,1,3,18,2,0,0,Needs Improvement
+EMP-1783,40,Sales,Account Manager,2,Technical Degree,8598.89,8,5,3,16,2,12,32.0,Yes,3,3,5,3,1,0,0,Needs Improvement
+EMP-1784,41,Engineering,QA Engineer,3,Life Sciences,12010.91,14,9,7,20,1,8,33.0,No,1,2,3,1,3,0,0,Needs Improvement
+EMP-1785,41,Engineering,QA Engineer,3,Technical Degree,11958.43,4,2,0,18,3,5,23.0,No,3,3,3,3,2,0,0,Needs Improvement
+EMP-1786,45,Sales,Account Manager,3,Business,14254.54,22,19,0,23,3,3,37.0,No,4,2,2,5,2,0,0,Needs Improvement
+EMP-1787,43,Engineering,Systems Architect,2,Business,10683.4,12,2,0,20,3,10,39.0,Yes,3,4,3,1,2,0,0,Needs Improvement
+EMP-1788,40,Human Resources,HR Specialist,2,Medical,11628.31,13,0,0,18,3,3,47.0,No,3,2,2,1,0,0,0,Needs Improvement
+EMP-1789,36,Engineering,Systems Architect,3,Technical Degree,10185.4,3,2,0,15,4,6,39.0,Yes,2,3,4,4,1,0,0,Needs Improvement
+EMP-1790,23,Research & Development,R&D Manager,3,Marketing,3330.43,0,0,0,0,3,11,46.0,Yes,3,2,3,4,1,0,1,Needs Improvement
+EMP-1791,40,Engineering,QA Engineer,3,Medical,10784.39,14,9,9,17,3,3,23.0,No,4,3,4,19,1,0,0,Needs Improvement
+EMP-1792,38,Sales,Sales Director,1,Life Sciences,10722.94,15,4,1,17,5,5,,No,3,2,3,22,2,1,0,Strong Contributor
+EMP-1793,39,Engineering,Software Engineer,4,Life Sciences,10048.03,12,0,0,16,4,7,30.0,Yes,4,3,5,2,0,0,0,Needs Improvement
+EMP-1794,26,Human Resources,HR Manager,1,Marketing,5133.35,0,0,0,2,3,7,5.0,No,3,3,2,1,0,0,0,Needs Improvement
+EMP-1795,28,Operations,Operations Analyst,2,Computer Science,6935.04,6,0,0,6,3,7,28.0,No,4,4,1,12,2,0,0,Needs Improvement
+EMP-1796,45,Operations,Operations Manager,2,Computer Science,12911.53,7,1,1,23,2,5,42.0,No,4,1,3,19,0,0,0,Needs Improvement
+EMP-1797,36,Research & Development,Research Scientist,1,Life Sciences,7648.32,4,4,4,14,3,10,35.0,No,4,4,5,39,0,0,0,Needs Improvement
+EMP-1798,42,Sales,Sales Executive,2,Marketing,9840.55,1,1,0,18,5,8,6.0,Yes,4,2,3,1,0,0,0,Strong Contributor
+EMP-1799,37,Marketing,Brand Strategist,3,Computer Science,10341.37,4,4,3,15,3,4,37.0,Yes,3,1,2,6,2,0,1,Needs Improvement
+EMP-1800,37,Research & Development,Research Scientist,3,Technical Degree,10067.55,5,2,1,16,5,10,35.0,No,4,2,3,15,1,1,0,Strong Contributor
+EMP-1801,44,Engineering,Systems Architect,3,Life Sciences,12679.62,11,0,0,21,3,8,20.0,Yes,3,2,4,21,3,0,0,Needs Improvement
+EMP-1802,32,Marketing,Digital Marketer,2,Business,8255.56,1,0,0,8,5,8,41.0,Yes,4,3,1,1,0,1,0,Strong Contributor
+EMP-1803,37,Sales,Sales Director,3,Technical Degree,10454.28,13,11,3,15,3,10,32.0,No,1,5,2,13,2,0,0,Needs Improvement
+EMP-1804,33,Engineering,QA Engineer,1,Marketing,8089.6,5,2,2,12,1,6,6.0,Yes,3,1,4,4,0,0,1,Needs Improvement
+EMP-1805,33,Engineering,DevOps Engineer,2,Business,7930.31,5,4,0,10,3,11,43.0,No,4,3,4,1,0,1,0,Needs Improvement
+EMP-1806,34,Engineering,Software Engineer,2,Technical Degree,9492.06,0,0,0,11,3,7,36.0,No,2,3,3,8,1,0,0,Needs Improvement
+EMP-1807,38,Sales,Sales Representative,2,Computer Science,10884.03,13,10,10,14,1,8,55.0,No,3,3,5,2,0,0,0,Needs Improvement
+EMP-1808,33,Engineering,QA Engineer,2,Computer Science,8199.74,0,0,0,9,4,4,21.0,No,4,3,2,16,0,0,0,Needs Improvement
+EMP-1809,47,Engineering,DevOps Engineer,2,Business,13262.93,10,3,1,23,3,8,30.0,Yes,3,4,3,16,0,0,0,Needs Improvement
+EMP-1810,29,Engineering,DevOps Engineer,3,Medical,,2,0,0,8,4,10,48.0,No,3,1,3,22,0,1,1,Strong Contributor
+EMP-1811,35,Research & Development,Laboratory Technician,4,Life Sciences,12205.16,13,3,1,14,3,8,21.0,No,3,4,3,5,2,0,0,Needs Improvement
+EMP-1812,33,Human Resources,Recruiter,2,Business,8248.63,9,8,6,9,2,7,48.0,No,3,2,4,1,0,0,0,Needs Improvement
+EMP-1813,48,Sales,Sales Representative,4,Marketing,16850.2,9,6,0,26,5,9,48.0,Yes,1,3,4,3,3,1,0,Strong Contributor
+EMP-1814,38,Engineering,Software Engineer,3,Life Sciences,10322.82,14,3,1,15,3,4,38.0,No,1,3,3,7,2,0,0,Needs Improvement
+EMP-1815,45,Engineering,Engineering Lead,3,Technical Degree,12157.99,18,18,12,22,3,8,31.0,No,2,3,1,14,0,0,0,Needs Improvement
+EMP-1816,25,Operations,Operations Manager,3,Marketing,5917.85,3,1,1,4,3,10,24.0,Yes,2,1,3,5,1,0,1,Needs Improvement
+EMP-1817,39,Sales,Account Manager,1,Marketing,9373.48,1,0,0,16,3,4,23.0,Yes,2,2,3,9,1,0,1,Needs Improvement
+EMP-1818,44,Sales,Sales Representative,3,Computer Science,14804.08,8,5,2,22,4,9,38.0,Yes,4,2,2,8,2,0,0,Needs Improvement
+EMP-1819,37,Engineering,Software Engineer,3,Technical Degree,10982.77,9,8,3,14,3,10,0.0,No,3,4,4,2,2,0,0,Needs Improvement
+EMP-1820,45,Human Resources,Recruiter,4,Computer Science,14146.29,10,5,3,24,3,11,26.0,No,4,2,2,11,1,0,0,Needs Improvement
+EMP-1821,32,Research & Development,Laboratory Technician,3,Computer Science,9907.57,6,3,0,11,4,1,24.0,No,1,3,1,6,0,0,1,Needs Improvement
+EMP-1822,48,Engineering,Engineering Lead,3,Medical,14763.38,22,19,10,26,2,9,20.0,No,3,2,3,19,1,0,0,Needs Improvement
+EMP-1823,55,Engineering,QA Engineer,3,Computer Science,19011.1,18,14,1,33,3,6,36.0,No,3,4,4,14,2,0,0,Needs Improvement
+EMP-1824,34,Sales,Sales Director,2,Life Sciences,8279.67,5,4,3,11,5,10,13.0,No,4,3,3,1,1,0,0,Strong Contributor
+EMP-1825,33,Marketing,Digital Marketer,2,Marketing,6815.0,7,4,0,10,3,5,50.0,No,4,2,4,8,2,0,0,Needs Improvement
+EMP-1826,48,Marketing,Digital Marketer,2,Computer Science,14491.92,7,5,3,27,4,6,46.0,No,4,5,3,14,1,1,0,Needs Improvement
+EMP-1827,49,Research & Development,Research Scientist,2,Business,14360.16,10,10,9,27,3,3,53.0,No,1,2,2,1,0,0,1,Needs Improvement
+EMP-1828,32,Human Resources,Recruiter,2,Life Sciences,6991.1,8,2,0,10,4,8,26.0,No,4,3,2,18,3,1,0,Needs Improvement
+EMP-1829,33,Engineering,Software Engineer,3,Technical Degree,9707.32,0,0,0,11,5,8,36.0,Yes,3,3,3,3,2,0,0,Strong Contributor
+EMP-1830,34,Research & Development,R&D Manager,3,Marketing,10462.25,0,0,0,11,3,6,45.0,Yes,4,3,3,8,0,0,0,Needs Improvement
+EMP-1831,26,Research & Development,Research Scientist,4,Business,6109.76,2,1,0,4,2,7,32.0,Yes,3,5,4,33,0,0,0,Needs Improvement
+EMP-1832,29,Engineering,Systems Architect,3,Business,8915.44,2,1,1,8,3,8,26.0,No,3,4,3,10,1,0,0,Needs Improvement
+EMP-1833,28,Marketing,Marketing Specialist,3,Technical Degree,7114.03,1,1,1,7,4,12,35.0,No,1,4,3,6,2,0,0,Strong Contributor
+EMP-1834,30,Engineering,DevOps Engineer,4,Business,8237.75,7,2,1,7,3,6,31.0,No,3,5,3,1,0,0,0,Needs Improvement
+EMP-1835,36,Sales,Sales Representative,3,Life Sciences,9443.2,9,9,1,12,1,4,19.0,No,2,3,2,1,0,0,0,Needs Improvement
+EMP-1836,38,Research & Development,Laboratory Technician,3,Technical Degree,10677.76,0,0,0,15,3,5,0.0,Yes,1,1,3,10,1,0,1,Needs Improvement
+EMP-1837,49,Research & Development,Research Scientist,2,Business,14325.77,17,10,9,25,5,8,21.0,No,1,4,3,8,0,1,0,Strong Contributor
+EMP-1838,29,Research & Development,Research Scientist,2,Technical Degree,6138.24,1,0,0,7,3,4,0.0,No,5,3,4,5,0,0,0,Needs Improvement
+EMP-1839,44,Engineering,Systems Architect,2,Technical Degree,13543.97,18,8,4,21,3,9,21.0,No,3,2,2,30,1,0,0,Needs Improvement
+EMP-1840,35,Marketing,Brand Strategist,3,Computer Science,10773.19,12,3,3,14,2,7,53.0,No,4,3,3,4,2,0,0,Needs Improvement
+EMP-1841,36,Research & Development,R&D Manager,3,Computer Science,11072.02,5,2,1,14,3,7,8.0,No,5,4,2,9,1,0,0,Needs Improvement
+EMP-1842,42,Sales,Account Manager,2,Computer Science,11677.94,0,0,0,21,2,8,40.0,Yes,5,2,3,10,1,0,0,Needs Improvement
+EMP-1843,28,Operations,Operations Manager,2,Business,5676.7,1,1,1,6,2,9,51.0,Yes,4,4,3,8,1,0,0,Needs Improvement
+EMP-1844,40,Human Resources,HR Specialist,4,Marketing,13124.44,15,6,0,17,4,8,11.0,No,4,3,5,7,1,0,0,Needs Improvement
+EMP-1845,38,Engineering,DevOps Engineer,3,Life Sciences,9278.03,14,2,2,14,5,9,59.0,No,3,2,3,4,0,1,0,Strong Contributor
+EMP-1846,40,Human Resources,HR Manager,2,Business,11374.37,12,11,6,18,2,13,32.0,Yes,2,4,4,28,0,0,1,Needs Improvement
+EMP-1847,39,Engineering,Engineering Lead,3,Computer Science,11617.1,15,14,0,15,2,3,53.0,Yes,3,5,3,7,0,0,0,Needs Improvement
+EMP-1848,56,Engineering,Systems Architect,3,Technical Degree,17805.88,28,22,15,34,3,4,37.0,No,3,2,2,9,2,0,0,Needs Improvement
+EMP-1849,31,Sales,Sales Executive,4,Business,10453.07,6,5,3,10,3,8,27.0,Yes,1,3,2,12,2,0,0,Needs Improvement
+EMP-1850,32,Operations,Logistics Coordinator,2,Technical Degree,8335.6,7,2,1,11,3,7,0.0,No,3,3,2,1,1,0,0,Needs Improvement
+EMP-1851,32,Engineering,Engineering Lead,1,Technical Degree,6450.32,9,9,3,10,3,7,18.0,No,3,4,3,18,2,0,0,Needs Improvement
+EMP-1852,32,Research & Development,Research Scientist,2,Technical Degree,7776.76,0,0,0,8,3,5,43.0,Yes,4,1,3,8,2,1,0,Needs Improvement
+EMP-1853,31,Engineering,Software Engineer,2,Medical,7618.47,6,1,1,8,4,7,55.0,No,3,2,4,12,2,0,0,Needs Improvement
+EMP-1854,46,Human Resources,HR Specialist,3,Marketing,16159.18,12,10,10,23,4,14,,Yes,3,3,5,17,0,0,1,Strong Contributor
+EMP-1855,48,Sales,Sales Representative,2,Life Sciences,13809.4,4,2,1,27,3,11,33.0,No,3,3,3,24,1,0,0,Needs Improvement
+EMP-1856,32,Research & Development,Research Scientist,4,Life Sciences,8793.34,9,5,2,9,3,8,27.0,No,3,3,3,5,1,0,0,Needs Improvement
+EMP-1857,30,Engineering,QA Engineer,2,Computer Science,7162.22,0,0,0,9,4,8,39.0,No,5,4,3,20,1,0,0,Needs Improvement
+EMP-1858,40,Human Resources,Recruiter,4,Medical,11931.76,2,1,0,17,5,5,35.0,No,2,4,2,3,0,0,0,Strong Contributor
+EMP-1859,32,Operations,Logistics Coordinator,1,Business,7435.48,6,2,1,10,2,10,28.0,Yes,3,5,4,12,1,0,0,Needs Improvement
+EMP-1860,42,Research & Development,R&D Manager,3,Business,12194.93,16,5,3,21,3,10,42.0,No,3,2,2,1,1,0,0,Needs Improvement
+EMP-1861,38,Sales,Account Manager,4,Life Sciences,12481.41,6,5,5,17,3,8,24.0,No,3,4,4,1,2,0,0,Needs Improvement
+EMP-1862,24,Operations,Logistics Coordinator,4,Marketing,6167.27,0,0,0,2,2,4,34.0,No,3,3,3,1,2,0,0,Needs Improvement
+EMP-1863,49,Engineering,Engineering Lead,1,Technical Degree,15650.93,0,0,0,28,3,8,44.0,Yes,3,2,3,4,0,0,0,Needs Improvement
+EMP-1864,51,Human Resources,HR Specialist,2,Computer Science,14456.3,16,5,2,28,3,6,23.0,No,2,3,3,1,0,0,0,Needs Improvement
+EMP-1865,32,Marketing,Marketing Specialist,3,Marketing,10095.24,0,0,0,9,3,11,28.0,No,3,1,4,11,1,0,0,Needs Improvement
+EMP-1866,33,Engineering,QA Engineer,1,Life Sciences,8608.29,10,0,0,12,3,9,26.0,No,4,3,2,4,1,0,0,Needs Improvement
+EMP-1867,39,Sales,Account Manager,1,Medical,11024.2,2,1,1,16,3,6,40.0,Yes,3,3,1,15,1,0,0,Needs Improvement
+EMP-1868,39,Engineering,DevOps Engineer,2,Computer Science,10203.91,14,11,11,15,5,8,38.0,No,2,4,3,1,2,1,0,Strong Contributor
+EMP-1869,42,Research & Development,Research Scientist,3,Life Sciences,12277.41,20,0,0,21,3,11,26.0,Yes,3,2,1,2,2,0,0,Needs Improvement
+EMP-1870,53,Research & Development,R&D Manager,3,Business,16542.83,10,2,0,31,3,10,38.0,No,2,3,3,6,0,1,0,Needs Improvement
+EMP-1871,35,Sales,Sales Representative,1,Computer Science,6731.91,9,7,5,11,1,8,0.0,Yes,4,2,4,5,1,0,1,Needs Improvement
+EMP-1872,30,Sales,Sales Executive,2,Life Sciences,7719.62,8,7,5,9,2,9,45.0,Yes,3,5,4,1,2,0,0,Needs Improvement
+EMP-1873,25,Engineering,QA Engineer,2,Business,5694.88,1,0,0,3,3,3,46.0,No,5,3,4,60,2,0,0,Needs Improvement
+EMP-1874,31,Sales,Sales Executive,3,Business,8081.15,8,3,0,8,2,10,26.0,No,3,1,4,4,0,0,0,Needs Improvement
+EMP-1875,36,Engineering,Systems Architect,2,Technical Degree,10917.14,7,5,3,14,1,9,24.0,Yes,4,2,4,15,0,0,0,Needs Improvement
+EMP-1876,51,Marketing,Marketing Specialist,2,Medical,14525.78,23,14,5,27,2,6,33.0,No,2,3,5,2,0,0,0,Needs Improvement
+EMP-1877,32,Engineering,Systems Architect,4,Technical Degree,7315.41,0,0,0,9,3,10,21.0,No,1,3,2,25,3,0,0,Needs Improvement
+EMP-1878,38,Marketing,Brand Strategist,4,Life Sciences,15249.66,15,7,1,17,4,10,23.0,No,1,3,3,5,1,1,0,Needs Improvement
+EMP-1879,36,Research & Development,Laboratory Technician,4,Marketing,9918.45,8,6,3,13,3,3,38.0,No,3,2,5,27,1,0,1,Needs Improvement
+EMP-1880,46,Sales,Sales Representative,3,Technical Degree,15371.87,18,10,3,25,3,5,45.0,No,3,3,3,5,0,0,0,Needs Improvement
+EMP-1881,57,Human Resources,HR Manager,2,Marketing,16726.18,6,6,2,36,2,3,38.0,No,3,2,4,1,0,0,0,Needs Improvement
+EMP-1882,32,Sales,Sales Executive,3,Business,9020.69,2,0,0,10,3,10,74.0,Yes,4,3,1,8,1,1,0,Needs Improvement
+EMP-1883,33,Sales,Account Manager,2,Life Sciences,7864.91,2,0,0,11,3,15,51.0,Yes,2,5,4,8,1,1,0,Needs Improvement
+EMP-1884,45,Engineering,QA Engineer,3,Medical,11199.63,1,1,1,23,3,10,44.0,No,3,3,3,1,1,0,0,Needs Improvement
+EMP-1885,42,Sales,Sales Executive,2,Marketing,10985.47,8,5,5,18,5,8,43.0,No,4,1,2,3,0,1,0,Strong Contributor
+EMP-1886,51,Engineering,Engineering Lead,3,Life Sciences,15214.94,12,11,4,27,5,7,35.0,No,3,5,1,18,0,1,0,Strong Contributor
+EMP-1887,41,Engineering,DevOps Engineer,3,Marketing,12023.0,14,10,2,19,1,9,41.0,No,4,2,2,1,2,0,0,Needs Improvement
+EMP-1888,34,Sales,Sales Executive,1,Technical Degree,7818.8,2,2,2,10,4,4,36.0,Yes,3,3,4,8,0,0,0,Needs Improvement
+EMP-1889,41,Engineering,QA Engineer,3,Life Sciences,11597.44,10,4,2,18,2,5,48.0,No,3,3,3,9,2,0,0,Needs Improvement
+EMP-1890,45,Engineering,QA Engineer,1,Technical Degree,12222.23,20,4,3,22,5,8,30.0,No,2,2,4,14,0,0,1,Strong Contributor
+EMP-1891,43,Engineering,Software Engineer,2,Computer Science,11773.1,13,13,10,19,3,9,29.0,No,4,2,3,1,0,1,0,Needs Improvement
+EMP-1892,41,Engineering,QA Engineer,1,Life Sciences,10228.34,7,4,4,17,3,6,50.0,No,4,2,5,10,1,0,0,Needs Improvement
+EMP-1893,45,Engineering,Systems Architect,2,Marketing,12606.3,17,15,10,22,2,10,27.0,Yes,5,4,3,1,3,0,0,Needs Improvement
+EMP-1894,46,Operations,Logistics Coordinator,1,Computer Science,12495.71,18,12,4,25,2,10,20.0,Yes,3,4,2,3,0,0,0,Needs Improvement
+EMP-1895,48,Engineering,QA Engineer,4,Technical Degree,15635.0,15,8,6,25,4,7,23.0,No,4,3,2,8,1,0,0,Needs Improvement
+EMP-1896,42,Research & Development,Research Scientist,2,Technical Degree,11365.3,1,0,0,19,5,2,44.0,Yes,3,2,5,29,1,1,0,Strong Contributor
+EMP-1897,35,Engineering,Software Engineer,2,Marketing,8252.56,7,5,2,11,3,3,71.0,No,3,4,3,1,0,0,0,Needs Improvement
+EMP-1898,38,Operations,Logistics Coordinator,2,Computer Science,10561.06,5,5,4,15,4,7,21.0,No,4,3,2,2,0,0,0,Needs Improvement
+EMP-1899,46,Engineering,Software Engineer,3,Business,13550.76,5,0,0,22,4,9,43.0,No,2,3,1,13,3,1,0,Strong Contributor
+EMP-1900,30,Operations,Operations Manager,3,Medical,6651.6,3,3,2,6,3,5,36.0,No,2,3,3,5,0,0,0,Needs Improvement
+EMP-1901,39,Research & Development,R&D Manager,3,Marketing,12585.59,14,5,2,17,1,5,49.0,No,3,3,4,11,1,0,0,Needs Improvement
+EMP-1902,33,Engineering,Engineering Lead,3,Technical Degree,7729.7,8,3,1,10,1,4,42.0,No,4,3,3,60,3,0,0,Needs Improvement
+EMP-1903,37,Marketing,Digital Marketer,4,Life Sciences,10751.67,7,2,0,16,3,1,50.0,No,3,3,3,51,0,0,0,Needs Improvement
+EMP-1904,47,Research & Development,R&D Manager,3,Computer Science,15101.52,3,3,2,25,3,6,38.0,No,3,3,5,5,0,0,0,Needs Improvement
+EMP-1905,38,Engineering,DevOps Engineer,3,Business,11896.02,14,0,0,14,2,9,22.0,No,5,4,3,8,0,0,0,Needs Improvement
+EMP-1906,37,Human Resources,HR Manager,2,Medical,8820.34,11,6,4,13,2,7,24.0,No,3,3,4,28,0,0,0,Needs Improvement
+EMP-1907,26,Operations,Logistics Coordinator,3,Life Sciences,7271.54,3,1,0,5,2,6,36.0,No,2,3,3,1,0,0,0,Needs Improvement
+EMP-1908,42,Sales,Sales Director,3,Computer Science,10766.87,16,10,8,18,4,12,40.0,No,3,2,5,7,1,0,0,Strong Contributor
+EMP-1909,42,Sales,Sales Representative,3,Business,11383.91,12,11,2,19,2,3,28.0,Yes,4,4,1,5,1,0,0,Needs Improvement
+EMP-1910,54,Human Resources,HR Specialist,3,Marketing,18178.98,17,8,5,32,3,8,62.0,Yes,1,2,4,4,1,1,0,Needs Improvement
+EMP-1911,34,Research & Development,Research Scientist,3,Business,9129.19,1,0,0,10,3,6,47.0,No,3,2,3,60,2,0,0,Needs Improvement
+EMP-1912,38,Marketing,Digital Marketer,3,Marketing,11366.91,12,12,0,14,3,4,4.0,No,1,4,2,15,0,0,0,Needs Improvement
+EMP-1913,38,Research & Development,Laboratory Technician,1,Computer Science,11237.68,12,6,1,17,2,3,32.0,No,3,2,3,5,0,0,0,Needs Improvement
+EMP-1914,49,Engineering,DevOps Engineer,1,Business,11799.41,21,17,7,26,3,10,19.0,No,2,3,3,21,0,0,1,Needs Improvement
+EMP-1915,36,Operations,Operations Manager,2,Medical,7883.64,3,3,0,12,2,5,60.0,No,3,5,2,8,0,0,0,Needs Improvement
+EMP-1916,39,Engineering,Engineering Lead,4,Business,12687.03,9,8,8,18,3,5,2.0,No,3,3,3,24,0,0,0,Needs Improvement
+EMP-1917,41,Engineering,DevOps Engineer,3,Computer Science,9932.62,2,1,0,17,2,12,39.0,No,5,2,5,3,1,0,0,Needs Improvement
+EMP-1918,38,Research & Development,Research Scientist,3,Life Sciences,10511.13,2,0,0,17,3,6,,No,4,3,3,3,2,0,0,Needs Improvement
+EMP-1919,33,Research & Development,Research Scientist,3,Life Sciences,10844.27,5,5,5,12,3,5,45.0,No,5,4,3,3,3,0,0,Needs Improvement
+EMP-1920,38,Engineering,QA Engineer,3,Business,10212.59,13,12,7,15,3,4,38.0,Yes,3,3,1,9,0,0,0,Needs Improvement
+EMP-1921,45,Human Resources,HR Specialist,4,Business,14219.27,7,2,1,21,3,6,62.0,No,1,3,2,4,2,0,0,Needs Improvement
+EMP-1922,28,Sales,Sales Director,3,Marketing,6874.65,2,0,0,5,3,2,46.0,Yes,2,4,3,1,2,0,0,Needs Improvement
+EMP-1923,38,Sales,Account Manager,3,Computer Science,10848.06,3,3,3,17,4,5,8.0,No,4,3,5,60,0,0,0,Needs Improvement
+EMP-1924,31,Marketing,Digital Marketer,3,Marketing,6922.21,3,1,0,9,3,7,53.0,No,3,4,4,27,0,0,0,Needs Improvement
+EMP-1925,46,Sales,Sales Director,2,Medical,12969.97,10,2,2,22,4,8,36.0,No,5,3,3,12,3,0,0,Needs Improvement
+EMP-1926,24,Engineering,QA Engineer,3,Life Sciences,7069.14,1,1,0,2,4,8,53.0,Yes,2,3,3,26,1,1,1,Strong Contributor
+EMP-1927,32,Engineering,Engineering Lead,2,Technical Degree,6853.63,1,1,1,8,3,7,29.0,Yes,3,3,3,32,3,0,0,Needs Improvement
+EMP-1928,40,Operations,Operations Analyst,2,Technical Degree,10921.74,16,16,13,17,3,7,19.0,No,3,2,3,13,1,0,0,Needs Improvement
+EMP-1929,49,Engineering,DevOps Engineer,3,Computer Science,13512.19,8,2,1,26,3,6,16.0,No,3,2,3,8,0,0,0,Needs Improvement
+EMP-1930,36,Sales,Sales Director,3,Computer Science,9335.04,11,3,3,13,2,12,48.0,Yes,2,3,4,25,0,0,1,Needs Improvement
+EMP-1931,32,Sales,Account Manager,4,Technical Degree,9326.79,1,0,0,9,1,11,45.0,No,3,3,1,10,3,0,0,Needs Improvement
+EMP-1932,52,Sales,Sales Director,2,Computer Science,16089.34,28,12,5,29,2,5,25.0,No,3,3,5,1,0,0,0,Needs Improvement
+EMP-1933,25,Engineering,Engineering Lead,2,Life Sciences,6040.35,3,2,2,3,2,11,0.0,Yes,3,4,1,5,0,0,0,Needs Improvement
+EMP-1934,21,Sales,Sales Director,2,Medical,2571.6,0,0,0,0,3,7,49.0,Yes,1,3,3,7,1,0,1,Needs Improvement
+EMP-1935,40,Sales,Account Manager,2,Medical,11208.76,14,13,13,19,4,9,5.0,No,4,4,4,32,0,0,0,Needs Improvement
+EMP-1936,32,Operations,Operations Analyst,2,Marketing,7709.45,8,7,1,11,3,4,64.0,No,3,3,3,12,0,0,0,Needs Improvement
+EMP-1937,28,Engineering,DevOps Engineer,2,Life Sciences,6401.87,3,0,0,6,5,8,13.0,Yes,3,3,1,24,1,1,0,Strong Contributor
+EMP-1938,42,Sales,Sales Representative,2,Computer Science,11139.93,7,2,0,18,5,4,34.0,Yes,3,3,2,17,0,1,0,Strong Contributor
+EMP-1939,38,Sales,Sales Executive,2,Computer Science,11819.72,8,5,1,17,5,7,37.0,No,4,3,3,4,1,1,0,Strong Contributor
+EMP-1940,32,Sales,Sales Director,2,Marketing,7705.71,4,1,1,8,4,6,39.0,Yes,3,4,2,15,0,1,0,Needs Improvement
+EMP-1941,26,Research & Development,R&D Manager,3,Marketing,7796.05,4,2,0,4,3,11,38.0,No,5,2,3,2,1,0,0,Needs Improvement
+EMP-1942,43,Engineering,Software Engineer,1,Computer Science,10390.44,6,6,0,19,2,3,35.0,No,3,3,3,6,0,0,0,Needs Improvement
+EMP-1943,42,Engineering,DevOps Engineer,3,Computer Science,10564.63,16,5,2,18,3,8,27.0,No,3,2,4,19,0,0,1,Needs Improvement
+EMP-1944,36,Human Resources,HR Manager,3,Life Sciences,10869.72,2,2,1,12,3,10,30.0,No,3,2,2,11,1,1,0,Needs Improvement
+EMP-1945,51,Sales,Account Manager,2,Marketing,15050.11,4,0,0,27,4,6,24.0,Yes,3,3,3,20,0,0,1,Needs Improvement
+EMP-1946,28,Sales,Sales Representative,4,Life Sciences,7211.06,2,1,0,6,5,9,35.0,Yes,3,1,3,3,0,1,1,Strong Contributor
+EMP-1947,24,Engineering,Systems Architect,3,Business,6534.04,3,2,2,3,3,10,9.0,No,3,3,3,16,1,0,0,Needs Improvement
+EMP-1948,31,Engineering,Systems Architect,3,Computer Science,8791.73,6,5,0,8,3,4,38.0,No,2,4,2,2,0,0,0,Needs Improvement
+EMP-1949,36,Engineering,Software Engineer,2,Technical Degree,9067.27,11,0,0,12,2,6,32.0,No,3,5,3,9,0,0,0,Needs Improvement
+EMP-1950,38,Engineering,QA Engineer,3,Technical Degree,10803.87,8,1,1,17,1,7,45.0,No,4,2,3,6,1,0,0,Needs Improvement
+EMP-1951,35,Research & Development,Research Scientist,3,Business,9922.86,14,0,0,14,3,8,29.0,No,3,3,1,9,1,0,0,Needs Improvement
+EMP-1952,39,Marketing,Brand Strategist,2,Computer Science,11121.56,5,0,0,17,3,7,42.0,No,3,4,4,1,1,0,0,Needs Improvement
+EMP-1953,26,Engineering,QA Engineer,2,Marketing,6479.0,4,1,0,5,4,8,41.0,No,5,1,4,5,1,0,0,Needs Improvement
+EMP-1954,48,Sales,Sales Director,2,Technical Degree,15371.03,25,9,3,26,3,5,32.0,No,3,3,1,13,1,0,0,Needs Improvement
+EMP-1955,36,Engineering,Software Engineer,3,Marketing,9311.68,0,0,0,12,4,4,38.0,No,2,4,3,9,2,0,0,Needs Improvement
+EMP-1956,45,Sales,Sales Representative,2,Technical Degree,11512.62,15,8,1,21,3,5,,Yes,4,2,3,9,0,0,0,Needs Improvement
+EMP-1957,39,Engineering,QA Engineer,3,Marketing,13399.35,2,2,1,16,4,6,52.0,No,2,5,1,8,0,0,0,Needs Improvement
+EMP-1958,40,Operations,Operations Analyst,1,Technical Degree,10417.04,3,3,0,17,2,6,26.0,No,4,3,3,34,1,0,0,Needs Improvement
+EMP-1959,41,Research & Development,R&D Manager,3,Marketing,12590.84,9,1,1,18,4,11,31.0,Yes,2,1,5,32,1,1,1,Strong Contributor
+EMP-1960,40,Operations,Operations Analyst,2,Business,12089.66,4,2,0,19,3,6,19.0,No,1,3,3,5,1,0,0,Needs Improvement
+EMP-1961,42,Marketing,Marketing Specialist,2,Life Sciences,11407.92,9,3,3,18,2,5,23.0,No,2,3,5,5,0,0,0,Needs Improvement
+EMP-1962,47,Sales,Sales Executive,3,Marketing,14295.03,11,0,0,25,2,4,57.0,No,3,2,3,9,0,0,0,Needs Improvement
+EMP-1963,38,Sales,Sales Director,1,Life Sciences,6976.57,9,0,0,15,5,8,35.0,No,2,3,1,1,2,0,0,Strong Contributor
+EMP-1964,42,Engineering,Engineering Lead,1,Life Sciences,10443.1,12,11,1,20,1,3,29.0,No,2,3,1,4,1,0,0,Needs Improvement
+EMP-1965,36,Sales,Sales Executive,2,Computer Science,10016.21,10,4,4,14,3,6,29.0,No,4,3,4,3,1,0,0,Needs Improvement
+EMP-1966,48,Operations,Logistics Coordinator,3,Business,12052.92,21,1,0,25,3,10,34.0,No,4,1,3,3,0,0,0,Needs Improvement
+EMP-1967,31,Engineering,Systems Architect,4,Life Sciences,8324.46,7,3,1,7,3,10,44.0,No,4,4,2,12,0,0,0,Needs Improvement
+EMP-1968,51,Marketing,Marketing Specialist,3,Medical,16235.11,7,0,0,28,4,2,36.0,No,4,3,3,5,0,0,0,Needs Improvement
+EMP-1969,36,Sales,Account Manager,2,Life Sciences,10469.95,7,3,3,14,3,6,37.0,No,3,4,4,2,1,0,0,Needs Improvement
+EMP-1970,25,Marketing,Brand Strategist,1,Marketing,5098.34,2,2,0,2,3,9,21.0,No,4,4,4,26,3,0,0,Needs Improvement
+EMP-1971,38,Operations,Operations Manager,3,Life Sciences,11942.55,7,5,1,16,5,3,29.0,Yes,3,3,2,24,2,1,0,Strong Contributor
+EMP-1972,31,Research & Development,Research Scientist,3,Marketing,9865.05,1,1,1,9,4,7,,No,3,1,2,23,1,0,0,Needs Improvement
+EMP-1973,43,Research & Development,Laboratory Technician,2,Marketing,12986.51,11,3,1,20,4,7,33.0,No,4,4,5,5,2,0,0,Needs Improvement
+EMP-1974,31,Sales,Sales Director,1,Medical,7777.15,9,0,0,10,3,4,28.0,No,2,4,4,1,1,0,0,Needs Improvement
+EMP-1975,33,Marketing,Digital Marketer,2,Life Sciences,8078.84,10,6,4,10,3,7,26.0,No,4,2,3,1,0,0,0,Needs Improvement
+EMP-1976,21,Operations,Operations Manager,3,Life Sciences,5103.17,0,0,0,0,3,8,40.0,No,3,3,4,3,0,0,0,Needs Improvement
+EMP-1977,33,Human Resources,HR Specialist,2,Technical Degree,8332.05,0,0,0,11,4,5,40.0,No,2,1,2,2,1,0,1,Needs Improvement
+EMP-1978,21,Research & Development,Research Scientist,3,Technical Degree,6005.82,0,0,0,0,2,8,47.0,No,2,1,2,24,0,0,1,Needs Improvement
+EMP-1979,24,Research & Development,R&D Manager,2,Computer Science,6054.89,1,1,0,3,3,7,36.0,No,2,3,2,51,1,0,1,Needs Improvement
+EMP-1980,43,Marketing,Marketing Specialist,2,Marketing,12037.03,1,1,0,21,1,12,4.0,No,4,1,2,20,2,0,0,Needs Improvement
+EMP-1981,43,Research & Development,Research Scientist,2,Medical,13951.68,17,8,8,22,3,8,67.0,No,5,5,4,15,0,0,0,Needs Improvement
+EMP-1982,40,Marketing,Digital Marketer,2,Technical Degree,11357.31,11,2,2,19,4,11,33.0,No,3,4,3,10,0,1,0,Strong Contributor
+EMP-1983,29,Sales,Sales Representative,1,Life Sciences,5608.81,2,0,0,7,1,5,28.0,Yes,3,3,2,17,0,0,1,Needs Improvement
+EMP-1984,36,Engineering,Engineering Lead,1,Computer Science,8350.33,9,7,3,12,3,7,33.0,No,2,1,4,35,1,0,1,Needs Improvement
+EMP-1985,36,Sales,Account Manager,2,Medical,9358.28,6,2,0,15,5,5,28.0,Yes,4,3,4,11,0,1,0,Strong Contributor
+EMP-1986,27,Sales,Sales Executive,1,Business,6162.59,1,1,1,4,3,3,22.0,No,2,3,2,2,1,0,0,Needs Improvement
+EMP-1987,49,Engineering,Systems Architect,2,Life Sciences,13519.11,16,10,7,26,3,11,42.0,Yes,5,3,3,2,0,0,0,Needs Improvement
+EMP-1988,44,Engineering,QA Engineer,4,Life Sciences,13856.17,5,2,1,22,5,7,31.0,No,3,2,4,10,1,1,0,Strong Contributor
+EMP-1989,35,Research & Development,Laboratory Technician,3,Business,10025.74,8,8,4,11,5,8,32.0,No,4,3,3,4,0,1,0,Strong Contributor
+EMP-1990,37,Engineering,QA Engineer,3,Marketing,10059.02,14,1,1,15,3,8,0.0,No,3,3,4,28,3,0,0,Needs Improvement
+EMP-1991,38,Sales,Sales Executive,2,Marketing,10090.03,2,0,0,14,2,8,30.0,No,3,5,2,11,1,0,0,Needs Improvement
+EMP-1992,21,Human Resources,HR Specialist,2,Technical Degree,3523.93,0,0,0,0,2,1,18.0,No,3,5,3,13,1,0,0,Needs Improvement
+EMP-1993,35,Operations,Operations Manager,1,Technical Degree,9339.94,5,2,1,14,4,2,26.0,No,4,3,4,1,1,0,0,Needs Improvement
+EMP-1994,31,Research & Development,R&D Manager,3,Life Sciences,9310.52,2,2,0,10,4,4,37.0,No,4,3,4,8,1,1,0,Needs Improvement
+EMP-1995,28,Operations,Operations Manager,2,Life Sciences,7022.06,5,2,0,7,3,4,25.0,No,3,2,2,6,0,0,0,Needs Improvement
+EMP-1996,34,Research & Development,Research Scientist,2,Technical Degree,8610.17,0,0,0,11,3,5,27.0,Yes,3,2,1,14,1,0,1,Needs Improvement
+EMP-1997,51,Engineering,DevOps Engineer,3,Business,16039.59,12,10,9,28,2,11,35.0,No,5,4,4,5,1,0,0,Needs Improvement
+EMP-1998,42,Research & Development,Research Scientist,2,Technical Degree,11747.54,20,3,3,20,3,9,26.0,Yes,5,3,3,45,1,0,0,Needs Improvement
+EMP-1999,32,Research & Development,Laboratory Technician,2,Life Sciences,8240.6,3,0,0,8,3,2,19.0,No,3,2,3,13,0,0,0,Needs Improvement
+EMP-2000,41,Sales,Sales Representative,2,Medical,13234.03,6,0,0,20,4,7,9.0,No,1,3,3,12,0,0,0,Needs Improvement
+EMP-2001,48,Engineering,Software Engineer,3,Life Sciences,14426.79,21,6,4,27,3,9,38.0,No,2,5,3,30,0,0,0,Needs Improvement
+EMP-2002,44,Research & Development,Laboratory Technician,3,Medical,14190.35,9,9,5,20,3,5,26.0,No,4,3,3,60,0,0,0,Needs Improvement
+EMP-2003,37,Engineering,Software Engineer,2,Medical,9066.86,6,6,1,13,3,9,10.0,No,1,2,3,2,2,0,0,Needs Improvement
+EMP-2004,31,Research & Development,Research Scientist,2,Life Sciences,9614.91,4,0,0,9,3,10,51.0,No,2,5,1,19,0,0,0,Needs Improvement
+EMP-2005,42,Engineering,QA Engineer,3,Computer Science,11579.07,14,3,0,18,3,2,38.0,No,2,3,5,2,0,0,0,Needs Improvement
+EMP-2006,40,Research & Development,Laboratory Technician,2,Technical Degree,12256.64,14,13,5,19,2,8,17.0,No,3,3,5,7,1,0,0,Needs Improvement
+EMP-2007,44,Sales,Sales Director,3,Marketing,14371.81,3,1,0,23,3,9,24.0,No,3,2,5,1,2,0,0,Needs Improvement
+EMP-2008,42,Engineering,Software Engineer,3,Life Sciences,12631.42,5,5,3,21,1,6,48.0,No,3,4,4,11,1,0,0,Needs Improvement
+EMP-2009,45,Sales,Sales Executive,1,Medical,12985.36,23,10,1,24,2,6,31.0,Yes,2,4,3,7,0,0,0,Needs Improvement
+EMP-2010,32,Research & Development,Laboratory Technician,1,Life Sciences,9275.91,3,1,1,11,4,7,28.0,No,4,3,2,11,0,0,0,Needs Improvement
+EMP-2011,47,Marketing,Marketing Specialist,3,Technical Degree,14210.04,25,11,6,25,3,4,44.0,No,5,1,1,13,1,0,0,Needs Improvement
+EMP-2012,38,Marketing,Digital Marketer,2,Business,10484.21,4,3,3,17,3,14,31.0,No,1,3,2,11,0,0,1,Needs Improvement
+EMP-2013,53,Sales,Sales Representative,1,Medical,14541.88,19,3,3,31,4,14,51.0,No,2,2,3,4,0,1,0,Strong Contributor
+EMP-2014,31,Human Resources,Recruiter,3,Marketing,10210.8,0,0,0,10,3,5,28.0,No,3,2,3,21,0,0,0,Needs Improvement
+EMP-2015,50,Sales,Sales Representative,2,Marketing,14227.3,27,17,6,27,5,11,26.0,Yes,4,3,5,9,2,1,0,Strong Contributor
+EMP-2016,38,Sales,Sales Executive,2,Marketing,11179.98,7,1,0,15,1,7,34.0,Yes,4,1,3,8,0,0,1,Needs Improvement
+EMP-2017,31,Engineering,Software Engineer,2,Business,6898.78,0,0,0,8,4,11,47.0,No,4,5,3,52,1,1,0,Strong Contributor
+EMP-2018,33,Research & Development,Research Scientist,3,Computer Science,9851.73,4,4,0,10,5,10,37.0,No,4,1,3,4,3,1,0,Strong Contributor
+EMP-2019,34,Sales,Sales Executive,2,Medical,9685.98,5,4,1,12,4,6,35.0,No,2,3,2,9,1,0,0,Needs Improvement
+EMP-2020,40,Engineering,Software Engineer,4,Business,12234.41,5,0,0,18,2,12,22.0,No,2,2,5,13,0,0,0,Needs Improvement
+EMP-2021,41,Research & Development,Laboratory Technician,3,Medical,10799.15,2,2,1,17,3,4,20.0,No,3,3,3,1,0,0,0,Needs Improvement
+EMP-2022,32,Research & Development,Research Scientist,2,Business,7992.27,4,1,1,11,2,9,47.0,No,4,1,2,5,3,0,0,Needs Improvement
+EMP-2023,36,Sales,Sales Executive,2,Business,8740.78,11,9,5,13,3,9,48.0,No,3,3,5,19,0,0,0,Needs Improvement
+EMP-2024,54,Engineering,DevOps Engineer,2,Computer Science,17518.66,5,1,0,32,4,3,48.0,No,5,4,3,3,1,0,0,Needs Improvement
+EMP-2025,50,Sales,Account Manager,3,Medical,16164.21,24,12,11,29,3,10,45.0,Yes,4,5,3,8,2,0,0,Needs Improvement
+EMP-2026,40,Sales,Sales Director,3,Business,11216.39,13,5,5,19,3,11,40.0,No,4,3,3,11,0,0,0,Needs Improvement
+EMP-2027,37,Research & Development,Laboratory Technician,3,Computer Science,10473.08,10,5,3,15,3,5,40.0,Yes,1,1,4,13,1,0,1,Needs Improvement
+EMP-2028,37,Sales,Sales Executive,1,Life Sciences,9002.08,7,3,1,14,3,4,35.0,Yes,2,1,2,15,3,0,1,Needs Improvement
+EMP-2029,41,Research & Development,R&D Manager,3,Technical Degree,9534.91,7,7,6,17,4,13,41.0,No,4,3,4,24,1,1,0,Strong Contributor
+EMP-2030,28,Marketing,Marketing Specialist,1,Business,6283.14,6,5,5,7,4,9,33.0,No,2,2,5,5,1,0,1,Needs Improvement
+EMP-2031,34,Engineering,QA Engineer,3,Marketing,9450.87,6,2,1,10,2,5,41.0,Yes,1,3,3,14,2,0,1,Needs Improvement
+EMP-2032,23,Operations,Operations Manager,3,Computer Science,4876.13,0,0,0,0,3,9,46.0,No,4,5,3,15,1,0,0,Needs Improvement
+EMP-2033,40,Sales,Account Manager,2,Computer Science,11088.97,7,4,0,17,3,12,16.0,No,4,4,4,4,1,1,0,Needs Improvement
+EMP-2034,42,Engineering,DevOps Engineer,2,Business,11676.06,12,1,0,18,3,6,49.0,No,2,4,3,41,1,0,0,Needs Improvement
+EMP-2035,33,Sales,Account Manager,3,Computer Science,8491.66,5,5,1,10,5,5,33.0,No,4,4,5,24,0,0,0,Strong Contributor
+EMP-2036,49,Engineering,Software Engineer,3,Life Sciences,16297.68,17,4,2,28,4,7,54.0,No,1,3,3,4,0,1,0,Needs Improvement
+EMP-2037,27,Engineering,DevOps Engineer,2,Computer Science,6851.74,1,1,1,3,3,9,51.0,Yes,3,3,3,13,0,0,1,Needs Improvement
+EMP-2038,25,Sales,Sales Representative,2,Technical Degree,3788.53,2,0,0,2,3,5,19.0,Yes,3,3,3,15,0,0,1,Needs Improvement
+EMP-2039,38,Human Resources,HR Manager,3,Technical Degree,10009.64,0,0,0,14,3,4,34.0,No,4,5,3,6,0,0,0,Needs Improvement
+EMP-2040,45,Operations,Operations Analyst,1,Marketing,15016.66,21,9,7,24,3,7,7.0,No,1,2,2,23,1,0,1,Needs Improvement
+EMP-2041,50,Research & Development,Research Scientist,1,Life Sciences,14213.51,5,0,0,27,2,7,28.0,No,3,3,4,14,0,0,0,Needs Improvement
+EMP-2042,33,Engineering,Software Engineer,2,Technical Degree,8928.63,10,9,7,12,3,8,38.0,No,2,2,3,12,2,0,0,Needs Improvement
+EMP-2043,45,Research & Development,Laboratory Technician,2,Business,12527.76,19,4,4,22,1,6,45.0,No,5,2,4,2,2,0,0,Needs Improvement
+EMP-2044,36,Research & Development,Research Scientist,3,Medical,11466.99,11,11,7,14,3,10,34.0,No,3,3,2,6,1,0,0,Needs Improvement
+EMP-2045,35,Marketing,Marketing Specialist,4,Medical,9314.91,10,5,5,12,3,5,40.0,No,3,3,3,6,1,0,0,Needs Improvement
+EMP-2046,44,Marketing,Digital Marketer,3,Medical,13433.56,9,6,4,20,5,5,,Yes,1,3,4,15,0,0,1,Strong Contributor
+EMP-2047,42,Marketing,Marketing Specialist,1,Business,10770.92,2,0,0,19,4,5,33.0,No,3,3,5,11,1,0,0,Needs Improvement
+EMP-2048,24,Sales,Sales Director,3,Computer Science,5465.14,0,0,0,3,3,12,25.0,No,3,3,4,1,1,0,0,Needs Improvement
+EMP-2049,48,Research & Development,R&D Manager,2,Business,14452.01,26,21,6,27,2,13,37.0,No,4,2,4,4,2,0,0,Needs Improvement
+EMP-2050,48,Engineering,Engineering Lead,2,Computer Science,13858.26,2,0,0,25,3,5,53.0,No,3,3,2,7,0,0,0,Needs Improvement
+EMP-2051,31,Operations,Operations Analyst,4,Medical,7812.03,6,3,3,7,3,10,33.0,No,5,4,4,16,1,0,0,Needs Improvement
+EMP-2052,40,Engineering,DevOps Engineer,2,Marketing,12241.5,14,6,0,18,3,9,14.0,No,3,3,2,16,1,0,0,Needs Improvement
+EMP-2053,40,Engineering,Systems Architect,4,Marketing,11012.12,15,12,10,16,4,9,36.0,Yes,3,3,2,8,1,0,0,Needs Improvement
+EMP-2054,39,Engineering,Engineering Lead,2,Computer Science,10986.07,12,0,0,17,3,4,43.0,No,3,3,2,1,0,0,0,Needs Improvement
+EMP-2055,32,Human Resources,HR Manager,3,Medical,9663.69,0,0,0,11,3,12,21.0,No,3,4,4,4,1,0,0,Needs Improvement
+EMP-2056,31,Sales,Sales Executive,1,Business,6576.75,2,2,1,7,3,8,51.0,Yes,5,3,2,3,1,0,0,Needs Improvement
+EMP-2057,36,Sales,Sales Executive,2,Marketing,10415.01,3,1,1,14,5,7,25.0,Yes,4,2,2,18,1,1,0,Strong Contributor
+EMP-2058,46,Operations,Operations Analyst,2,Computer Science,12749.79,10,4,3,23,5,7,23.0,No,3,4,2,2,1,1,0,Strong Contributor
+EMP-2059,41,Operations,Operations Analyst,3,Business,13160.36,20,14,8,20,3,10,9.0,No,2,4,3,7,0,0,0,Needs Improvement
+EMP-2060,34,Sales,Sales Director,3,Medical,9767.01,2,1,1,11,3,7,,No,2,4,4,13,0,0,0,Needs Improvement
+EMP-2061,43,Engineering,DevOps Engineer,3,Life Sciences,14231.31,21,19,11,22,3,3,59.0,No,3,3,3,40,0,0,0,Needs Improvement
+EMP-2062,21,Marketing,Brand Strategist,3,Medical,,0,0,0,0,2,6,39.0,No,4,4,3,60,0,0,0,Needs Improvement
+EMP-2063,46,Operations,Operations Analyst,3,Medical,13818.14,10,6,1,22,3,4,23.0,No,4,3,2,36,0,0,0,Needs Improvement
+EMP-2064,23,Research & Development,Research Scientist,2,Business,5971.14,1,0,0,2,3,6,41.0,No,2,3,2,15,0,0,0,Needs Improvement
+EMP-2065,34,Research & Development,Research Scientist,2,Business,8969.69,11,11,10,13,2,7,45.0,No,2,4,2,16,0,0,0,Needs Improvement
+EMP-2066,28,Engineering,Engineering Lead,3,Technical Degree,,7,5,1,7,2,4,50.0,No,3,4,3,17,1,0,0,Needs Improvement
+EMP-2067,26,Marketing,Brand Strategist,3,Technical Degree,5128.76,0,0,0,2,3,6,16.0,No,4,3,3,23,2,0,0,Needs Improvement
+EMP-2068,46,Research & Development,Laboratory Technician,3,Business,13191.19,2,1,1,24,4,8,55.0,Yes,3,4,3,36,0,0,0,Strong Contributor
+EMP-2069,33,Sales,Account Manager,2,Business,8799.18,5,2,0,10,3,8,36.0,No,3,2,4,7,0,0,0,Needs Improvement
+EMP-2070,39,Engineering,Systems Architect,1,Life Sciences,11933.71,5,2,1,16,3,14,58.0,No,3,2,5,6,2,1,0,Needs Improvement
+EMP-2071,36,Operations,Operations Analyst,4,Life Sciences,9659.58,7,1,1,12,3,12,36.0,No,2,3,2,7,1,0,0,Needs Improvement
+EMP-2072,40,Research & Development,R&D Manager,3,Medical,11040.11,17,11,9,17,3,6,42.0,Yes,3,3,1,12,0,0,0,Needs Improvement
+EMP-2073,37,Engineering,Systems Architect,2,Marketing,10493.86,16,5,1,16,3,15,20.0,Yes,4,2,4,17,1,1,1,Needs Improvement
+EMP-2074,26,Research & Development,Research Scientist,3,Life Sciences,5078.22,3,0,0,4,3,8,47.0,Yes,5,3,2,24,0,0,0,Needs Improvement
+EMP-2075,44,Research & Development,Research Scientist,4,Medical,12954.01,14,9,8,21,2,10,18.0,No,3,1,3,7,1,0,0,Needs Improvement
+EMP-2076,33,Research & Development,Research Scientist,2,Computer Science,8528.73,10,0,0,11,3,8,37.0,No,2,3,3,5,3,0,0,Needs Improvement
+EMP-2077,24,Research & Development,Research Scientist,3,Technical Degree,5335.46,1,1,0,3,3,8,27.0,No,3,4,4,49,0,0,0,Needs Improvement
+EMP-2078,33,Research & Development,R&D Manager,4,Marketing,10477.7,2,2,2,10,3,11,32.0,No,4,3,3,3,3,1,0,Needs Improvement
+EMP-2079,49,Operations,Operations Manager,4,Medical,13935.56,2,2,1,25,5,7,49.0,Yes,1,3,1,3,0,1,1,Strong Contributor
+EMP-2080,43,Engineering,Systems Architect,4,Business,14390.9,15,9,8,21,2,7,29.0,Yes,4,5,1,15,1,0,0,Needs Improvement
+EMP-2081,34,Engineering,Systems Architect,3,Computer Science,11261.65,4,2,1,13,3,6,49.0,Yes,4,3,2,2,1,0,0,Needs Improvement
+EMP-2082,34,Engineering,DevOps Engineer,2,Technical Degree,9303.55,4,3,2,12,3,7,28.0,No,3,4,3,6,2,0,0,Needs Improvement
+EMP-2083,34,Research & Development,Laboratory Technician,1,Computer Science,7856.29,9,1,0,11,4,10,35.0,No,3,3,3,4,0,0,0,Needs Improvement
+EMP-2084,53,Research & Development,Research Scientist,1,Medical,15421.65,18,3,2,30,3,9,64.0,No,4,5,4,2,1,1,0,Needs Improvement
+EMP-2085,40,Marketing,Brand Strategist,2,Life Sciences,10083.49,3,0,0,16,4,9,35.0,No,3,4,3,10,2,1,0,Needs Improvement
+EMP-2086,40,Human Resources,HR Specialist,2,Technical Degree,9787.54,18,1,1,19,4,8,32.0,Yes,1,3,3,5,1,0,1,Needs Improvement
+EMP-2087,45,Sales,Sales Representative,2,Computer Science,12638.67,10,7,6,24,3,4,35.0,Yes,2,3,3,7,0,0,1,Needs Improvement
+EMP-2088,38,Operations,Operations Manager,2,Life Sciences,9709.94,1,1,1,14,3,9,29.0,No,2,3,1,2,0,0,0,Needs Improvement
+EMP-2089,34,Engineering,Systems Architect,2,Marketing,7353.38,9,1,0,10,3,5,19.0,No,4,3,5,17,1,0,0,Needs Improvement
+EMP-2090,35,Marketing,Marketing Specialist,3,Medical,9948.19,12,11,4,14,4,5,62.0,Yes,3,3,2,4,2,0,0,Needs Improvement
+EMP-2091,36,Sales,Account Manager,2,Medical,10151.26,10,5,1,14,1,5,28.0,Yes,3,3,3,5,1,0,0,Needs Improvement
+EMP-2092,36,Research & Development,R&D Manager,3,Technical Degree,10450.52,8,8,1,14,3,7,12.0,No,4,3,2,3,1,0,0,Needs Improvement
+EMP-2093,42,Human Resources,Recruiter,3,Computer Science,12792.63,15,6,6,18,3,9,,No,3,3,3,6,0,0,0,Needs Improvement
+EMP-2094,37,Research & Development,Laboratory Technician,1,Marketing,9764.75,2,0,0,15,3,9,38.0,No,4,4,5,7,1,0,0,Needs Improvement
+EMP-2095,42,Engineering,Engineering Lead,4,Business,13897.67,10,4,0,21,3,12,31.0,No,3,4,2,9,0,0,0,Needs Improvement
+EMP-2096,36,Sales,Sales Representative,3,Technical Degree,9298.94,13,6,4,13,3,10,33.0,Yes,3,2,3,41,1,0,1,Needs Improvement
+EMP-2097,37,Research & Development,Laboratory Technician,2,Business,8522.0,1,0,0,14,2,6,31.0,No,3,2,1,28,3,0,0,Needs Improvement
+EMP-2098,21,Marketing,Marketing Specialist,2,Technical Degree,4028.37,0,0,0,0,3,3,39.0,Yes,5,1,4,11,2,0,1,Needs Improvement
+EMP-2099,44,Sales,Account Manager,2,Computer Science,11345.53,4,3,1,20,3,8,45.0,Yes,4,1,3,1,0,0,0,Needs Improvement
+EMP-2100,39,Operations,Operations Analyst,1,Marketing,9349.91,14,11,3,15,4,5,31.0,No,1,2,3,11,1,0,0,Needs Improvement
+EMP-2101,44,Sales,Sales Executive,2,Computer Science,11040.57,4,2,2,20,3,4,70.0,Yes,5,4,3,1,0,0,0,Needs Improvement
+EMP-2102,21,Research & Development,Laboratory Technician,3,Medical,5758.24,0,0,0,0,4,9,48.0,No,4,4,4,14,0,1,0,Strong Contributor
+EMP-2103,53,Human Resources,HR Manager,3,Business,15362.21,18,16,13,29,3,9,,No,2,3,3,5,0,0,0,Needs Improvement
+EMP-2104,35,Research & Development,R&D Manager,3,Life Sciences,9612.61,4,0,0,13,1,8,15.0,No,1,3,3,21,0,0,1,Needs Improvement
+EMP-2105,45,Operations,Operations Analyst,1,Medical,12141.83,11,9,7,22,4,12,35.0,No,3,3,3,34,1,1,0,Strong Contributor
+EMP-2106,28,Research & Development,R&D Manager,2,Medical,7310.86,1,0,0,5,1,4,45.0,No,3,5,3,6,1,0,0,Needs Improvement
+EMP-2107,41,Research & Development,Research Scientist,2,Business,13202.82,3,1,1,19,5,11,45.0,Yes,3,4,2,7,3,1,0,Strong Contributor
+EMP-2108,28,Engineering,QA Engineer,2,Technical Degree,7564.7,0,0,0,4,4,5,8.0,No,2,1,3,10,0,0,1,Needs Improvement
+EMP-2109,32,Sales,Sales Executive,1,Medical,6446.38,9,4,4,10,3,8,35.0,No,3,2,2,2,0,0,1,Needs Improvement
+EMP-2110,52,Engineering,Engineering Lead,3,Marketing,15684.17,19,4,3,29,3,7,27.0,Yes,2,1,3,31,0,0,1,Needs Improvement
+EMP-2111,35,Human Resources,HR Manager,1,Medical,8612.95,5,1,0,14,3,11,54.0,No,1,3,3,6,0,0,1,Needs Improvement
+EMP-2112,38,Engineering,DevOps Engineer,3,Marketing,11413.28,13,4,1,16,3,4,,No,3,3,2,2,3,0,0,Needs Improvement
+EMP-2113,43,Engineering,Systems Architect,2,Computer Science,11898.35,10,10,6,19,3,10,2.0,Yes,3,3,3,17,0,0,0,Needs Improvement
+EMP-2114,40,Engineering,Engineering Lead,4,Technical Degree,11535.3,10,9,3,17,3,5,39.0,No,3,4,4,2,3,0,0,Needs Improvement
+EMP-2115,38,Engineering,Software Engineer,3,Marketing,10104.26,12,10,0,15,3,6,6.0,No,5,3,3,1,0,0,0,Needs Improvement
+EMP-2116,39,Sales,Sales Executive,3,Medical,10182.31,10,6,2,16,2,7,40.0,Yes,2,5,2,9,0,0,0,Needs Improvement
+EMP-2117,56,Marketing,Marketing Specialist,1,Technical Degree,13951.25,20,14,1,33,4,12,70.0,Yes,1,1,4,13,0,1,1,Strong Contributor
+EMP-2118,36,Human Resources,HR Specialist,3,Technical Degree,8391.65,11,6,1,12,4,10,53.0,No,1,2,3,10,2,1,1,Strong Contributor
+EMP-2119,38,Human Resources,Recruiter,3,Marketing,12240.1,4,4,1,17,3,4,37.0,No,3,3,2,12,0,0,0,Needs Improvement
+EMP-2120,45,Human Resources,HR Manager,3,Marketing,14678.23,22,14,3,22,4,10,24.0,Yes,4,1,3,1,3,0,0,Needs Improvement
+EMP-2121,45,Engineering,DevOps Engineer,3,Life Sciences,14953.07,8,2,0,23,3,12,51.0,No,3,4,3,7,1,1,0,Needs Improvement
+EMP-2122,46,Marketing,Brand Strategist,3,Life Sciences,15318.31,24,18,14,25,1,7,42.0,No,3,1,3,5,0,0,0,Needs Improvement
+EMP-2123,42,Engineering,Software Engineer,1,Technical Degree,10109.25,8,2,0,19,3,7,30.0,No,3,3,3,43,1,0,0,Needs Improvement
+EMP-2124,27,Sales,Account Manager,3,Business,6216.9,5,5,0,6,3,8,26.0,No,3,1,3,1,0,0,0,Needs Improvement
+EMP-2125,50,Research & Development,Research Scientist,3,Business,14010.08,9,5,3,28,3,8,21.0,No,3,2,4,4,0,0,0,Needs Improvement
+EMP-2126,27,Engineering,Software Engineer,2,Life Sciences,5395.12,2,0,0,4,4,6,39.0,No,3,4,3,34,2,0,0,Needs Improvement
+EMP-2127,39,Human Resources,HR Specialist,1,Medical,10338.4,0,0,0,17,5,4,28.0,No,2,5,3,49,1,0,0,Strong Contributor
+EMP-2128,30,Sales,Account Manager,2,Computer Science,5772.99,6,4,1,6,3,9,36.0,No,4,3,5,20,1,0,0,Needs Improvement
+EMP-2129,36,Human Resources,Recruiter,3,Technical Degree,10327.98,3,2,2,13,4,7,46.0,Yes,3,5,3,1,0,1,0,Needs Improvement
+EMP-2130,39,Sales,Sales Director,1,Computer Science,10466.67,0,0,0,16,2,5,27.0,No,2,3,4,9,0,0,0,Needs Improvement
+EMP-2131,39,Engineering,QA Engineer,2,Life Sciences,10052.96,14,2,1,16,2,6,43.0,No,3,3,2,6,0,0,0,Needs Improvement
+EMP-2132,40,Human Resources,HR Manager,2,Marketing,9653.98,7,7,4,17,4,6,51.0,No,5,4,3,19,1,0,0,Needs Improvement
+EMP-2133,49,Engineering,QA Engineer,3,Technical Degree,15742.83,11,7,5,25,3,10,39.0,No,1,2,5,1,2,0,0,Needs Improvement
+EMP-2134,40,Sales,Account Manager,1,Life Sciences,10291.63,17,14,2,17,3,5,43.0,No,2,2,1,2,1,0,0,Needs Improvement
+EMP-2135,35,Engineering,Systems Architect,3,Medical,12067.09,14,3,1,14,3,4,39.0,Yes,3,3,2,8,2,0,0,Needs Improvement
+EMP-2136,44,Research & Development,Research Scientist,2,Technical Degree,12463.14,16,2,2,21,3,4,34.0,No,3,3,3,2,0,0,0,Needs Improvement
+EMP-2137,46,Research & Development,R&D Manager,3,Technical Degree,13505.99,13,12,10,22,2,7,45.0,No,2,2,3,14,0,0,0,Needs Improvement
+EMP-2138,27,Sales,Sales Executive,4,Business,6251.95,1,1,1,4,3,11,56.0,No,5,1,3,20,0,1,0,Needs Improvement
+EMP-2139,41,Operations,Operations Analyst,1,Marketing,11018.81,19,15,15,20,2,5,45.0,No,3,4,2,14,2,0,0,Needs Improvement
+EMP-2140,42,Marketing,Marketing Specialist,2,Technical Degree,9837.08,17,12,0,18,2,5,31.0,No,4,3,1,6,2,0,0,Needs Improvement
+EMP-2141,34,Research & Development,Research Scientist,3,Marketing,7590.74,0,0,0,10,3,6,31.0,No,3,3,3,25,0,0,0,Needs Improvement
+EMP-2142,48,Research & Development,R&D Manager,2,Life Sciences,15327.05,22,2,1,27,3,12,32.0,Yes,4,4,3,1,0,0,0,Needs Improvement
+EMP-2143,35,Engineering,Engineering Lead,2,Medical,9465.67,10,8,4,14,4,5,47.0,Yes,3,3,3,3,1,0,0,Needs Improvement
+EMP-2144,38,Research & Development,Laboratory Technician,3,Medical,11079.61,10,4,0,17,2,5,26.0,No,2,3,3,8,2,0,0,Needs Improvement
+EMP-2145,35,Engineering,Systems Architect,4,Technical Degree,10253.62,14,8,7,14,2,8,19.0,Yes,4,4,3,1,2,0,0,Needs Improvement
+EMP-2146,37,Engineering,QA Engineer,3,Technical Degree,10733.03,11,6,1,16,3,8,40.0,No,1,4,2,1,0,0,0,Needs Improvement
+EMP-2147,28,Operations,Operations Analyst,2,Life Sciences,6939.76,3,2,0,4,3,8,34.0,Yes,5,3,4,6,1,1,0,Needs Improvement
+EMP-2148,25,Research & Development,R&D Manager,2,Business,4909.8,1,0,0,1,1,7,54.0,Yes,3,3,2,34,2,0,1,Needs Improvement
+EMP-2149,49,Sales,Sales Executive,2,Business,13217.99,5,5,4,26,1,8,2.0,Yes,5,3,2,28,0,0,0,Needs Improvement
+EMP-2150,30,Engineering,Engineering Lead,3,Business,8587.35,2,1,1,7,5,12,36.0,No,3,3,4,7,1,1,0,Strong Contributor
+EMP-2151,29,Research & Development,R&D Manager,3,Marketing,9212.53,3,0,0,7,3,12,28.0,No,4,2,2,1,0,1,0,Needs Improvement
+EMP-2152,21,Engineering,Software Engineer,3,Business,5445.23,0,0,0,0,3,9,45.0,No,1,3,3,2,0,0,0,Needs Improvement
+EMP-2153,31,Engineering,DevOps Engineer,1,Medical,7642.16,7,5,5,8,3,6,30.0,Yes,3,2,3,5,3,0,1,Needs Improvement
+EMP-2154,26,Engineering,Systems Architect,3,Marketing,7998.7,1,1,1,5,3,3,25.0,No,4,1,3,2,2,0,0,Needs Improvement
+EMP-2155,50,Sales,Sales Representative,2,Life Sciences,13929.06,29,16,12,29,3,6,47.0,Yes,4,3,3,1,1,0,0,Needs Improvement
+EMP-2156,45,Research & Development,Laboratory Technician,2,Medical,14437.84,12,4,2,22,3,8,51.0,No,2,4,5,13,0,0,0,Needs Improvement
+EMP-2157,31,Engineering,Software Engineer,3,Medical,,1,1,0,9,4,8,32.0,No,3,1,3,10,1,0,0,Needs Improvement
+EMP-2158,55,Human Resources,Recruiter,2,Computer Science,17759.97,1,0,0,34,2,4,32.0,No,3,2,3,4,0,0,0,Needs Improvement
+EMP-2159,44,Engineering,DevOps Engineer,3,Life Sciences,12867.09,3,1,0,21,4,5,51.0,Yes,2,3,4,18,0,0,1,Needs Improvement
+EMP-2160,34,Research & Development,R&D Manager,3,Life Sciences,7976.48,5,2,1,11,2,4,50.0,No,3,3,3,17,0,0,0,Needs Improvement
+EMP-2161,21,Operations,Operations Analyst,4,Computer Science,5301.74,0,0,0,0,3,8,48.0,Yes,4,2,3,8,1,0,1,Needs Improvement
+EMP-2162,55,Research & Development,R&D Manager,3,Marketing,17943.56,25,15,7,33,1,12,28.0,No,3,1,3,1,0,0,0,Needs Improvement
+EMP-2163,25,Marketing,Digital Marketer,3,Business,4386.08,0,0,0,1,2,5,24.0,No,3,3,3,30,1,0,0,Needs Improvement
+EMP-2164,23,Operations,Operations Analyst,3,Business,5317.23,1,1,0,1,4,5,56.0,No,5,4,4,13,0,1,0,Needs Improvement
+EMP-2165,45,Sales,Sales Director,2,Business,12454.81,11,7,1,24,3,7,42.0,No,1,1,1,3,2,0,0,Needs Improvement
+EMP-2166,56,Research & Development,R&D Manager,2,Business,16973.84,21,16,11,34,2,4,23.0,No,3,3,4,11,2,0,0,Needs Improvement
+EMP-2167,48,Marketing,Marketing Specialist,3,Business,13282.64,19,17,1,25,5,9,32.0,No,4,3,3,6,1,1,0,Strong Contributor
+EMP-2168,41,Sales,Account Manager,3,Computer Science,10528.0,7,3,2,18,4,10,35.0,No,4,2,4,12,1,1,0,Needs Improvement
+EMP-2169,41,Engineering,Software Engineer,3,Life Sciences,12526.08,7,0,0,19,4,4,32.0,No,4,2,1,7,0,0,0,Needs Improvement
+EMP-2170,43,Operations,Operations Analyst,2,Marketing,11858.22,16,16,11,21,5,7,29.0,No,4,3,4,7,1,1,0,Strong Contributor
+EMP-2171,43,Human Resources,HR Specialist,2,Medical,11942.79,19,13,11,21,3,6,51.0,Yes,1,5,2,15,3,0,0,Needs Improvement
+EMP-2172,39,Engineering,QA Engineer,2,Business,9529.9,3,3,1,15,4,6,41.0,No,3,2,4,11,0,0,0,Needs Improvement
+EMP-2173,37,Sales,Sales Executive,3,Computer Science,,6,5,4,15,3,12,65.0,Yes,4,3,3,1,1,1,0,Needs Improvement
+EMP-2174,36,Human Resources,HR Specialist,3,Marketing,11246.63,15,8,4,15,4,7,51.0,Yes,1,3,3,1,0,1,1,Needs Improvement
+EMP-2175,30,Research & Development,Research Scientist,3,Marketing,7923.27,5,3,1,6,4,7,35.0,No,1,4,3,4,0,0,0,Needs Improvement
+EMP-2176,34,Research & Development,Laboratory Technician,2,Marketing,7502.13,10,8,1,10,3,3,53.0,No,4,1,2,6,1,0,0,Needs Improvement
+EMP-2177,23,Human Resources,HR Specialist,2,Computer Science,5234.28,0,0,0,1,4,8,38.0,No,4,3,3,3,3,0,0,Needs Improvement
+EMP-2178,36,Research & Development,R&D Manager,3,Medical,10495.05,15,6,6,15,3,1,67.0,No,3,4,2,12,0,0,0,Needs Improvement
+EMP-2179,29,Research & Development,Research Scientist,3,Business,6194.9,4,2,0,5,3,5,29.0,No,5,5,3,2,1,0,0,Needs Improvement
+EMP-2180,28,Human Resources,HR Specialist,2,Marketing,8036.18,2,1,0,5,2,6,40.0,No,4,3,4,14,3,0,0,Needs Improvement
+EMP-2181,38,Human Resources,Recruiter,3,Computer Science,10835.51,14,14,9,14,5,7,25.0,No,5,3,2,17,1,0,0,Strong Contributor
+EMP-2182,48,Research & Development,Research Scientist,2,Life Sciences,14750.1,23,4,1,26,3,9,28.0,Yes,5,3,3,1,2,0,0,Needs Improvement
+EMP-2183,44,Sales,Sales Representative,3,Computer Science,12865.44,15,10,7,23,3,10,29.0,Yes,3,3,3,12,0,0,1,Needs Improvement
+EMP-2184,24,Sales,Sales Executive,3,Computer Science,4616.81,2,0,0,2,3,10,51.0,No,4,3,3,39,3,1,0,Needs Improvement
+EMP-2185,29,Operations,Operations Manager,3,Computer Science,7228.2,4,1,1,6,5,6,36.0,Yes,3,3,5,2,0,1,1,Strong Contributor
+EMP-2186,44,Engineering,Systems Architect,3,Marketing,12463.84,8,1,1,21,3,7,0.0,No,4,4,3,28,3,0,0,Needs Improvement
+EMP-2187,29,Engineering,Software Engineer,2,Computer Science,7231.38,2,2,2,6,4,11,35.0,No,4,3,2,11,0,1,0,Strong Contributor
+EMP-2188,35,Sales,Account Manager,3,Life Sciences,,2,2,1,13,4,3,20.0,No,2,3,2,10,1,0,0,Needs Improvement
+EMP-2189,41,Marketing,Marketing Specialist,3,Marketing,11518.95,4,0,0,17,3,9,27.0,No,2,4,3,1,0,0,0,Needs Improvement
+EMP-2190,29,Engineering,QA Engineer,3,Life Sciences,8404.94,1,1,1,7,3,4,50.0,No,2,4,3,16,1,0,0,Needs Improvement
+EMP-2191,37,Engineering,Engineering Lead,3,Technical Degree,11253.97,16,14,8,16,4,9,15.0,No,4,3,2,7,0,0,0,Needs Improvement
+EMP-2192,26,Engineering,QA Engineer,1,Computer Science,3775.48,2,0,0,2,4,7,16.0,Yes,4,3,1,15,3,0,0,Needs Improvement
+EMP-2193,32,Research & Development,Laboratory Technician,4,Business,8841.55,6,3,3,9,4,13,10.0,Yes,3,3,3,19,0,0,1,Needs Improvement
+EMP-2194,39,Engineering,Software Engineer,3,Business,11582.16,7,3,2,17,3,9,28.0,No,3,2,3,8,1,0,0,Needs Improvement
+EMP-2195,24,Sales,Account Manager,2,Marketing,5616.03,0,0,0,1,4,4,10.0,No,4,2,2,3,0,0,0,Needs Improvement
+EMP-2196,40,Sales,Sales Executive,3,Business,11662.46,13,0,0,17,3,9,11.0,Yes,3,3,3,1,2,0,0,Needs Improvement
+EMP-2197,36,Marketing,Digital Marketer,1,Marketing,8985.69,3,3,0,15,3,5,30.0,No,1,2,5,2,1,0,0,Needs Improvement
+EMP-2198,41,Sales,Sales Director,1,Computer Science,11129.55,6,5,4,17,4,7,38.0,No,3,3,5,24,3,0,0,Needs Improvement
+EMP-2199,38,Engineering,QA Engineer,2,Medical,11202.68,11,8,4,17,2,14,21.0,No,4,3,4,1,1,0,0,Needs Improvement
+EMP-2200,47,Research & Development,Laboratory Technician,3,Medical,16271.11,16,1,0,26,4,8,39.0,No,4,3,4,5,0,0,0,Needs Improvement
+EMP-2201,38,Operations,Logistics Coordinator,3,Life Sciences,11538.55,16,15,9,17,3,13,35.0,No,3,1,2,4,0,1,0,Needs Improvement
+EMP-2202,33,Research & Development,Research Scientist,3,Computer Science,7866.4,9,2,0,10,4,8,41.0,No,1,1,2,24,1,0,1,Needs Improvement
+EMP-2203,37,Operations,Operations Manager,3,Business,12139.28,13,9,8,16,2,8,19.0,No,3,2,3,7,1,0,0,Needs Improvement
+EMP-2204,41,Marketing,Marketing Specialist,2,Computer Science,11480.89,10,7,4,20,3,2,61.0,No,4,2,3,60,2,0,0,Needs Improvement
+EMP-2205,37,Engineering,Systems Architect,2,Technical Degree,9605.88,1,1,1,13,4,6,18.0,No,3,5,4,16,0,0,0,Needs Improvement
+EMP-2206,37,Research & Development,Research Scientist,1,Medical,8907.15,1,1,1,13,1,7,25.0,No,3,3,2,22,1,0,0,Needs Improvement
+EMP-2207,31,Engineering,Software Engineer,3,Business,8841.07,6,6,6,10,2,9,41.0,Yes,2,2,3,1,3,0,1,Needs Improvement
+EMP-2208,31,Research & Development,R&D Manager,4,Medical,8107.16,3,1,1,7,5,8,35.0,No,4,1,3,3,0,0,0,Strong Contributor
+EMP-2209,25,Engineering,Software Engineer,2,Computer Science,3293.07,1,0,0,1,3,8,45.0,No,2,3,3,1,0,0,0,Needs Improvement
+EMP-2210,50,Sales,Sales Representative,3,Business,15118.11,1,0,0,29,5,6,29.0,Yes,2,3,3,7,1,1,0,Strong Contributor
+EMP-2211,27,Operations,Logistics Coordinator,4,Life Sciences,8129.92,2,0,0,4,2,8,16.0,Yes,4,2,2,15,0,0,0,Needs Improvement
+EMP-2212,31,Engineering,QA Engineer,1,Computer Science,7985.92,3,0,0,10,3,7,12.0,No,5,4,5,2,1,0,0,Needs Improvement
+EMP-2213,31,Marketing,Marketing Specialist,3,Life Sciences,9378.37,1,1,1,7,4,5,58.0,Yes,3,4,3,1,1,1,0,Needs Improvement
+EMP-2214,44,Engineering,Software Engineer,3,Business,12046.07,5,5,3,21,3,8,29.0,No,3,2,3,11,3,0,0,Needs Improvement
+EMP-2215,34,Engineering,QA Engineer,3,Medical,9532.41,7,1,1,12,3,6,31.0,No,3,3,2,3,2,0,0,Needs Improvement
+EMP-2216,46,Marketing,Marketing Specialist,2,Technical Degree,14186.87,9,1,0,23,3,5,59.0,Yes,1,3,3,7,1,0,0,Needs Improvement
+EMP-2217,31,Research & Development,Research Scientist,3,Marketing,7150.76,7,1,0,7,4,13,27.0,No,2,3,2,1,0,1,0,Strong Contributor
+EMP-2218,39,Human Resources,HR Specialist,3,Medical,10643.17,14,9,3,16,3,10,34.0,No,3,4,2,13,0,0,0,Needs Improvement
+EMP-2219,30,Engineering,QA Engineer,1,Life Sciences,6955.99,4,4,4,9,3,4,19.0,Yes,2,2,2,9,2,0,1,Needs Improvement
+EMP-2220,54,Research & Development,Research Scientist,3,Computer Science,16759.19,19,17,5,32,2,6,15.0,Yes,4,3,1,12,1,0,0,Needs Improvement
+EMP-2221,27,Human Resources,HR Specialist,1,Business,6178.62,2,2,0,5,3,12,60.0,No,2,3,3,3,2,1,0,Needs Improvement
+EMP-2222,39,Research & Development,Research Scientist,3,Medical,9857.81,4,3,3,17,3,3,60.0,No,3,3,3,3,1,0,0,Needs Improvement
+EMP-2223,42,Sales,Sales Director,3,Technical Degree,13318.45,7,6,2,18,3,8,48.0,No,3,4,4,19,0,0,0,Needs Improvement
+EMP-2224,40,Operations,Operations Analyst,3,Business,10216.3,7,4,3,16,3,3,47.0,No,3,2,1,15,0,0,0,Needs Improvement
+EMP-2225,35,Research & Development,R&D Manager,2,Life Sciences,7434.55,7,1,1,13,1,7,44.0,Yes,3,2,1,10,0,0,1,Needs Improvement
+EMP-2226,35,Operations,Operations Manager,2,Business,8950.78,11,8,4,12,2,7,23.0,Yes,4,3,4,11,2,0,0,Needs Improvement
+EMP-2227,37,Human Resources,HR Specialist,1,Business,9160.34,7,6,6,15,3,11,38.0,Yes,3,2,2,1,1,0,1,Needs Improvement
+EMP-2228,35,Human Resources,HR Specialist,2,Computer Science,8799.82,6,2,0,12,3,6,26.0,No,4,1,1,23,0,0,0,Needs Improvement
+EMP-2229,44,Engineering,Systems Architect,2,Marketing,12661.32,7,2,0,21,4,9,0.0,No,3,3,2,17,1,0,0,Needs Improvement
+EMP-2230,54,Sales,Sales Director,3,Life Sciences,16980.36,10,2,0,30,3,6,49.0,No,2,2,4,10,2,0,0,Needs Improvement
+EMP-2231,32,Marketing,Marketing Specialist,1,Computer Science,8737.99,7,6,4,9,1,11,41.0,No,3,3,4,30,1,0,0,Needs Improvement
+EMP-2232,26,Engineering,Software Engineer,3,Marketing,5898.87,4,4,0,4,3,7,15.0,No,3,2,3,2,1,0,0,Needs Improvement
+EMP-2233,36,Engineering,Systems Architect,2,Computer Science,9656.86,7,1,0,12,2,5,28.0,No,4,1,3,13,0,0,0,Needs Improvement
+EMP-2234,57,Sales,Account Manager,3,Marketing,19318.04,9,5,4,36,4,8,48.0,No,4,3,3,39,2,0,0,Needs Improvement
+EMP-2235,30,Engineering,Engineering Lead,3,Marketing,6043.29,6,4,2,9,5,11,35.0,Yes,2,1,4,4,1,1,1,Strong Contributor
+EMP-2236,50,Operations,Operations Manager,3,Marketing,14130.13,16,11,3,26,3,4,10.0,No,1,5,1,1,2,0,0,Needs Improvement
+EMP-2237,50,Marketing,Digital Marketer,4,Computer Science,15081.72,3,3,3,28,3,5,17.0,No,3,3,4,15,2,0,0,Needs Improvement
+EMP-2238,32,Sales,Sales Director,2,Business,8983.1,3,0,0,11,3,12,60.0,No,5,3,2,1,2,1,0,Needs Improvement
+EMP-2239,41,Engineering,Engineering Lead,2,Marketing,12304.04,4,0,0,20,3,8,34.0,No,1,4,3,24,3,0,0,Needs Improvement
+EMP-2240,50,Research & Development,Research Scientist,2,Business,14982.13,25,18,15,27,4,10,48.0,No,3,2,2,1,1,1,0,Strong Contributor
+EMP-2241,33,Research & Development,Laboratory Technician,2,Life Sciences,7924.97,5,2,2,10,2,4,59.0,No,3,3,3,12,0,0,0,Needs Improvement
+EMP-2242,35,Operations,Logistics Coordinator,3,Technical Degree,9755.72,3,2,0,13,3,7,27.0,No,3,4,3,5,0,0,0,Needs Improvement
+EMP-2243,32,Research & Development,R&D Manager,2,Business,7414.28,1,1,1,8,3,5,38.0,No,2,2,3,2,0,0,1,Needs Improvement
+EMP-2244,28,Sales,Sales Executive,3,Technical Degree,6919.0,5,5,0,6,4,6,6.0,Yes,2,5,3,27,0,0,1,Needs Improvement
+EMP-2245,31,Sales,Account Manager,2,Marketing,7759.46,6,2,1,7,3,4,25.0,No,3,1,3,16,0,0,1,Needs Improvement
+EMP-2246,27,Operations,Operations Manager,4,Technical Degree,6917.3,6,1,0,6,5,4,42.0,No,1,2,4,4,1,1,0,Strong Contributor
+EMP-2247,37,Research & Development,R&D Manager,4,Technical Degree,10216.37,7,3,3,14,2,5,31.0,No,1,4,2,4,0,0,0,Needs Improvement
+EMP-2248,30,Research & Development,R&D Manager,2,Marketing,7549.19,6,6,0,8,3,12,40.0,No,1,2,3,15,1,0,1,Needs Improvement
+EMP-2249,38,Engineering,Systems Architect,1,Business,9548.86,1,1,1,16,4,8,47.0,No,3,3,2,21,2,0,0,Needs Improvement
+EMP-2250,24,Human Resources,HR Specialist,3,Marketing,4002.1,0,0,0,0,3,6,41.0,No,3,4,3,15,1,0,0,Needs Improvement
+EMP-2251,39,Human Resources,HR Specialist,4,Life Sciences,11778.73,14,11,8,15,3,7,38.0,No,3,5,3,12,3,0,0,Needs Improvement
+EMP-2252,43,Sales,Sales Representative,2,Medical,11864.94,10,10,4,21,2,7,36.0,Yes,3,3,3,3,0,0,0,Needs Improvement
+EMP-2253,21,Sales,Sales Representative,2,Computer Science,3639.75,0,0,0,0,2,7,26.0,No,2,5,3,22,1,0,0,Needs Improvement
+EMP-2254,39,Engineering,Systems Architect,4,Marketing,11903.06,13,0,0,17,2,8,21.0,No,3,3,3,16,0,0,0,Needs Improvement
+EMP-2255,46,Engineering,Software Engineer,3,Marketing,13316.08,4,2,1,24,5,5,52.0,No,2,2,3,8,1,1,0,Strong Contributor
+EMP-2256,27,Engineering,Engineering Lead,2,Technical Degree,6269.24,5,3,3,5,3,6,45.0,Yes,3,3,3,8,1,0,0,Needs Improvement
+EMP-2257,50,Engineering,Software Engineer,3,Life Sciences,15696.27,9,3,1,29,4,8,22.0,No,2,3,5,10,0,0,0,Needs Improvement
+EMP-2258,40,Research & Development,Laboratory Technician,4,Technical Degree,11218.68,7,4,3,16,3,5,34.0,No,5,3,3,21,0,0,0,Needs Improvement
+EMP-2259,31,Engineering,Engineering Lead,3,Business,,7,5,2,8,3,5,14.0,No,1,3,3,16,1,0,1,Needs Improvement
+EMP-2260,36,Engineering,Engineering Lead,3,Marketing,10836.05,2,0,0,13,3,8,27.0,No,5,3,4,23,2,0,0,Needs Improvement
+EMP-2261,41,Marketing,Brand Strategist,3,Marketing,11792.3,11,4,4,17,5,4,41.0,No,4,3,4,8,1,1,0,Strong Contributor
+EMP-2262,37,Research & Development,Research Scientist,2,Technical Degree,8561.72,15,9,1,15,4,6,37.0,No,3,5,3,11,0,0,0,Needs Improvement
+EMP-2263,41,Research & Development,R&D Manager,3,Marketing,12634.69,16,2,1,18,4,7,35.0,No,4,3,3,23,1,1,0,Needs Improvement
+EMP-2264,29,Sales,Account Manager,2,Business,7144.9,0,0,0,6,1,5,21.0,Yes,2,2,3,3,0,0,1,Needs Improvement
+EMP-2265,38,Research & Development,Research Scientist,4,Medical,11331.76,6,1,1,14,3,5,18.0,No,2,4,3,7,3,0,0,Needs Improvement
+EMP-2266,25,Engineering,Software Engineer,2,Computer Science,5959.12,2,2,0,2,3,4,47.0,No,2,3,3,11,2,0,0,Needs Improvement
+EMP-2267,36,Marketing,Brand Strategist,3,Computer Science,10333.53,14,2,2,14,5,9,57.0,No,2,4,5,29,0,1,0,Strong Contributor
+EMP-2268,29,Engineering,Systems Architect,2,Computer Science,6858.08,1,1,1,5,3,6,41.0,No,3,1,2,1,0,0,0,Needs Improvement
+EMP-2269,31,Research & Development,Research Scientist,3,Medical,8001.98,8,5,4,9,3,4,31.0,No,3,3,3,2,1,0,0,Needs Improvement
+EMP-2270,46,Sales,Sales Representative,1,Marketing,13302.82,22,12,9,23,3,7,51.0,No,1,1,4,3,0,0,1,Needs Improvement
+EMP-2271,45,Human Resources,Recruiter,3,Technical Degree,13556.3,9,6,5,22,3,10,22.0,No,3,1,2,4,3,0,0,Needs Improvement
+EMP-2272,41,Research & Development,R&D Manager,3,Life Sciences,10980.73,1,1,0,19,2,7,48.0,Yes,2,3,3,3,2,0,0,Needs Improvement
+EMP-2273,28,Sales,Sales Executive,3,Marketing,8592.75,0,0,0,7,4,9,25.0,Yes,3,3,4,10,0,0,1,Needs Improvement
+EMP-2274,34,Engineering,QA Engineer,3,Medical,9063.99,5,5,1,11,3,3,26.0,Yes,5,4,4,26,0,0,0,Needs Improvement
+EMP-2275,46,Research & Development,Research Scientist,1,Business,13058.69,12,5,5,25,4,7,29.0,Yes,3,3,3,12,2,0,0,Needs Improvement
+EMP-2276,38,Operations,Operations Analyst,4,Medical,10901.6,8,2,0,15,4,7,32.0,No,3,2,1,3,1,0,0,Needs Improvement
+EMP-2277,55,Marketing,Marketing Specialist,3,Computer Science,17587.57,17,12,0,34,3,15,46.0,Yes,3,3,2,23,1,1,0,Needs Improvement
+EMP-2278,40,Engineering,Engineering Lead,3,Marketing,12426.67,18,13,6,19,3,4,15.0,Yes,4,3,3,11,0,0,1,Needs Improvement
+EMP-2279,38,Sales,Sales Representative,3,Computer Science,10571.18,11,7,7,17,2,10,25.0,No,1,4,2,2,0,0,1,Needs Improvement
+EMP-2280,34,Operations,Operations Analyst,3,Life Sciences,8148.25,7,3,0,12,4,8,36.0,No,5,3,2,5,1,1,0,Needs Improvement
+EMP-2281,38,Sales,Sales Executive,2,Business,9901.98,16,7,7,17,3,9,41.0,Yes,3,2,4,18,1,0,1,Needs Improvement
+EMP-2282,35,Research & Development,R&D Manager,3,Computer Science,10663.55,14,4,4,14,3,11,10.0,Yes,3,3,4,16,0,0,0,Needs Improvement
+EMP-2283,42,Operations,Logistics Coordinator,3,Life Sciences,,9,8,2,21,3,3,22.0,Yes,5,3,4,10,0,0,0,Needs Improvement
+EMP-2284,44,Marketing,Digital Marketer,3,Medical,13981.87,14,8,8,21,3,10,9.0,No,5,3,2,1,1,0,0,Needs Improvement
+EMP-2285,30,Sales,Sales Representative,3,Computer Science,8361.58,6,0,0,9,3,13,24.0,No,3,4,2,19,1,0,0,Needs Improvement
+EMP-2286,26,Sales,Sales Director,1,Computer Science,5698.26,2,1,0,3,3,10,27.0,No,1,3,4,4,0,0,1,Needs Improvement
+EMP-2287,22,Sales,Sales Representative,2,Technical Degree,4156.47,0,0,0,1,4,4,41.0,Yes,4,3,4,17,1,0,0,Needs Improvement
+EMP-2288,41,Research & Development,Research Scientist,1,Business,11008.37,16,10,5,20,4,6,1.0,No,3,3,4,12,0,0,1,Needs Improvement
+EMP-2289,28,Engineering,Engineering Lead,1,Business,6088.57,0,0,0,6,3,6,43.0,No,3,1,5,3,0,0,1,Needs Improvement
+EMP-2290,21,Engineering,Software Engineer,3,Medical,4867.72,0,0,0,0,3,8,26.0,No,2,3,4,2,1,0,0,Needs Improvement
+EMP-2291,40,Sales,Account Manager,3,Technical Degree,12003.67,7,2,2,19,4,6,29.0,No,3,3,3,1,1,0,0,Needs Improvement
+EMP-2292,56,Engineering,Software Engineer,1,Life Sciences,15555.1,19,12,4,33,2,7,47.0,No,4,3,3,3,0,0,0,Needs Improvement
+EMP-2293,36,Research & Development,Laboratory Technician,2,Life Sciences,7912.99,9,1,0,13,4,6,52.0,Yes,2,3,3,2,0,1,1,Needs Improvement
+EMP-2294,43,Research & Development,Research Scientist,4,Medical,13387.91,17,14,2,19,3,8,,No,5,4,3,11,0,0,0,Needs Improvement
+EMP-2295,37,Sales,Sales Representative,3,Business,11167.33,12,0,0,15,3,8,24.0,Yes,2,1,3,10,2,0,0,Needs Improvement
+EMP-2296,36,Sales,Sales Director,3,Life Sciences,9767.52,8,4,2,14,3,10,29.0,Yes,1,2,4,10,0,1,1,Needs Improvement
+EMP-2297,44,Operations,Operations Analyst,3,Medical,13701.0,11,8,5,22,3,5,24.0,No,3,4,2,12,0,0,0,Needs Improvement
+EMP-2298,34,Engineering,Systems Architect,3,Life Sciences,8650.2,5,2,2,10,4,10,13.0,No,4,4,4,20,0,1,0,Needs Improvement
+EMP-2299,39,Human Resources,Recruiter,2,Marketing,11095.55,2,0,0,15,2,3,33.0,No,5,3,1,29,1,0,0,Needs Improvement
+EMP-2300,39,Operations,Operations Analyst,2,Computer Science,9678.97,6,3,1,17,3,8,24.0,Yes,4,4,3,3,2,0,0,Needs Improvement
+EMP-2301,31,Sales,Sales Representative,2,Business,6945.95,0,0,0,7,3,5,35.0,Yes,2,2,4,10,0,0,1,Needs Improvement
+EMP-2302,44,Research & Development,Research Scientist,2,Marketing,11814.11,2,1,1,20,4,11,57.0,Yes,5,2,2,1,1,1,0,Strong Contributor
+EMP-2303,35,Operations,Operations Analyst,4,Medical,9925.0,1,1,1,11,3,5,32.0,No,4,4,3,1,0,0,0,Needs Improvement
+EMP-2304,30,Engineering,Engineering Lead,3,Medical,9423.42,6,2,0,8,4,13,23.0,No,2,4,2,12,1,1,0,Strong Contributor
+EMP-2305,41,Research & Development,R&D Manager,2,Marketing,11508.65,6,6,6,19,3,10,30.0,No,3,2,4,7,0,0,0,Needs Improvement
+EMP-2306,29,Sales,Account Manager,2,Computer Science,7728.82,3,3,3,7,2,7,35.0,Yes,3,1,4,17,0,0,1,Needs Improvement
+EMP-2307,37,Engineering,QA Engineer,2,Computer Science,9206.97,10,2,1,13,4,4,31.0,Yes,3,1,5,6,0,1,1,Needs Improvement
+EMP-2308,36,Marketing,Brand Strategist,3,Technical Degree,11283.82,8,6,3,14,2,3,26.0,No,5,2,4,1,2,0,0,Needs Improvement
+EMP-2309,45,Marketing,Brand Strategist,3,Life Sciences,13657.56,7,1,0,21,3,5,10.0,No,1,4,4,24,1,0,0,Needs Improvement
+EMP-2310,40,Human Resources,Recruiter,2,Technical Degree,11320.02,12,3,2,19,2,5,42.0,No,3,3,2,1,1,0,0,Needs Improvement
+EMP-2311,36,Engineering,Software Engineer,1,Computer Science,7995.23,12,10,8,12,3,5,21.0,No,2,3,3,2,0,0,0,Needs Improvement
+EMP-2312,43,Engineering,Engineering Lead,3,Marketing,13038.26,16,5,4,20,3,8,54.0,No,3,3,3,3,0,0,0,Needs Improvement
+EMP-2313,48,Research & Development,Research Scientist,3,Life Sciences,14290.13,16,8,4,26,3,11,,Yes,4,4,3,60,1,0,1,Needs Improvement
+EMP-2314,41,Engineering,Engineering Lead,2,Marketing,11791.57,4,4,1,19,3,8,26.0,No,2,1,4,6,2,0,0,Needs Improvement
+EMP-2315,37,Research & Development,Research Scientist,3,Technical Degree,9999.78,5,4,2,14,3,3,27.0,No,3,3,2,8,3,0,0,Needs Improvement
+EMP-2316,26,Research & Development,R&D Manager,3,Medical,6091.29,2,0,0,2,3,10,36.0,Yes,5,4,2,17,1,0,0,Needs Improvement
+EMP-2317,28,Research & Development,R&D Manager,2,Marketing,6915.08,4,4,2,7,3,8,21.0,No,4,2,3,12,0,0,0,Needs Improvement
+EMP-2318,34,Research & Development,R&D Manager,2,Technical Degree,7956.68,8,7,5,11,5,11,24.0,Yes,3,4,2,22,1,1,0,Strong Contributor
+EMP-2319,32,Sales,Sales Representative,2,Technical Degree,8814.78,9,0,0,9,4,6,42.0,No,2,3,3,7,0,1,0,Needs Improvement
+EMP-2320,35,Engineering,DevOps Engineer,3,Technical Degree,9395.6,5,3,2,11,2,7,19.0,Yes,3,1,3,42,1,0,1,Needs Improvement
+EMP-2321,37,Sales,Sales Representative,4,Medical,11251.77,3,0,0,15,1,6,41.0,Yes,4,2,4,19,0,0,0,Needs Improvement
+EMP-2322,41,Research & Development,R&D Manager,3,Medical,11837.99,6,5,0,17,5,4,45.0,No,4,3,1,6,0,1,0,Strong Contributor
+EMP-2323,36,Research & Development,R&D Manager,3,Medical,8435.93,7,4,1,13,3,5,43.0,No,2,3,5,5,0,0,1,Needs Improvement
+EMP-2324,40,Human Resources,HR Specialist,3,Life Sciences,13341.17,12,11,8,17,3,9,37.0,No,3,3,1,31,1,0,0,Needs Improvement
+EMP-2325,37,Human Resources,Recruiter,3,Medical,10722.22,15,0,0,15,4,7,8.0,No,1,2,3,13,1,0,1,Needs Improvement
+EMP-2326,21,Operations,Operations Manager,4,Medical,3833.14,0,0,0,0,3,3,17.0,Yes,1,3,3,11,2,0,1,Needs Improvement
+EMP-2327,29,Engineering,Systems Architect,2,Medical,8137.39,2,0,0,7,3,7,15.0,No,3,2,1,17,2,0,0,Needs Improvement
+EMP-2328,35,Engineering,QA Engineer,3,Marketing,8503.75,5,1,1,11,5,9,28.0,Yes,2,3,2,9,3,1,0,Strong Contributor
+EMP-2329,27,Sales,Sales Representative,3,Medical,7839.34,5,0,0,5,3,12,34.0,No,1,3,1,2,0,0,0,Needs Improvement
+EMP-2330,41,Human Resources,HR Specialist,3,Life Sciences,,2,1,1,18,2,4,17.0,No,4,3,3,4,1,0,0,Needs Improvement
+EMP-2331,49,Sales,Sales Director,2,Technical Degree,12866.63,2,1,0,26,2,6,31.0,No,3,1,4,9,1,0,0,Needs Improvement
+EMP-2332,46,Marketing,Brand Strategist,3,Marketing,14735.14,12,8,8,25,3,3,43.0,No,4,2,3,1,2,0,0,Needs Improvement
+EMP-2333,35,Research & Development,Research Scientist,3,Computer Science,9348.94,5,5,4,11,4,6,20.0,Yes,3,2,3,6,0,0,1,Needs Improvement
+EMP-2334,48,Operations,Operations Analyst,2,Medical,15696.59,1,0,0,27,3,5,22.0,No,4,2,3,16,0,0,0,Needs Improvement
+EMP-2335,38,Operations,Logistics Coordinator,3,Technical Degree,11169.95,15,8,1,15,1,7,50.0,No,3,2,1,2,0,0,0,Needs Improvement
+EMP-2336,34,Engineering,DevOps Engineer,2,Technical Degree,8224.53,5,4,3,13,5,6,21.0,No,2,3,1,1,3,0,0,Strong Contributor
+EMP-2337,32,Sales,Sales Executive,4,Marketing,9922.04,5,5,1,9,2,7,38.0,Yes,3,3,4,21,2,0,0,Needs Improvement
+EMP-2338,34,Research & Development,R&D Manager,3,Computer Science,9567.34,7,5,3,13,1,6,51.0,No,2,3,2,11,0,0,0,Needs Improvement
+EMP-2339,33,Engineering,QA Engineer,3,Business,10728.24,6,4,3,11,3,11,17.0,Yes,4,3,5,2,2,0,0,Needs Improvement
+EMP-2340,38,Sales,Sales Representative,1,Life Sciences,9940.7,7,2,0,17,3,8,18.0,No,3,1,2,19,0,0,0,Needs Improvement
+EMP-2341,38,Research & Development,R&D Manager,2,Business,10289.84,5,5,1,16,3,11,30.0,No,2,5,3,12,0,0,0,Needs Improvement
+EMP-2342,37,Engineering,Software Engineer,3,Technical Degree,9960.27,13,1,1,15,5,8,34.0,Yes,3,2,5,4,1,1,0,Strong Contributor
+EMP-2343,40,Research & Development,Research Scientist,2,Business,10031.26,2,2,0,16,4,4,25.0,No,5,3,3,5,0,0,0,Needs Improvement
+EMP-2344,46,Research & Development,R&D Manager,3,Technical Degree,13433.35,9,6,6,24,3,6,61.0,No,1,4,4,2,0,0,0,Needs Improvement
+EMP-2345,44,Engineering,QA Engineer,1,Business,13218.8,2,0,0,22,3,6,41.0,No,2,3,3,21,2,0,0,Needs Improvement
+EMP-2346,25,Sales,Sales Executive,3,Technical Degree,5321.64,2,2,1,4,3,8,22.0,Yes,4,2,3,8,1,0,0,Needs Improvement
+EMP-2347,21,Engineering,Systems Architect,3,Technical Degree,5724.12,0,0,0,0,3,9,14.0,No,2,3,2,9,3,0,0,Needs Improvement
+EMP-2348,44,Human Resources,HR Specialist,2,Marketing,12745.79,11,0,0,20,2,5,33.0,No,1,1,4,25,0,0,1,Needs Improvement
+EMP-2349,26,Engineering,DevOps Engineer,3,Computer Science,7759.79,0,0,0,4,5,8,40.0,No,3,3,2,1,0,0,0,Strong Contributor
+EMP-2350,35,Marketing,Marketing Specialist,3,Technical Degree,9219.39,10,7,0,11,2,3,59.0,Yes,3,3,3,1,0,0,1,Needs Improvement
+EMP-2351,27,Sales,Sales Executive,3,Life Sciences,6355.98,6,2,2,6,2,5,35.0,Yes,3,3,5,2,2,0,0,Needs Improvement
+EMP-2352,22,Engineering,Engineering Lead,2,Life Sciences,4245.42,0,0,0,0,3,9,30.0,No,3,1,3,1,0,0,0,Needs Improvement
+EMP-2353,41,Sales,Sales Executive,3,Medical,13135.23,4,1,0,20,3,6,20.0,No,4,4,3,12,0,0,0,Needs Improvement
+EMP-2354,43,Sales,Account Manager,2,Technical Degree,11696.26,19,16,2,19,1,15,39.0,Yes,4,3,5,12,0,0,0,Needs Improvement
+EMP-2355,32,Sales,Sales Representative,2,Technical Degree,8910.05,8,3,1,11,2,9,48.0,No,5,2,3,2,2,0,0,Needs Improvement
+EMP-2356,21,Research & Development,R&D Manager,2,Technical Degree,5628.76,0,0,0,0,3,6,8.0,Yes,3,3,3,1,0,0,1,Needs Improvement
+EMP-2357,32,Research & Development,Laboratory Technician,3,Business,9703.8,8,7,1,11,3,7,35.0,No,1,3,4,1,0,0,1,Needs Improvement
+EMP-2358,40,Engineering,DevOps Engineer,1,Technical Degree,10058.6,6,4,1,16,3,8,19.0,No,5,3,3,36,1,0,0,Needs Improvement
+EMP-2359,25,Engineering,DevOps Engineer,4,Technical Degree,4700.07,2,2,0,2,3,3,14.0,Yes,1,2,2,14,0,0,1,Needs Improvement
+EMP-2360,38,Human Resources,HR Manager,2,Life Sciences,10154.53,3,1,1,17,3,8,57.0,Yes,4,1,3,10,0,1,1,Needs Improvement
+EMP-2361,36,Research & Development,R&D Manager,2,Computer Science,9735.79,12,0,0,15,4,7,46.0,Yes,1,4,3,4,0,0,1,Needs Improvement
+EMP-2362,41,Sales,Account Manager,2,Computer Science,,12,3,1,18,3,8,25.0,Yes,4,2,1,6,2,0,0,Needs Improvement
+EMP-2363,37,Marketing,Brand Strategist,2,Medical,8721.66,14,8,6,14,2,4,31.0,Yes,5,2,3,1,0,0,1,Needs Improvement
+EMP-2364,29,Sales,Sales Representative,3,Life Sciences,7798.39,1,0,0,8,3,5,29.0,No,3,4,3,60,0,0,0,Needs Improvement
+EMP-2365,46,Human Resources,HR Manager,2,Technical Degree,13044.85,16,16,3,23,4,4,18.0,No,2,3,2,16,0,0,0,Needs Improvement
+EMP-2366,35,Sales,Sales Representative,2,Computer Science,9795.23,3,3,0,13,2,7,26.0,No,2,3,3,11,3,0,0,Needs Improvement
+EMP-2367,36,Engineering,Software Engineer,2,Marketing,8775.24,3,1,0,12,3,4,44.0,No,3,3,3,10,0,0,0,Needs Improvement
+EMP-2368,29,Operations,Operations Analyst,2,Marketing,6523.24,4,2,0,5,1,8,26.0,No,2,3,3,8,2,0,0,Needs Improvement
+EMP-2369,33,Sales,Sales Executive,1,Marketing,6843.99,0,0,0,9,1,9,40.0,No,3,3,3,3,2,0,0,Needs Improvement
+EMP-2370,29,Human Resources,Recruiter,3,Technical Degree,7697.81,5,1,1,7,3,6,26.0,Yes,3,5,2,3,0,0,0,Needs Improvement
+EMP-2371,35,Engineering,DevOps Engineer,3,Technical Degree,9965.88,3,0,0,12,3,9,17.0,No,3,2,2,9,0,0,0,Needs Improvement
+EMP-2372,50,Research & Development,Laboratory Technician,3,Medical,16585.37,0,0,0,27,4,6,50.0,Yes,3,2,2,1,1,0,0,Needs Improvement
+EMP-2373,26,Marketing,Brand Strategist,3,Medical,6436.82,0,0,0,5,3,6,4.0,No,3,1,1,1,1,0,1,Needs Improvement
+EMP-2374,24,Engineering,Systems Architect,3,Medical,5509.76,0,0,0,1,3,10,58.0,No,2,3,3,9,2,1,0,Needs Improvement
+EMP-2375,48,Marketing,Digital Marketer,4,Business,16642.21,12,1,0,27,3,6,47.0,No,4,3,3,30,2,0,0,Needs Improvement
+EMP-2376,35,Research & Development,Research Scientist,1,Marketing,7444.37,0,0,0,13,3,4,36.0,No,4,2,2,29,0,0,0,Needs Improvement
+EMP-2377,31,Research & Development,R&D Manager,1,Technical Degree,8258.04,7,4,1,7,1,10,27.0,No,2,3,3,1,1,0,0,Needs Improvement
+EMP-2378,45,Research & Development,R&D Manager,2,Marketing,13441.13,7,2,0,21,4,6,28.0,No,2,2,5,1,0,0,1,Needs Improvement
+EMP-2379,32,Marketing,Brand Strategist,2,Medical,5899.66,1,0,0,8,5,6,36.0,No,4,3,1,10,1,1,0,Strong Contributor
+EMP-2380,51,Engineering,Systems Architect,2,Technical Degree,15374.24,26,18,7,28,2,5,36.0,No,2,5,3,22,1,0,0,Needs Improvement
+EMP-2381,42,Engineering,Systems Architect,3,Life Sciences,12471.99,12,8,6,21,2,5,20.0,Yes,1,3,4,37,0,0,1,Needs Improvement
+EMP-2382,33,Marketing,Marketing Specialist,2,Computer Science,8602.39,6,5,5,12,2,6,34.0,Yes,3,1,1,23,0,0,1,Needs Improvement
+EMP-2383,54,Human Resources,HR Specialist,4,Computer Science,18075.45,7,2,2,32,3,7,37.0,No,2,2,4,13,0,0,0,Needs Improvement
+EMP-2384,32,Engineering,Engineering Lead,2,Medical,8765.36,7,0,0,9,3,12,29.0,No,2,1,5,2,1,0,0,Needs Improvement
+EMP-2385,42,Sales,Sales Representative,2,Marketing,11580.71,14,0,0,20,4,2,65.0,Yes,5,3,2,1,2,1,0,Needs Improvement
+EMP-2386,39,Research & Development,Laboratory Technician,4,Life Sciences,12032.8,12,9,7,18,4,4,32.0,No,3,3,4,1,1,0,0,Needs Improvement
+EMP-2387,47,Sales,Sales Director,3,Technical Degree,15214.95,6,2,2,26,3,8,9.0,No,4,5,3,11,1,0,0,Needs Improvement
+EMP-2388,49,Engineering,QA Engineer,2,Marketing,14414.76,4,0,0,25,3,4,19.0,Yes,2,3,2,1,0,0,0,Needs Improvement
+EMP-2389,37,Research & Development,Research Scientist,3,Medical,9413.58,0,0,0,14,3,9,43.0,No,4,3,3,16,0,0,0,Needs Improvement
+EMP-2390,30,Engineering,Engineering Lead,3,Marketing,9971.31,8,1,0,9,3,15,23.0,No,3,4,1,14,0,0,0,Needs Improvement
+EMP-2391,40,Human Resources,Recruiter,2,Medical,9901.02,15,15,1,16,3,9,20.0,No,1,3,3,1,0,0,0,Needs Improvement
+EMP-2392,31,Marketing,Brand Strategist,2,Business,8308.21,6,3,2,8,3,6,53.0,Yes,4,2,1,28,1,1,0,Needs Improvement
+EMP-2393,53,Sales,Sales Director,3,Computer Science,17186.53,1,1,1,31,3,5,36.0,No,4,3,4,8,2,0,0,Needs Improvement
+EMP-2394,38,Engineering,QA Engineer,3,Computer Science,11245.69,5,1,0,15,3,3,,No,2,3,3,28,1,0,1,Needs Improvement
+EMP-2395,34,Engineering,Software Engineer,2,Marketing,8018.44,1,1,1,11,3,11,0.0,Yes,4,3,3,27,1,0,0,Needs Improvement
+EMP-2396,38,Sales,Sales Representative,3,Life Sciences,9908.53,16,12,9,17,4,6,42.0,No,3,2,2,2,0,0,0,Needs Improvement
+EMP-2397,26,Research & Development,R&D Manager,2,Technical Degree,6280.74,5,5,0,5,3,8,34.0,Yes,4,2,3,5,0,0,1,Needs Improvement
+EMP-2398,29,Sales,Sales Representative,3,Medical,7264.45,6,4,4,6,3,4,52.0,Yes,4,2,2,1,0,0,1,Needs Improvement
+EMP-2399,46,Research & Development,Laboratory Technician,2,Technical Degree,13037.78,12,9,3,25,3,13,18.0,No,1,1,4,17,1,0,1,Needs Improvement
+EMP-2400,31,Sales,Sales Director,3,Computer Science,9626.15,1,1,1,10,3,6,28.0,Yes,2,4,2,8,1,0,0,Needs Improvement
+EMP-2401,28,Sales,Sales Representative,3,Life Sciences,7613.62,4,0,0,7,3,8,38.0,No,3,3,3,31,0,0,0,Needs Improvement
+EMP-2402,41,Engineering,Software Engineer,2,Life Sciences,10131.83,13,10,3,17,1,12,51.0,No,5,3,2,2,1,0,0,Needs Improvement
+EMP-2403,46,Engineering,Systems Architect,2,Technical Degree,13286.56,17,6,2,22,3,4,37.0,No,3,3,3,13,1,0,0,Needs Improvement
+EMP-2404,42,Engineering,Systems Architect,3,Computer Science,12770.46,12,9,5,19,3,7,24.0,Yes,3,3,3,54,0,0,1,Needs Improvement
+EMP-2405,44,Sales,Sales Director,4,Technical Degree,13695.29,10,9,0,23,5,5,52.0,No,1,5,3,13,1,1,0,Strong Contributor
+EMP-2406,30,Marketing,Digital Marketer,2,Marketing,7790.05,4,0,0,6,3,4,29.0,No,4,3,3,1,2,0,0,Needs Improvement
+EMP-2407,25,Human Resources,Recruiter,2,Life Sciences,7178.92,1,1,1,2,3,14,36.0,Yes,3,3,3,10,0,1,0,Needs Improvement
+EMP-2408,49,Engineering,Engineering Lead,3,Life Sciences,14658.97,20,17,17,28,3,7,44.0,No,4,3,4,2,1,0,0,Needs Improvement
+EMP-2409,34,Engineering,Engineering Lead,3,Marketing,9394.68,6,3,0,12,2,6,55.0,No,4,4,4,1,0,0,0,Needs Improvement
+EMP-2410,34,Engineering,Systems Architect,1,Computer Science,9043.31,0,0,0,13,4,9,39.0,No,2,4,3,4,2,0,0,Needs Improvement
+EMP-2411,47,Sales,Sales Representative,3,Life Sciences,16932.23,7,7,1,26,3,6,70.0,Yes,2,4,4,3,2,0,0,Needs Improvement
+EMP-2412,41,Sales,Sales Representative,3,Business,10799.6,14,3,2,17,3,4,32.0,No,5,1,4,18,1,0,0,Needs Improvement
+EMP-2413,40,Sales,Sales Director,2,Business,10014.37,8,8,0,17,3,9,38.0,Yes,2,2,3,5,0,0,1,Needs Improvement
+EMP-2414,54,Engineering,DevOps Engineer,2,Business,15328.22,19,14,11,31,3,5,25.0,No,4,2,1,15,0,0,0,Needs Improvement
+EMP-2415,31,Engineering,Engineering Lead,2,Medical,8159.28,1,1,0,7,4,5,38.0,No,4,3,3,1,0,0,0,Needs Improvement
+EMP-2416,44,Engineering,Systems Architect,3,Medical,13102.95,11,7,4,23,3,7,38.0,Yes,3,3,3,1,0,0,0,Needs Improvement
+EMP-2417,37,Engineering,QA Engineer,3,Computer Science,9934.88,14,8,7,15,3,10,,No,2,2,3,1,1,1,1,Needs Improvement
+EMP-2418,39,Research & Development,Laboratory Technician,3,Marketing,12047.87,0,0,0,18,4,7,40.0,No,2,3,3,2,0,0,1,Needs Improvement
+EMP-2419,49,Engineering,Software Engineer,2,Technical Degree,15317.4,24,12,3,28,4,3,26.0,No,3,2,3,5,0,0,0,Needs Improvement
+EMP-2420,41,Sales,Account Manager,2,Computer Science,48500.0,19,8,6,19,2,5,37.0,Yes,2,4,3,11,1,0,0,Needs Improvement
+EMP-2421,41,Research & Development,Research Scientist,3,Technical Degree,11542.73,8,3,1,17,1,3,24.0,No,3,2,3,51,1,0,0,Needs Improvement
+EMP-2422,45,Marketing,Marketing Specialist,2,Computer Science,12984.04,21,16,14,22,2,12,41.0,No,3,3,2,5,0,0,0,Needs Improvement
+EMP-2423,34,Marketing,Brand Strategist,3,Medical,8705.26,0,0,0,10,3,9,26.0,No,3,3,2,1,1,0,0,Needs Improvement
+EMP-2424,30,Human Resources,Recruiter,3,Business,6106.12,3,3,2,6,5,4,14.0,Yes,3,3,3,2,3,0,0,Needs Improvement
+EMP-2425,28,Engineering,Software Engineer,2,Marketing,6880.36,2,2,0,7,3,14,18.0,No,5,1,3,27,0,0,0,Needs Improvement
+EMP-2426,21,Research & Development,Research Scientist,2,Medical,4456.55,0,0,0,0,3,8,17.0,No,3,4,4,14,1,0,0,Needs Improvement
+EMP-2427,53,Human Resources,HR Specialist,2,Marketing,15400.56,10,2,0,30,4,10,,No,3,3,2,18,1,1,0,Needs Improvement
+EMP-2428,28,Engineering,DevOps Engineer,1,Technical Degree,3911.99,1,0,0,4,3,9,22.0,No,5,4,2,1,1,0,0,Needs Improvement
+EMP-2429,35,Research & Development,Research Scientist,3,Computer Science,8918.51,8,3,2,13,3,5,33.0,No,3,4,3,1,0,0,0,Needs Improvement
+EMP-2430,34,Marketing,Digital Marketer,2,Life Sciences,8164.56,0,0,0,10,5,12,28.0,No,5,3,3,1,0,1,0,Strong Contributor
+EMP-2431,39,Sales,Sales Director,1,Life Sciences,11099.48,12,4,0,17,4,3,,Yes,2,4,2,23,2,0,0,Needs Improvement
+EMP-2432,43,Engineering,Software Engineer,3,Marketing,14114.06,13,6,1,20,4,5,39.0,No,4,4,3,2,3,1,0,Needs Improvement
+EMP-2433,43,Engineering,Systems Architect,2,Business,11454.55,7,4,4,19,3,7,29.0,No,3,5,1,12,2,0,0,Needs Improvement
+EMP-2434,32,Sales,Sales Executive,3,Business,8534.81,7,3,0,11,4,6,51.0,Yes,4,4,1,8,3,0,0,Needs Improvement
+EMP-2435,35,Engineering,Software Engineer,2,Marketing,8244.74,10,1,0,11,2,7,21.0,No,4,4,2,9,1,0,0,Needs Improvement
+EMP-2436,39,Research & Development,Research Scientist,2,Medical,9538.23,11,1,1,16,3,9,48.0,No,2,3,3,2,2,0,0,Needs Improvement
+EMP-2437,35,Research & Development,Laboratory Technician,2,Life Sciences,10428.97,0,0,0,14,5,9,36.0,No,3,2,4,12,1,1,0,Strong Contributor
+EMP-2438,49,Engineering,Systems Architect,1,Medical,16363.85,10,3,0,28,3,2,28.0,No,4,4,2,1,2,0,0,Needs Improvement
+EMP-2439,40,Marketing,Digital Marketer,3,Technical Degree,11216.72,7,1,1,18,4,4,49.0,No,1,3,1,60,0,0,1,Needs Improvement
+EMP-2440,42,Sales,Sales Director,3,Life Sciences,11907.16,9,9,3,21,3,9,41.0,Yes,4,2,3,1,2,0,0,Needs Improvement
+EMP-2441,42,Engineering,Engineering Lead,2,Technical Degree,13285.83,18,8,3,21,1,10,18.0,Yes,2,3,4,1,0,0,0,Needs Improvement
+EMP-2442,46,Human Resources,HR Manager,2,Computer Science,13046.25,10,7,3,22,4,4,39.0,Yes,4,3,2,4,0,0,0,Needs Improvement
+EMP-2443,38,Human Resources,HR Manager,2,Medical,10401.44,6,2,2,15,2,9,39.0,Yes,2,3,3,21,1,0,0,Needs Improvement
+EMP-2444,26,Research & Development,Research Scientist,2,Marketing,7349.36,2,2,0,4,3,5,48.0,Yes,3,1,2,3,0,0,1,Needs Improvement
+EMP-2445,40,Marketing,Marketing Specialist,2,Life Sciences,9250.16,16,13,11,16,2,6,42.0,No,2,2,2,7,0,0,0,Needs Improvement
+EMP-2446,31,Human Resources,HR Manager,3,Medical,7545.03,0,0,0,10,5,11,43.0,No,2,3,3,1,3,1,0,Strong Contributor
+EMP-2447,32,Marketing,Marketing Specialist,3,Marketing,9034.46,9,8,6,11,3,8,27.0,No,3,3,5,1,1,0,0,Needs Improvement
+EMP-2448,41,Sales,Account Manager,2,Computer Science,11677.06,7,5,0,19,3,8,31.0,No,3,3,3,11,2,0,0,Needs Improvement
+EMP-2449,46,Human Resources,Recruiter,3,Life Sciences,13420.55,22,20,11,23,2,8,30.0,No,1,4,5,2,3,0,0,Needs Improvement
+EMP-2450,37,Operations,Operations Manager,3,Technical Degree,12914.68,7,2,0,15,5,2,11.0,Yes,4,4,3,14,0,1,0,Needs Improvement
+EMP-2451,39,Human Resources,HR Manager,2,Computer Science,9820.78,5,2,2,15,4,5,52.0,No,1,2,4,18,0,1,1,Needs Improvement
+EMP-2452,50,Engineering,Software Engineer,3,Business,15144.35,21,4,1,28,4,6,18.0,No,4,1,2,22,0,0,0,Needs Improvement
+EMP-2453,38,Sales,Sales Executive,3,Marketing,11571.91,17,9,1,17,3,10,37.0,No,3,3,2,1,1,0,0,Needs Improvement
+EMP-2454,57,Research & Development,R&D Manager,2,Life Sciences,17813.8,7,4,4,33,3,10,29.0,Yes,3,3,3,7,1,0,0,Needs Improvement
+EMP-2455,41,Engineering,Engineering Lead,4,Life Sciences,12547.12,8,3,2,20,2,3,30.0,Yes,2,2,3,35,1,0,1,Needs Improvement
+EMP-2456,22,Operations,Logistics Coordinator,2,Computer Science,4267.71,0,0,0,0,3,7,43.0,No,3,3,3,17,0,0,0,Needs Improvement
+EMP-2457,43,Engineering,Software Engineer,2,Life Sciences,13659.36,16,12,9,22,3,7,23.0,No,3,4,3,1,0,0,0,Needs Improvement
+EMP-2458,40,Engineering,Engineering Lead,3,Marketing,13169.33,2,0,0,19,5,8,40.0,No,2,5,3,8,1,1,0,Strong Contributor
+EMP-2459,47,Operations,Operations Analyst,2,Computer Science,14095.87,18,9,9,25,4,7,40.0,No,2,3,3,30,0,0,0,Needs Improvement
+EMP-2460,42,Sales,Account Manager,2,Technical Degree,14556.55,10,7,0,21,3,10,23.0,Yes,1,1,3,6,2,0,1,Needs Improvement
+EMP-2461,35,Engineering,QA Engineer,2,Computer Science,10362.59,7,0,0,11,2,7,,No,1,2,4,21,0,0,1,Needs Improvement
+EMP-2462,27,Research & Development,R&D Manager,3,Computer Science,4874.5,0,0,0,3,4,6,53.0,Yes,1,2,3,8,0,1,1,Needs Improvement
+EMP-2463,35,Research & Development,Laboratory Technician,3,Technical Degree,8037.23,4,3,0,12,2,7,62.0,Yes,2,2,3,1,0,0,1,Needs Improvement
+EMP-2464,30,Engineering,QA Engineer,3,Business,7996.14,2,2,2,6,2,6,,Yes,3,3,1,1,2,0,0,Needs Improvement
+EMP-2465,32,Operations,Operations Analyst,4,Marketing,10628.83,1,1,0,10,3,10,36.0,No,3,3,4,1,0,0,0,Needs Improvement
+EMP-2466,41,Research & Development,R&D Manager,2,Business,11037.72,7,5,1,18,3,7,37.0,Yes,3,2,3,2,0,0,1,Needs Improvement
+EMP-2467,50,Research & Development,Laboratory Technician,2,Business,13828.02,18,6,1,26,4,4,43.0,No,2,4,2,26,1,0,0,Needs Improvement
+EMP-2468,40,Research & Development,R&D Manager,3,Business,11101.74,6,6,1,18,3,7,58.0,No,3,3,2,12,2,0,0,Needs Improvement
+EMP-2469,27,Research & Development,Research Scientist,3,Medical,,3,0,0,3,2,5,40.0,No,3,3,2,16,2,0,0,Needs Improvement
+EMP-2470,40,Engineering,Engineering Lead,2,Business,11502.71,16,13,5,16,3,7,41.0,No,3,5,3,11,0,0,0,Needs Improvement
+EMP-2471,46,Engineering,Systems Architect,1,Medical,12956.83,5,1,0,25,4,7,18.0,Yes,4,3,3,5,1,0,0,Needs Improvement
+EMP-2472,32,Sales,Account Manager,3,Technical Degree,8311.62,2,2,2,8,3,8,62.0,Yes,3,4,2,2,0,1,0,Needs Improvement
+EMP-2473,35,Marketing,Brand Strategist,4,Marketing,8136.77,7,4,4,11,3,7,27.0,No,2,2,3,31,0,0,1,Needs Improvement
+EMP-2474,37,Engineering,DevOps Engineer,3,Business,11602.04,5,0,0,15,5,8,0.0,Yes,3,2,4,8,1,0,0,Strong Contributor
+EMP-2475,30,Research & Development,Research Scientist,2,Life Sciences,7969.0,1,0,0,8,5,6,2.0,No,2,3,1,7,0,0,0,Needs Improvement
+EMP-2476,42,Marketing,Digital Marketer,4,Technical Degree,12369.78,5,1,1,21,5,6,38.0,Yes,4,3,3,60,2,1,0,Strong Contributor
+EMP-2477,36,Engineering,QA Engineer,3,Medical,9793.13,6,3,0,12,4,4,16.0,No,4,2,3,5,3,0,0,Needs Improvement
+EMP-2478,40,Engineering,Engineering Lead,3,Marketing,12224.27,4,3,3,19,2,9,34.0,No,3,3,3,23,0,0,0,Needs Improvement
+EMP-2479,29,Sales,Sales Executive,3,Computer Science,6494.86,2,2,0,5,3,9,13.0,No,5,1,1,23,0,0,1,Needs Improvement
+EMP-2480,33,Research & Development,Research Scientist,3,Marketing,6187.37,3,0,0,10,3,10,38.0,No,3,3,2,3,1,0,0,Needs Improvement
+EMP-2481,42,Engineering,Software Engineer,4,Marketing,12225.7,3,0,0,19,3,4,41.0,No,3,3,1,1,1,0,0,Needs Improvement
+EMP-2482,34,Sales,Sales Representative,3,Business,10212.19,5,1,0,13,5,9,36.0,No,1,3,3,44,2,1,0,Strong Contributor
+EMP-2483,50,Research & Development,R&D Manager,3,Business,15526.29,25,24,13,29,4,8,24.0,No,3,3,3,6,2,0,0,Needs Improvement
+EMP-2484,33,Research & Development,Research Scientist,3,Medical,9360.47,0,0,0,12,4,4,46.0,No,4,5,2,1,1,0,0,Needs Improvement
+EMP-2485,38,Engineering,DevOps Engineer,2,Medical,11827.08,10,9,4,16,2,9,28.0,No,4,3,3,8,0,0,0,Needs Improvement
+EMP-2486,44,Sales,Sales Executive,3,Business,13290.24,3,2,1,22,4,3,31.0,No,3,5,3,11,2,0,0,Needs Improvement
+EMP-2487,25,Human Resources,Recruiter,3,Business,,1,1,0,3,4,4,26.0,No,3,1,4,17,0,0,1,Needs Improvement
+EMP-2488,22,Operations,Operations Manager,4,Life Sciences,5813.63,0,0,0,1,2,11,30.0,Yes,3,3,2,34,3,0,0,Needs Improvement
+EMP-2489,24,Marketing,Digital Marketer,2,Life Sciences,4489.45,0,0,0,0,4,8,60.0,No,4,3,3,29,0,1,0,Strong Contributor
+EMP-2490,47,Research & Development,Research Scientist,3,Technical Degree,13377.18,19,9,0,24,3,6,33.0,No,3,4,4,33,1,0,0,Needs Improvement
+EMP-2491,32,Sales,Sales Representative,2,Business,9241.27,9,6,0,11,2,5,16.0,No,3,4,4,1,0,0,0,Needs Improvement
+EMP-2492,57,Sales,Sales Director,3,Computer Science,16983.99,31,5,0,35,3,4,20.0,Yes,3,4,3,14,1,0,0,Needs Improvement
+EMP-2493,32,Engineering,Software Engineer,3,Life Sciences,8676.03,0,0,0,10,3,7,30.0,No,4,1,3,3,1,0,0,Needs Improvement
+EMP-2494,38,Engineering,DevOps Engineer,1,Medical,8933.62,8,2,0,17,2,10,22.0,No,4,4,4,2,1,0,0,Needs Improvement
+EMP-2495,49,Research & Development,R&D Manager,3,Marketing,15373.88,3,1,1,28,3,6,47.0,Yes,1,2,4,19,2,1,0,Needs Improvement
+EMP-2496,53,Engineering,Software Engineer,1,Technical Degree,16217.32,22,2,0,31,5,7,14.0,No,2,1,3,6,1,0,0,Strong Contributor
+EMP-2497,53,Engineering,Engineering Lead,1,Life Sciences,14674.49,27,17,7,29,3,11,32.0,No,4,2,1,29,0,1,0,Needs Improvement
+EMP-2498,46,Operations,Operations Analyst,3,Marketing,13921.95,13,10,5,24,4,5,48.0,Yes,4,3,1,1,2,1,0,Needs Improvement
+EMP-2499,45,Engineering,Systems Architect,2,Marketing,13164.99,18,4,2,23,3,8,25.0,No,3,3,3,19,2,0,0,Needs Improvement
+EMP-2500,41,Engineering,Engineering Lead,2,Life Sciences,12069.99,2,2,2,20,2,13,40.0,No,3,2,5,1,0,0,0,Needs Improvement
