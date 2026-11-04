@@ -23,17 +23,17 @@ class PipelineTrainer:
         self.random_state = random_state
         self.models = {
             "logistic_regression": LogisticRegression(
-                C=1.0, max_iter=1000, random_state=random_state, solver="lbfgs"
+                C=1.0, max_iter=500, random_state=random_state, solver="lbfgs"
             ),
             "random_forest": RandomForestClassifier(
-                n_estimators=100, max_depth=8, min_samples_split=4, random_state=random_state
+                n_estimators=45, max_depth=7, min_samples_split=4, random_state=random_state, n_jobs=-1
             ),
             "gradient_boosting": GradientBoostingClassifier(
-                n_estimators=100, learning_rate=0.08, max_depth=4, random_state=random_state
+                n_estimators=45, learning_rate=0.1, max_depth=3, random_state=random_state
             )
         }
         self.compensation_model = RandomForestRegressor(
-            n_estimators=80, max_depth=6, random_state=random_state
+            n_estimators=40, max_depth=5, random_state=random_state, n_jobs=-1
         )
         self.fitted_models = {}
         self.evaluation_results = {}
